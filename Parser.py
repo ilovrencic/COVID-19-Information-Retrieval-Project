@@ -5,8 +5,6 @@ import os
 
 BASE_URL = "./dataset/"
 #enum type of a dataset we will parsing
-#since everyones path to them is different, I advise you
-#to change this accordingly :)
 class Dataset(Enum):
 	BIORXIV = BASE_URL + "biorxiv_medrxiv100/"
 	COMMON = BASE_URL + "comm_use100/"
@@ -37,13 +35,13 @@ class Paper:
 		return paper
 
 #Parser class
-#It's used to parse dataset to manageable data 
+#It's used to parse dataset to manageable data
 class Parser:
 	def __init__(self, datasets = list()):
 		self.datasets = datasets # paths of datasets we want to parse
 		self.data_dicts = {} # data will be in dictonary combined into a text
 		self.json_dicts = {} # data will be in dictonary based on parts of paper (e.g. introduction,..)
-		
+
 	#returns a tuple with title, abstract, body and whole text
 	# (title, abstract, body , whole text)
 	def transformJsonToString(self,paper_dict):
@@ -76,7 +74,7 @@ class Parser:
 	def parse(self, parseByParts = False, indexByFile = False):
 		if len(self.datasets) == 0:
 			raise NoDatasetDefinedException
-		
+
 		for dataset in self.datasets:
 			data_dict = {}
 			json_dict = {}
@@ -137,7 +135,7 @@ class Parser:
 			dataset_dict[key] = bodies_dict
 		return dataset_dict
 
-				
+
 #example of usage
 def main():
 
