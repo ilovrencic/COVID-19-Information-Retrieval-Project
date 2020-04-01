@@ -20,18 +20,15 @@ class Paper:
 		self.title = title
 		self.abstract = abstract
 		self.body = body
+		self.whole_text = title+abstract+body
 
 	def __str__(self):
 		paper = ""
-		paper += '\033[1m'+"Title"+'\033[0m'+"\n" if self.title is not "" else ""
-		paper += self.title 
-		paper += "\n"+"\n" if self.title is not "" else ""
-		paper += '\033[1m'+"Abstract"+'\033[0m'+"\n" if self.abstract is not "" else ""
-		paper += self.abstract
-		paper += "\n"+"\n" if self.abstract is not "" else ""
-		paper += '\033[1m'+"Body"+'\033[0m'+"\n" if self.body is not "" else ""
-		paper += self.body
-		paper += "\n"+"\n" if self.body is not "" else ""
+
+		paper += addParagraph('Title', self.title)
+		paper += addParagraph('Abstract', self.abstract)
+		paper += addParagraph('Body', self.body)
+
 		return paper
 
 #Parser class
@@ -99,42 +96,46 @@ class Parser:
 			self.data_dicts[dataset] = data_dict
 			self.json_dicts[dataset] = json_dict
 
-	#returns a dictonary of titles
-	def titles(self):
+	#method for extracting certain part of papers into a dictonary
+	def getDictonary(self,filter):
 		dataset_dict = {}
 		for key in self.data_dicts.keys():
-			titles_dict = {}
+			texts_dict = {}
 			papers = self.data_dicts[key]
 			for id in papers.keys():
-				titles_dict[id] = Paper(title = papers[id].title)
+				if(filter == "title"):
+					texts_dict[id] = Paper(title = papers[id].title)
+				elif(filter == "abstract"):
+					texts_dict[id] = Paper(abstract = papers[id].abstract)
+				else:
+					texts_dict[id] = Paper(body = papers[id].body)
 
-			dataset_dict[key] = titles_dict
+			dataset_dict[key] = texts_dict
 		return dataset_dict
+
+	#returns a dictonary of titles
+	def titles(self):
+		return self.getDictonary("title")
 
 	#returns a dictonary of abstracts
 	def abstracts(self):
-		dataset_dict = {}
-		for key in self.data_dicts.keys():
-			abstracts_dict = {}
-			papers = self.data_dicts[key]
-			for id in papers.keys():
-				abstracts_dict[id] = Paper(abstract = papers[id].abstract)
-
-			dataset_dict[key] = abstracts_dict
-		return dataset_dict
+		return self.getDictonary("abstract")
 
 	#returns a dictonary of bodies
 	def bodies(self):
-		dataset_dict = {}
-		for key in self.data_dicts.keys():
-			bodies_dict = {}
-			papers = self.data_dicts[key]
-			for id in papers.keys():
-				bodies_dict[id] = Paper(body = papers[id].body)
+		return self.getDictonary("body")
 
-			dataset_dict[key] = bodies_dict
-		return dataset_dict
 
+#stylistic method for adding a paragraph
+def addParagraph(header,body):
+	if not body:
+		return ""
+
+	return bold(header) + "\n" + body + "\n\n"
+
+#text bolding for better output
+def bold(text):
+	return '\033[1m' + text + '\033[0m'
 
 #example of usage
 def main():
@@ -149,7 +150,7 @@ def main():
 
 
 	#Example of printing all the abstracts inside of parsed dataset
-	abstracts = p.abstracts()
+	abstracts = p.bodies()
 	for abstracts in abstracts[Dataset.BIORXIV].values():
 		print(abstracts)
 
