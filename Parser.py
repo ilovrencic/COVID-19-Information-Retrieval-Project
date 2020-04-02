@@ -25,16 +25,29 @@ class Paper:
 	def __str__(self):
 		paper = ""
 
-		paper += addParagraph('Title', self.title)
-		paper += addParagraph('Abstract', self.abstract)
-		paper += addParagraph('Body', self.body)
+		paper += Paper.addParagraph('Title', self.title)
+		paper += Paper.addParagraph('Abstract', self.abstract)
+		paper += Paper.addParagraph('Body', self.body)
 
 		return paper
+
+	#stylistic method for adding a paragraph
+	@staticmethod
+	def addParagraph(header,body):
+		if not body:
+			return ""
+
+		return Paper.bold(header) + "\n" + body + "\n\n"
+
+	#text bolding for better output
+	@staticmethod
+	def bold(text):
+		return '\033[1m' + text + '\033[0m'
 
 #Parser class
 #It's used to parse dataset to manageable data
 class Parser:
-	def __init__(self, datasets = list()):
+	def __init__(self, datasets = []):
 		self.datasets = datasets # paths of datasets we want to parse
 		self.data_dicts = {} # data will be in dictonary combined into a text
 		self.json_dicts = {} # data will be in dictonary based on parts of paper (e.g. introduction,..)
@@ -75,11 +88,9 @@ class Parser:
 		for dataset in self.datasets:
 			data_dict = {}
 			json_dict = {}
-			try:
-				files = [file for file in os.listdir(dataset.value) if file.endswith(".json")]
-			except Exception as e:
-				raise e
 
+			files = [file for file in os.listdir(dataset.value) if file.endswith(".json")]
+			
 			paper_index = 0
 			for file in files:
 				with open(dataset.value+file,"r") as paper:
@@ -99,10 +110,10 @@ class Parser:
 	#method for extracting certain part of papers into a dictonary
 	def getDictonary(self,filter):
 		dataset_dict = {}
-		for key in self.data_dicts.keys():
+		for key in self.data_dicts:
 			texts_dict = {}
 			papers = self.data_dicts[key]
-			for id in papers.keys():
+			for id in papers:
 				if(filter == "title"):
 					texts_dict[id] = Paper(title = papers[id].title)
 				elif(filter == "abstract"):
@@ -124,18 +135,6 @@ class Parser:
 	#returns a dictonary of bodies
 	def bodies(self):
 		return self.getDictonary("body")
-
-
-#stylistic method for adding a paragraph
-def addParagraph(header,body):
-	if not body:
-		return ""
-
-	return bold(header) + "\n" + body + "\n\n"
-
-#text bolding for better output
-def bold(text):
-	return '\033[1m' + text + '\033[0m'
 
 #example of usage
 def main():
