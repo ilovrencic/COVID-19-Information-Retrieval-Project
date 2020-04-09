@@ -136,6 +136,21 @@ class Parser:
 	def bodies(self):
 		return self.getDictonary("body")
 
+	#returns a list of papers
+	def toList(self, dataset = None):
+		paper_values = []
+		if(dataset == None):
+			for data in self.data_dicts:
+				papers = self.data_dicts[data]
+				for id in papers:
+					paper_values.append(papers[id].whole_text)
+		else:
+			papers = self.data_dicts[dataset]
+			for id in papers:
+					paper_values.append(papers[id].whole_text)
+		return paper_values
+
+
 #example of usage
 def main():
 
