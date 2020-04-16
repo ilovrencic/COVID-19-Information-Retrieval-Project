@@ -1,9 +1,5 @@
 .ipynb_checkpoints/
-biorxiv_medrxiv/
-comm_use_subset/
-custom_license/
-noncomm_use_subset/
+data/
 COVID.DATA.LIC.AGMT.pdf
-metadata.*
 json_schema.txt
-GoogleNews-vectors-negative300.bin
+.DS_Store
