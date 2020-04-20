@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
+__pycache__/
 data/
+
 COVID.DATA.LIC.AGMT.pdf
 json_schema.txt
 .DS_Store
