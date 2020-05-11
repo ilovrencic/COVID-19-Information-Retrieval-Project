@@ -3,7 +3,7 @@ import json
 import os
 
 
-BASE_URL = "./dataset/"
+BASE_URL = "./data/dataset/"
 #enum type of a dataset we will parsing
 class Dataset(Enum):
 	BIORXIV = BASE_URL + "biorxiv_medrxiv100/"
