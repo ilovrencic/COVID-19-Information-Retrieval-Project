@@ -6,6 +6,7 @@ import os
 BASE_URL = "./data/dataset/"
 #enum type of a dataset we will parsing
 class Dataset(Enum):
+	ALL = BASE_URL + "biorxiv_medrxiv/"
 	BIORXIV = BASE_URL + "biorxiv_medrxiv100/"
 	COMMON = BASE_URL + "comm_use100/"
 	NONCOMMON = BASE_URL + "noncomm_use100/"
@@ -20,7 +21,7 @@ class Paper:
 		self.title = title
 		self.abstract = abstract
 		self.body = body
-		self.whole_text = title+abstract+body
+		self.whole_text = title+" "+abstract+" "+body
 
 	def __str__(self):
 		paper = ""
