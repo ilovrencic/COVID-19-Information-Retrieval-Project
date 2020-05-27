@@ -40,10 +40,10 @@ def build_dataset(path, target_dir):
     papers_sample = papers_rest_sample + papers_bio_sample
 
     target_dir = Path(target_dir)
-    target_dir.mkdir(exist_ok=True)
+    target_dir.mkdir()
 
     dataset_path = target_dir / 'dataset'
-    dataset_path.mkdir(exist_ok=True)
+    dataset_path.mkdir()
     
     paper_path = target_dir / 'papers.txt'
     table_path = target_dir / 'annotations.txt'

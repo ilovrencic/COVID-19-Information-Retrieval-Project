@@ -1,0 +1,2680 @@
+####################-15e842b8bf1a55c1df1c369a5f2bae55b3c98ae3-####################
+title: Characterisation and analysis of indoor tornado for contaminant
+removal and emergency ventilation
+abstract: As an essential emergency management strategy, innovative
+emergency ventilation schemes that can quickly remove infectious and
+fatal contaminants without further spreading are highly demanded for
+public and commercial buildings. This study numerically investigated a
+vortex flow driven ventilation in a model room to explore the dynamic
+characteristics and 3D visualisation of vortex-driven indoor tornados.
+Four approaches to identify the core region of the indoor tornado were
+developed and compared against each other. By successfully capturing
+the continuously changing centre of the vortex and significant core
+region size variations at different heights, the swirl vector method
+was recommended as a quantifiable approach to identify the core region
+of indoor tornados. The numerical outcomes also revealed a strong
+connection between the lift angle, vortex intensity, overall size of
+indoor tornado and maximum size of core region. The best contaminants
+control and removal was achieved at lift angle of 20°in this study and
+an optimum lift angle ranging from 10°to 20°was recommended for future
+study.
+
+####################-13f6bc615450f0470c2a265e0a2c8506f0b05048-####################
+title: Assessing microbial decontamination of indoor air with
+particular focus on human pathogenic viruses
+abstract: Airborne transmission of pathogens aerosol aging chamber
+bacteriophages air decontamination Transmission of bacterial, fungal,
+and viral pathogens is of primary importance in public and
+occupational health and infection control. Although several
+standardized protocols have been proposed to target microbes on
+fomites through surface decontamination, use of microbicidal agents,
+and cleaning processes, only limited guidance is available on
+microbial decontamination of indoor air to reduce the risk of pathogen
+transmission between individuals. This article reviews the salient
+aspects of airborne transmission of infectious agents, exposure
+assessment, in vitro assessment of microbicidal agents, and processes
+for air decontamination for infection prevention and control.
+Laboratory-scale testing (eg, rotating chambers, wind tunnels) and
+promising field-scale methodologies to decontaminate indoor air are
+also presented. The potential of bacteriophages as potential
+surrogates for the study of airborne human pathogenic viruses is also
+discussed.
+
+####################-ce660d55c0f3908969f3542d3c92887c32efb853-####################
+title: Formation of dioxins from triclosan with active chlorine: A
+potential risk assessment
+abstract: A B S T R A C T Triclosan, a widely used antimicrobial
+agent, can increase colitis-associated colon tumorigenesis, and induce
+liver fibrosis and cancer in mice through mechanisms which may be
+relevant in humans. In this study, an analytical method using gas
+chromatography-mass spectrometry (GC-MS) and high resolution gas
+chromatography-high resolution mass spectrometry (HRGC-HRMS) was
+developed to measure dioxins and chlorinated derivatives from
+triclosan in the presence of active chlorine in seawater matrix.
+Formation yields of dioxins and chlorinated triclosans were assessed
+at different initial precursor concentrations under dark and UV light
+irradiation conditions. Results showed that triclosan was rapidly
+transformed to its chlorinated derivatives, i.e. tetraclosans and
+pentaclosans, of which the formation yields peaked after 1 h of
+reaction. UV light was the key factor to promote the formation of
+dioxins. With the same initial triclosan/active chlorine ratio, the
+highest yield of dioxins was observed with lower initial
+concentrations of triclosan under UV irradiation. Five dioxins,
+including 2, 1, 2, 2, 3, 1, 2, 3, and 2, 3, 7, were identified and
+quantified. 2, 3, 7, , the most toxic dioxin, was firstly reported as
+the phototransformation product of triclosan in aquatic solution.
+Results presented here are useful for a comprehensive understanding of
+the fate and toxicity of triclosan in contaminated waters.
+
+####################-5c103d4a5653649f6940c918b784617148e66be3-####################
+title: Molecular characterization of low pathogenic avian influenza
+viruses, isolated from food products imported into Singapore
+abstract:
+
+####################-aae7699e079d2964df8078931cd0f94d4b1423d9-####################
+title: Amino Acid Similarity Accounts for T Cell Cross- Reactivity and
+for ''Holes'' in the T Cell Repertoire
+abstract: Background: Cytotoxic T cell (CTL) cross-reactivity is
+believed to play a pivotal role in generating immune responses but the
+extent and mechanisms of CTL cross-reactivity remain largely unknown.
+Several studies suggest that CTL clones can recognize highly diverse
+peptides, some sharing no obvious sequence identity. The emerging
+realization in the field is that T cell receptors (TcR) recognize
+multiple distinct ligands. Principal Findings: First, we analyzed
+peptide scans of the HIV epitope SLFNTVATL (SFL9) and found that TCR
+specificity is position dependent and that biochemically similar amino
+acid substitutions do not drastically affect recognition. Inspired by
+this, we developed a general model of TCR peptide recognition using
+amino acid similarity matrices and found that such a model was able to
+predict the cross-reactivity of a diverse set of CTL epitopes. With
+this model, we were able to demonstrate that seemingly distinct T cell
+epitopes, i.e., ones with low sequence identity, are in fact more
+biochemically similar than expected. Additionally, an analysis of HIV
+immunogenicity data with our model showed that CTLs have the tendency
+to respond mostly to peptides that do not resemble self-antigens.
+Conclusions: T cell cross-reactivity can thus, to an extent greater
+than earlier appreciated, be explained by amino acid similarity. The
+results presented in this paper will help resolving some of the long-
+lasting discussions in the field of T cell cross-reactivity.
+
+####################-f72975ffd96b7ab1528afbea8f2e885edff6ffe0-####################
+title: Cognitive-behavioral group program for Chinese heterosexual
+HIV-infected men in Hong Kong
+abstract: This study explored the effects of cognitive-behavioral
+program (CBP) using a wait-list control group in 16 Chinese
+heterosexual HIV-infected men. Participants in the treatment condition
+underwent a 7-week group based CBP, which addressed various HIV-
+related issues. Relevant cognitive and behavioral strategies were
+taught as well. The aim of treatment was to improve the quality of
+life and to reduce psychological distress in a sample of heterosexual
+symptomatic HIV-infected men. Prior to intervention, baseline measures
+showed that our sample had a lower quality of life in comparison with
+the local general population. They also experienced a significant
+level of psychological distress. Following intervention, men in the
+CBP group demonstrated significant improvement in the mental health
+dimension of quality of life and a significant reduction in depressed
+mood. These preliminary findings suggested that short-term cognitive-
+behavioral therapy can be effective in improving the quality of life
+and mood of Chinese heterosexual HIV-infected men.
+
+####################-bbb78eb1a08c9ac42c6ddd86d3e5bd1de1c0329b-####################
+title: Genome Organization of the SARS-CoV
+abstract: Annotation of the genome sequence of the SARS-CoV (severe
+acute respiratory syndrome-associated coronavirus) is indispensable to
+understand its evolution and pathogenesis. We have performed a full
+annotation of the SARS-CoV genome sequences by using annotation
+programs publicly available or developed by ourselves. Totally, 21
+open reading frames (ORFs) of genes or putative uncharacterized
+proteins (PUPs) were predicted. Seven PUPs had not been reported
+previously, and two of them were predicted to contain transmembrane
+regions. Eight ORFs partially overlapped with or embedded into those
+of known genes, revealing that the SARS-CoV genome is a small and
+compact one with overlapped coding regions. The most striking
+discovery is that an ORF locates on the minus strand. We have also
+annotated non-coding regions and identified the transcription
+regulating sequences (TRS) in the intergenic regions. The analysis of
+TRS supports the minus strand extending transcription mechanism of
+coronavirus. The SNP analysis of different isolates reveals that
+mutations of the sequences do not affect the prediction results of
+ORFs.
+
+####################-9c5ee28376fc314e26bd3ea5f6dc7a5d356d9175-####################
+title:
+abstract: A B S T R A C T PCR diagnostics are often the first line of
+laboratory diagnostics and are regularly designed to either
+differentiate between or detect all pathogen variants of a family,
+genus or species. The ideal PCR test detects all variants of the
+target pathogen, including newly discovered and emerging variants,
+while closely related pathogens and their variants should not be
+detected. This is challenging as pathogens show a high degree of
+genetic variation due to genetic drift, adaptation and evolution.
+Therefore, frequent re-evaluation of PCR diagnostics is needed to
+monitor its usefulness. Validation of PCR diagnostics recognizes three
+stages, in silico, in vitro and in vivo validation. In vitro and in
+vivo testing are usually costly, labour intensive and imply a risk of
+handling dangerous pathogens. In silico validation reduces this
+burden. In silico validation checks primers and probes by comparing
+their sequences with available nucleotide sequences. In recent years
+the amount of available sequences has dramatically increased by high
+throughput and deep sequencing projects. This makes in silico
+validation more informative, but also more computing intensive. To
+facilitate validation of PCR tests, a software tool named PCRv was
+developed. PCRv consists of a user friendly graphical user interface
+and coordinates the use of the software programs ClustalW and SSEARCH
+in order to perform in silico validation of PCR tests of different
+formats. Use of internal control sequences makes the analysis
+compliant to laboratory quality control systems. Finally, PCRv
+generates a validation report that includes an overview as well as a
+list of detailed results. In-house developed, published and OIE-
+recommended PCR tests were easily (re-) evaluated by use of PCRv. To
+demonstrate the power of PCRv, in silico validation of several PCR
+tests are shown and discussed.
+
+####################-d4a66045ac69eb03f800e41c3cb40572d974041a-####################
+title:
+abstract:
+
+####################-edb6c82007b0ae485698434032ead89735e131a8-####################
+title: Indications for permanent pacing in dogs and cats
+abstract: Pacemaker implantation is considered as a standard procedure
+for treatment of symptomatic bradycardia in both dogs and cats.
+Advanced second-degree and third-degree atrioventricular blocks, sick
+sinus syndrome, persistent atrial standstill, and vasovagal syncope
+are the most common rhythm disturbances that require pacing to either
+alleviate clinical signs or prolong survival. Most pacemakers are
+implanted transvenously, using endocardial leads, but rarely
+epicardial leads may be necessary. To decide whether a patient is a
+candidate for pacing, as well as which pacing modality should be used,
+the clinician must have a clear understanding of the etiology, the
+pathophysiology, and the natural history of the most common
+bradyarrhythmias, as well as what result can be achieved by pacing
+patients with different rhythm disturbances. The goal of this review
+was, therefore, to describe the indications for pacing by evaluating
+the available evidence in both human and veterinary medicine. We
+described the etiology of bradyarrhythmias, clinical signs and
+electrocardiographic abnormalities, and the choice of pacing modality,
+taking into account how different choices may have different
+physiological consequences to selected patients. It is expected that
+this review will assist veterinarians in recognizing arrhythmias that
+may require permanent pacing and the risk-benefit of each pacing
+modality and its impact on outcome. ª
+
+####################-d233d152df533dd90a4441a904c1652244ee5aaf-####################
+title: Clinical predictors of chest radiographic abnor malities in
+young children hospitalized with bronchiolitis: a single center study
+abstract: Purpose: Chest radiography is often performed on patients
+hospitalized with typical clinical manife stations of bronchiolitis.
+We aimed to determine the proportion of subjects with pathologic chest
+radio graphic findings and the clinical predictors associated with
+pathologic chest radiographic findings in young children admitted with
+the typical presentation of bronchiolitis. Methods: We obtained the
+following data at admission: sex, age, neonatal history, past history
+of hospitalization for respiratory illnesses, heart rate, respiratory
+rate, the presence of fever, total duration of fever, oxygen
+saturation, laboratory parameters (i.e., complete blood cell count,
+highsensitivity Creactive protein [hsCRP], etc.), and chest
+radiography. Results: The study comprised 279 young children. Of
+these, 26 had a chest radiograph revealing opacity (n=24) or
+atelectasis (n=2). Multivariate logistic regression analysis showed
+that after adjustment for confounding factors, the clinical predictors
+associated with pathologic chest radiographic findings in young
+children admitted with bronchiolitis were elevated hsCRP level (>0.3
+mg/dL) and past history of hospitalization for respiratory illnesses
+(all P<0.05). Conclusion: The current study suggests that chest
+radiographs in young children with typical clinical manifestations of
+bronchiolitis have limited value. Nonetheless, young children with
+clinical factors such as high hsCRP levels at admission or past
+history of hospitalization for respiratory illnesses may be more
+likely to have pathologic chest radiographic findings.
+
+####################-c200db5fc868348e58afcd523ccd85d87e246c26-####################
+title: The Alignment of the Physical and Genetical Maps of
+Bacteriophage T4 Morphological Aspects of Cell Transformation
+abstract: While T 4 wild-type DNA is not cleaved by restriction
+endonucleases, the DNA of a T4 mutant, in which 5'hydroxymethyl
+cytosine is replaced by cytosine (T4 dC-DNA), is digested by these
+enzymes. We have constructed physical maps of the celavage sites
+generated by the restriction endonucleases Smal/Xmal, Kpnl, SaU,
+BglII, Xhol and Xbal (1,2). These enzymes sub-divide T4 dC-DNA into 73
+defined fragments. The alignment of the physical and the genetical
+maps then was achieved with three sorts of experiments: a) the
+identification of some EcoRl restriction fragments on the T 4 physical
+map which are known to carry defined T 4 genes (3, 4) b) the
+localization of the T 4 rII region with the aid of two deletion
+mutants c) the hybridization of early and late mRNA to the T 4
+restriction fragments, which allows the identification of those
+restriction fragments carrying the early and the late regions.
+lInstitut fiir Virologie, FB Humanmedizin, Justus Neoplastic
+transformation of chicken embryo fibroblasts by Rous sarcoma virus is
+accompanied by a number of structural alterations to the cell surface
+and to the cytoskeleton. These changes are induced by a single viral
+gene, termed src, which is known to code for a phosphoprotein,
+pp60src. To study the dynamics of the morphological changes,
+fibroblasts were infected with the temperature sensitive,
+transformation defective mutant viruses, ts NY68 at the restrictive
+temperature and transformation was then in- The viral structural
+protein p15 carries a restrictive proteolytic activity which cannot be
+dissociated from the viral protein during ion exchange chromatography
+and size frac-
+
+####################-8c78151fa23bf78cc20b2e2c5c0b47d79d12a1a6-####################
+title: BMC Bioinformatics An effective docking strategy for virtual
+screening based on multi-objective optimization algorithm
+abstract: Background: Development of a fast and accurate scoring
+function in virtual screening remains a hot issue in current computer-
+aided drug research. Different scoring functions focus on diverse
+aspects of ligand binding, and no single scoring can satisfy the
+peculiarities of each target system. Therefore, the idea of a
+consensus score strategy was put forward. Integrating several scoring
+functions, consensus score re-assesses the docked conformations using
+a primary scoring function. However, it is not really robust and
+efficient from the perspective of optimization. Furthermore, to date,
+the majority of available methods are still based on single objective
+optimization design. Results: In this paper, two multi-objective
+optimization methods, called MOSFOM, were developed for virtual
+screening, which simultaneously consider both the energy score and the
+contact score. Results suggest that MOSFOM can effectively enhance
+enrichment and performance compared with a single score. For three
+different kinds of binding sites, MOSFOM displays an excellent ability
+to differentiate active compounds through energy and shape
+complementarity. EFMOGA performed particularly well in the top 2% of
+database for all three cases, whereas MOEA_Nrg and MOEA_Cnt performed
+better than the corresponding individual scoring functions if the
+appropriate type of binding site was selected. The multi-objective
+optimization method was successfully applied in virtual screening with
+two different scoring functions that can yield reasonable binding
+poses and can furthermore, be ranked with the potentially compromised
+conformations of each compound, abandoning those conformations that
+can not satisfy overall objective functions.
+
+####################-0e8773d0887abfa54cb1b618fcdf491e7a0a2c8a-####################
+title: A Scorpion Defensin BmKDfsin4 Inhibits Hepatitis B Virus
+Replication in Vitro
+abstract: Hepatitis B virus (HBV) infection is a major worldwide
+health problem which can cause acute and chronic hepatitis and can
+significantly increase the risk of liver cirrhosis and primary
+hepatocellular carcinoma (HCC). Nowadays, clinical therapies of HBV
+infection still mainly rely on nucleotide analogs and interferons, the
+usage of which is limited by drug-resistant mutation or side effects.
+Defensins had been reported to effectively inhibit the proliferation
+of bacteria, fungi, parasites and viruses. Here, we screened the anti-
+HBV activity of 25 scorpion-derived peptides most recently
+characterized by our group. Through evaluating anti-HBV activity and
+cytotoxicity, we found that BmKDfsin4, a scorpion defensin with
+antibacterial and Kv1.3-blocking activities, has a comparable high
+inhibitory rate of both HBeAg and HBsAg in HepG2.2.15 culture medium
+and low cytotoxicity to HepG2.2.15. Then, our experimental results
+further showed that BmKDfsin4 can dose-dependently decrease the
+production of HBV DNA and HBV viral proteins in both culture medium
+and cell lysate. Interestingly, BmKDfsin4 exerted high serum
+stability. Together, this study indicates that the scorpion defensin
+BmKDfsin4 also has inhibitory activity against HBV replication along
+with its antibacterial and potassium ion channel Kv1.3-blocking
+activities, which shows that BmKDfsin4 is a uniquely multifunctional
+defensin molecule. Our work also provides a good molecule material
+which will be used to investigate the link or relationship of its
+antiviral, antibacterial and ion channel-modulating activities in the
+future.
+
+####################-f3cbd842225279a42440e63e2bdc48d6c571efb6-####################
+title: Paciente con fiebre y exantema
+abstract: publicly funded repositories, such as the WHO COVID database
+with rights for unrestricted research re-use and analyses in any form
+or by any means with acknowledgement of the original source. These
+permissions are granted for free by Elsevier for as long as the
+COVID-19 resource centre remains active. Presentamos el caso de una
+paciente de 23 años de edad, con fiebre, cefalea, inyección
+conjuntival bilateral, hepatomegalia dolorosa y exantema macular
+generalizado con elevación de enzimas hepáticas. Se realizó un estudio
+serológico que confirmó la sospecha diagnóstica de infección aguda por
+el virus del sarampión. Palabras clave: sarampión, exantema, manchas
+de Koplik. We report the case of a 23-year old woman with fever,
+headache, bilateral conjunctival injection, painful hepatomegaly and
+generalized macular rash with elevated liver enzymes. Acute measles
+infection was suspected based on the clinical findings and was
+serologically confirmed.
+
+####################-611b8f1600ce3f96cc9d68c1235fc634ab17d47e-####################
+title: Socioeconomic, geographic and climatic risk factors for canine
+parvovirus infection and euthanasia in Australia
+abstract: Infection of canids with canine parvovirus (CPV) can result
+in severe, often fatal disease. This study aimed to examine climatic,
+socioeconomic and geographic risk factors for CPV infection and CPV-
+associated euthanasia in Australia. Australian veterinary hospital
+responses (534; 23.5 %) to a national veterinary survey of CPV case
+occurrences and euthanasias in 2016 were used. Severe caseloads (> 40
+cases per annum) were reported by 26 (11 %) hospitals (median 60
+cases; IQR 50-110). Case reporting, case numbers, and without-
+treatment euthanasia were significantly associated with disadvantage
+across all Socio-Economic Index for Areas quintiles (p < 0.0001) -the
+greater the disadvantage, the more reports. Strong negative
+correlations were found between case numbers and the Index of Relative
+Socioeconomic Disadvantage (r SP = -0.3357, p < 0.0001) and also
+between euthanasia and the Index of Education and Occupation (r SP =
+-0.3762, p < 0.0001). Hospitals in more remote areas were also more
+likely to report cases and to euthanize without treatment (p <
+0.0001). Of the climate variables, temperature of the hottest month
+was most strongly positively correlated with case numbers (r SP =
+0.421, p < 0.0001), and lower annual rainfall was associated with more
+case-reporting hospitals (p < 0.0001). These results confirm that
+socioeconomic disadvantage is a significant risk-factor for CPV
+infection and outcome, and high temperature may also contribute to
+risk.
+
+####################-8597d9f2e677de02b0166ad69f8045b979b3a82a-####################
+title: Role of Human Sec63 in Modulating the Steady-State Levels of
+Multi-Spanning Membrane Proteins
+abstract: The Sec61 translocon of the endoplasmic reticulum (ER)
+membrane forms an aqueous pore, allowing polypeptides to be
+transferred across or integrated into membranes. Protein translocation
+into the ER can occur co-and posttranslationally. In yeast,
+posttranslational translocation involves the heptameric translocase
+complex including its Sec62p and Sec63p subunits. The mammalian ER
+membrane contains orthologs of yeast Sec62p and Sec63p, but their
+function is poorly understood. Here, we analyzed the effects of excess
+and deficit Sec63 on various ER cargoes using human cell culture
+systems. The overexpression of Sec63 reduces the steady-state levels
+of viral and cellular multi-spanning membrane proteins in a
+cotranslational mode, while soluble and single-spanning ER reporters
+are not affected. Consistent with this, the knock-down of Sec63
+increases the steady-state pools of polytopic ER proteins, suggesting
+a substrate-specific and regulatory function of Sec63 in ER import.
+Overexpressed Sec63 exerts its down-regulating activity on polytopic
+protein levels independent of its Sec62-interacting motif, indicating
+that it may not act in conjunction with Sec62 in human cells. The
+specific action of Sec63 is further sustained by our observations that
+the up-regulation of either Sec62 or two other ER proteins with
+lumenal J domains, like ERdj1 and ERdj4, does not compromise the
+steady-state level of a multi-spanning membrane reporter. A J domain-
+specific mutation of Sec63, proposed to weaken its interaction with
+the ER resident BiP chaperone, reduces the down-regulating capacity of
+excess Sec63, suggesting an involvement of BiP in this process.
+Together, these results suggest that Sec63 may perform a substrate-
+selective quantity control function during cotranslational ER import.
+
+####################-3088a520b3c2da5f24ef6971eb86dc5f9bf0e027-####################
+title: Monitoring of viable airborne SARS virus in ambient air
+abstract: Due to recent SARS related issues (Science 300 (5624) 1394;
+Nature 423 (2003) 240; Science 300 (5627) 1966), the development of
+reliable airborne virus monitoring procedures has become galvanized by
+an exceptional sense of urgency and is presently in a high was
+previously applied to the removal of particles from gas carriers, a
+new personal bioaerosol sampler has been developed. Contaminated air
+is bubbled through porous medium submerged into liquid and
+subsequently split into multitude of very small bubbles. The
+particulates are scavenged by these bubbles, and, thus, effectively
+removed. The current study explores its feasibility for monitoring of
+viable airborne SARS virus. It was found that the natural decay of
+such virus in the collection fluid was around 0.75 and 1.76 lg during
+2 and 4 h of continuous operation, respectively. Theoretical microbial
+recovery rates of higher than 55 and 19% were calculated for 1 and 2 h
+of operation, respectively. Thus, the new sampling method of direct
+non-violent collection of viable airborne SARS virus into the
+appropriate liquid environment was found suitable for monitoring of
+such stress sensitive virus. r
+
+####################-529146eb766f6e648d078ac5c0ba717b3bec6ccc-####################
+title: Exploring the potential of endophytes from medicinal plants as
+sources of antimycobacterial compounds
+abstract: Natural product drug discovery has regained interest due to
+low production costs, structural diversity, and multiple uses of
+active compounds to treat various diseases. Attention has been
+directed towards medicinal plants as these plants have been
+traditionally used for generations to treat symptoms of numerous
+diseases. It is established that plants harbour microorganisms,
+collectively known as endophytes. Exploring the as-yet untapped
+natural products from the endophytes increases the chances of finding
+novel compounds. The concept of natural products targeting microbial
+pathogens has been applied to isolate novel antimycobacterial
+compounds, and the rapid development of drug-resistant Mycobacterium
+tuberculosis has significantly increased the need for new treatments
+against this pathogen. It remains important to continuously screen for
+novel compounds from natural sources, particularly from rarely
+encountered microorganisms, such as the endophytes. This review
+focuses on bioprospecting for polyketides and small peptides
+exhibiting antituberculosis activity, although current treatments
+against tuberculosis are described. It is established that natural
+products from these structure classes are often biosynthesised by
+microorganisms. Therefore it is hypothesised that some bioactive
+polyketides and peptides originally isolated from plants are in fact
+produced by their endophytes. This is of interest for further
+endophyte natural product investigations.
+
+####################-a64149dbac768a5fac5c4ca620c09c2dea2e2bf0-####################
+title: Travel and migration associated infectious diseases morbidity
+in Europe, 2008
+abstract: Background: Europeans represent the majority of
+international travellers and clinicians encountering returned patients
+have an essential role in recognizing, and communicating travel-
+associated public health risks. To investigate the morbidity of travel
+associated infectious diseases in European travellers, we analysed
+diagnoses with demographic, clinical and travel-related predictors of
+disease, in 6957 ill returned travellers who presented in 2008 to
+EuroTravNet centres with a presumed travel associated condition.
+Results: Gastro-intestinal (GI) diseases accounted for 33% of
+illnesses, followed by febrile systemic illnesses (20%),
+dermatological conditions (12%) and respiratory illnesses (8%). There
+were 3 deaths recorded; a sepsis caused by Escherichia coli
+pyelonephritis, a dengue shock syndrome and a Plasmodium falciparum
+malaria. GI conditions included bacterial acute diarrhea (6.9%), as
+well as giardiasis and amebasis (2.3%). Among febrile systemic
+illnesses with identified pathogens, malaria (5.4%) accounted for most
+cases followed by dengue (1.9%) and others including chikungunya,
+rickettsial diseases, leptospirosis, brucellosis, Epstein Barr virus
+infections, tick-borne encephalitis (TBE) and viral hepatitis.
+Dermatological conditions were dominated by bacterial infections,
+arthropod bites, cutaneous larva migrans and animal bites requiring
+rabies post-exposure prophylaxis and also leishmaniasis, myasis,
+tungiasis and one case of leprosy. Respiratory illness included 112
+cases of tuberculosis including cases of multi-drug resistant or
+extensively drug resistant tuberculosis, 104 cases of influenza like
+illness, and 5 cases of Legionnaires disease. Sexually transmitted
+infections (STI) accounted for 0.6% of total diagnoses and included
+HIV infection and syphilis. A total of 165 cases of potentially
+vaccine preventable diseases were reported. Purpose of travel and
+destination specific risk factors was identified for several diagnoses
+such as Chagas disease in immigrant travellers from South America and
+P. falciparum malaria in immigrants from sub-Saharan Africa. Travel
+within Europe was also associated with health risks with distinctive
+profiles for Eastern and Western Europe. Conclusions: In 2008, a broad
+spectrum of travel associated diseases were diagnosed at EuroTravNet
+core sites. Diagnoses varied according to regions visited by ill
+travellers. The spectrum of travel associated morbidity also shows
+that there is a need to dispel the misconception that travel, close to
+home, in Europe, is without significant health risk.
+
+####################-1b47f193817f6eb98d988d32889f70346efa52c0-####################
+title: Biosecurity for neonatal gastrointestinal diseases
+abstract: Calves are born and raised in a wide diversity of
+environments and housing conditions, all of which affect the risk of
+neonatal enteric infectious disease. At one extreme are calves born in
+closed-beef cow-calf operations under low-density conditions on open
+range, such as in the low-rainfall areas of the Intermountain United
+States. This environment closely resembles the conditions in which the
+infectious agents and their hosts co-evolved before domestication. In
+this setting, the risk of introducing new strains of infectious agents
+is low, direct contact among calves is minimized, the opportunity for
+transmission by people and equipment is minimal, and fecal material is
+dispersed and exposed to environmental factors (i.e., insects,
+desiccation, and ultraviolet radiation) that inactivate most
+microorganisms. At the other exposure extreme, calves are raised in
+enclosed housing on continuous-flow, custom calf-raising operations.
+In this environment, calves are assembled from multiple herds and from
+sales channels in which the risk of heavy exposure to a variety of
+infectious agents is high. Calves are often in direct contact with one
+another, the physical space per calf is limited, and the risk of
+transmission by people and equipment is high. If housed, ventilation
+is often inadequate, resulting in a high relative humidity; fecal
+material is concentrated, with a high moisture content and without
+full exposure to direct sunlight. Vermin such as flies and rodents are
+often present in high numbers, and nutrition is provided by assembled
+feedstuffs of varying quality and nutritional value rather than from
+dam's milk. Between these two extremes are calves raised in individual
+hutches on dairies of their origin or beef calves raised in
+intensively managed rotational grazing systems in high-rainfall areas.
+
+####################-f74521c975e91081e8d2eaebf744508af1026eff-####################
+title: ARTICLE IN PRESS +Model
+abstract:
+
+####################-90672df8690ad900302e0e94fbe073b7cb762458-####################
+title: Infectious Bronchitis Virus Infection Induces Apoptosis during
+Replication in Chicken Macrophage HD11 Cells
+abstract: Avian infectious bronchitis has caused huge economic losses
+in the poultry industry. Previous studies have reported that
+infectious bronchitis virus (IBV) infection can produce cytopathic
+effects (CPE) and apoptosis in some mammalian cells and primary cells.
+However, there is little research on IBV-induced immune cell
+apoptosis. In this study, chicken macrophage HD11 cells were
+established as a cellular model that is permissive to IBV infection.
+Then, IBV-induced apoptosis was observed through a cell viability
+assay, morphological changes, and flow cytometry. The activity of
+caspases, the inhibitory efficacy of caspase-inhibitors and the
+expression of apoptotic genes further suggested the activation of
+apoptosis through both intrinsic and extrinsic pathways in IBV-
+infected HD11 cells. Additionally, ammonium chloride (NH 4 Cl)
+pretreated HD11 cells blocked IBV from entering cells and inhibited
+IBV-induced apoptosis. UV-inactivated IBV also lost the ability of
+apoptosis induction. IBV replication was increased by blocking caspase
+activation. This study presents a chicken macrophage cell line that
+will enable further analysis of IBV infection and offers novel
+insights into the mechanisms of IBV-induced apoptosis in immune cells.
+
+####################-e65b2496fc9e98e4127133eefa1cff31f9987704-####################
+title: Hematopoietic Tumors SECTION A: CANINE LYMPHOMA AND LYMPHOCYTIC
+LEUKEMIAS
+abstract:
+
+####################-31a96328b07bd673d42058a8871b15a287cd937c-####################
+title: Detection of porcine rotavirus in stools by a latex
+agglutination test
+abstract: Sanekata, T., Kishimoto, E., Sato, K., Honma, H., Otsuki, K.
+and Tsubokura, M., 1991. Detection of poricine rotavirus in stools by
+a latex agglutination test. Vet. Microbiol., 27:245-251. We developed
+a simple agglutination test for the detection of porcine rotavirus in
+stools from pigs with diarrhea. The virus was detected with high
+sensitivity and specificity by a slide agglutination test using latex
+particles coated with antibody against the porcine rotavirus strain
+OSU (LA-antiOSU). The agglutination of LA-antiOSU with OSU on a glass
+slide was evident macroscopically within 2 rain. The sensitivity of
+this latex agglutination (LA) test was four times higher than that of
+the electron microscope method. The LA test is available for the rapid
+diagnosis of porcine rotavirus infections.
+
+####################-1bd1a8e28d6831ce5533a889dd3a7c40da793224-####################
+title:
+abstract:
+
+####################-ad07c8dce9b075f6dce7c90bf51d45117c3581d4-####################
+title: Epidemiology of Viral Pneumonia
+abstract:
+
+####################-1bf853d3436f05746060ca8cc0ff18788784747a-####################
+title: MBL-associated serine proteases (MASPs) and infectious diseases
+abstract: MASP-1 MASP-2 MASP-3 MAp44 MAp19 Complement system a b s t r
+a c t The lectin pathway of the complement system has a pivotal role
+in the defense against infectious organisms. After binding of mannan-
+binding lectin (MBL), ficolins or collectin 11 to carbohydrates or
+acetylated residues on pathogen surfaces, dimers of MBL-associated
+serine proteases 1 and 2 (MASP-1 and MASP-2) activate a proteolytic
+cascade, which culminates in the formation of the membrane attack
+complex and pathogen lysis. Alternative splicing of the pre-mRNA
+encoding MASP-1 results in two other products, MASP-3 and MAp44, which
+regulate activation of the cascade. A similar mechanism allows the
+gene encoding MASP-2 to produce the truncated MAp19 protein.
+Polymorphisms in MASP1 and MASP2 genes are associated with protein
+serum levels and functional activity. Since the first report of a MASP
+deficiency in 2003, deficiencies in lectin pathway proteins have been
+associated with recurrent infections and several polymorphisms were
+associated with the susceptibility or protection to infectious
+diseases. In this review, we summarize the findings on the role of
+MASP polymorphisms and serum levels in bacterial, viral and protozoan
+infectious diseases.
+
+####################-0aa3eda0fb09bf9f55864fc2b9157b9317f62323-####################
+title: Centers for Disease Control and Prevention, Division of Global
+Migration and Quarantine San Diego, California, USA Epidemiological
+surveillance of land borders in North and South America: a case study
+abstract: This study aims to analyze the different
+binational/multinational activities, programs, and structures taking
+place on the borders of Brazil and the U.S. between 2013 and 2015. A
+descriptive exploratory study of two border epidemiological
+surveillance (BES) systems has been performed. Two approaches were
+used to collect data: i) technical visits to the facilities involved
+with border surveillance and application of a questionnaire survey;
+ii) application of an online questionnaire survey. It was identified
+that, for both surveillance systems, more than 55% of the technicians
+had realized that the BES and its activities have high priority.
+Eighty percent of North American and 71% of Brazilian border
+jurisdictions reported an exchange of information between countries.
+Less than half of the jurisdictions reported that the necessary tools
+to carry out information exchange were available. Operational
+attributes of completeness, feedback, reciprocity, and quality of
+information were identified as weak or of low quality in both systems.
+Statements, guidelines, and protocols to develop surveillance
+activities are available at the U.S.-Mexico border area. The
+continuous systematic development of surveillance systems at these
+borders will create more effective actions and responses.
+
+####################-1de0f645bef4bb4fa6244abca0b1e0396fdea449-####################
+title: VIEWPOINTS PAPERS journal of health global Correspondence to
+abstract: Etiology of community acquired pneumonia among children in
+India: prospective, cohort study Background Childhood community
+acquired pneumonia (CAP) is a significant problem in developing
+countries, and confirmation of microbial etiology is important for
+individual, as well as public health. However, there is paucity of
+data from a large cohort, examining multiple biological specimens for
+diverse pathogens (bacteria and viruses). The Community Acquired
+Pneumonia Etiology Study (CAPES) was designed to address this
+knowledge gap. We enrolled children with CAP (based on WHO IMCI
+criteria of tachypnea with cough or breathing difficulty) over 24
+consecutive months, and recorded presenting symptoms, risk factors,
+clinical signs, and chest radiography. We performed blood and
+nasopharyngeal aspirate (NPA) bacterial cultures, and serology
+(Mycoplasma pneumoniae, Chlamydophila pneumoniae). We also performed
+multiplex PCR for 25 bacterial/viral species in a subgroup
+representing 20% of the cohort. Children requiring endotracheal
+intubation underwent culture and PCR of bronchoalveolar lavage (BAL)
+specimens. We enrolled 2345 children. NPA and blood cultures yielded
+bacteria in only 322 (13.7%) and 49 (2.1%) children, respectively. In
+NPA, Streptococcus pneumoniae (79.1%) predominated, followed by
+Haemophilus influenzae (9.6%) and Staphylococcus aureus (6.8%). In
+blood, S. aureus (30.6%) dominated, followed by S. pneumoniae (20.4%)
+and Klebsiella pneumoniae (12.2%). M. pneumoniae and C. pneumoniae
+serology were positive in 4.3% and 1.1% respectively. Multiplex PCR in
+428 NPA specimens identified organisms in 422 (98.6%); of these 352
+(82.2%) had multiple organisms and only 70 (16.4%) had a single
+organism viz. S. pneumoniae: 35 (50%), Cytomegalovirus (CMV): 13 (18.
+
+####################-311aaa859b69a54fba2d8a532fcf632599002edb-####################
+title: Gut Virome Analysis of Cameroonians Reveals High Diversity of
+Enteric Viruses, Including Potential Interspecies Transmitted Viruses
+abstract: Diarrhea remains one of the most common causes of deaths in
+children. A limited number of studies have investigated the prevalence
+of enteric pathogens in Cameroon, and as in many other African
+countries, the cause of many diarrheal episodes remains unexplained. A
+proportion of these unknown cases of diarrhea are likely caused by
+yet-unidentified viral agents, some of which could be the result of
+(recent) interspecies transmission from animal reservoirs, like bats.
+Using viral metagenomics, we screened fecal samples of 221 humans
+(almost all with gastroenteritis symptoms) between 0 and 89 years of
+age with different degrees of bat contact. We identified viruses
+belonging to families that are known to cause gastroenteritis such as
+Adenoviridae, Astroviridae, Caliciviridae, Picornaviridae, and
+Reoviridae. Interestingly, a mammalian orthoreovirus,
+picobirnaviruses, a smacovirus, and a pecovirus were also found.
+Although there was no evidence of interspecies transmission of the
+most common human gastroenteritis-related viruses (Astroviridae,
+Caliciviridae, and Reoviridae), the phylogenies of the identified
+orthoreovirus, picobirnavirus, and smacovirus indicate a genetic
+relatedness of these viruses identified in stools of humans and those
+of bats and/or other animals. These findings points out the
+possibility of interspecies transmission or simply a shared host of
+these viruses (bacterial, fungal, parasitic, . . .) present in both
+animals (bats) and humans. Further screening of bat viruses in humans
+or vice versa will elucidate the epidemiological potential threats of
+animal viruses to human health. Furthermore, this study showed a huge
+diversity of highly divergent novel phages, thereby expanding the
+existing phageome considerably.
+
+####################-2fa26bc7f01717e767c0c6d4c3b5aeee27589ea0-####################
+title: Nucleic Acid Immunity
+abstract: Organisms throughout biology need to maintain the integrity
+of their genome. From bacteria to vertebrates, life has established
+sophisticated mechanisms to detect and eliminate foreign genetic
+material or to restrict its function and replication. Tremendous
+progress has been made in the understanding of these mechanisms which
+keep foreign
+
+####################-51d3450393a2a698cfe8ae3e94cb9d8f556e43ff-####################
+title: Rapid interferon independent expression of IFITM3 following T
+cell activation protects cells from influenza virus infection
+abstract: Interferon-induced transmembrane protein 3 (IFITM3) is a
+potent antiviral protein that enhances cellular resistance to a
+variety of pathogens, including influenza virus. Classically defined
+as an interferon-stimulated gene, expression of IFITM3 on cells is
+rapidly up-regulated in response to type I and II interferon. Here we
+found that IFITM3 is rapidly up-regulated by T cells following their
+activation and this occurred independently of type I and II interferon
+and the interferon regulatory factors 3 and 7. Up-regulation of IFITM3
+on effector T cells protected these cells from virus infection and
+imparted a survival advantage at sites of virus infection. Our results
+show that IFITM3 expression on effector T cells is crucial for these
+cells to mediate their effector function and highlights an interferon
+independent pathway for the induction of IFITM3 which, if targeted,
+could be an effective approach to harness the activity of IFITM3 for
+infection prevention.
+
+####################-7d0105bbf25e7291a9921398c88ab14b45099d1b-####################
+title:
+abstract:
+
+####################-73c9756a6e8fd85be7fb84500b11a9a24f9877d2-####################
+title: Centers for Disease Control
+abstract:
+
+####################-bd424f5ca8ae86eef77b7d2a5f3f63e1f0fb4c2f-####################
+title: Human B cell memory This review comes from a themed issue on
+Lymphocyte activation and effector functions Edited by Michael
+McHeyzer-Williams and Michel Nussenzweig
+abstract: Following an immune response two types of differentiated B
+cells persist in the memory pool: plasma cells, which confer immediate
+protection by the secretion of specific antibodies; and memory B
+cells, which confer rapid and enhanced response to secondary
+challenge. We will review recent advances in understanding the
+heterogeneity, dynamics, and persistence of human memory B cells and
+plasma cells as well as new methods to isolate human monoclonal
+antibodies. These findings offer new insights into the human B cell
+response, which are relevant for vaccination and therapeutic
+intervention.
+
+####################-a3f9d6933e737f7f0a7bd27a54a9bb4882eca041-####################
+title: Clinical and Epidemiologic Characteristics of Hospitalized
+Patients with Laboratory- Confirmed Respiratory Syncytial Virus
+Infection in Eastern China between 2009 and 2013: A Retrospective
+Study a11111 OPEN ACCESS
+abstract: Respiratory syncytial virus (RSV) is a leading cause of
+morbidity and mortality worldwide in children aged <5 years and older
+adults with acute lower respiratory infections (ALRIs). However, few
+studies regarding the epidemiology of hospitalizations for RSV
+infection have been performed previously in China. Here, we aimed to
+describe the clinical and epidemiologic characteristics of
+hospitalized patients with laboratory-confirmed RSV infection in
+eastern China. Active surveillance for hospitalized ALRI patients
+using a broad case definition based on symptoms was performed from
+2009-2013 in 12 sentinel hospitals in eastern China. Clinical and
+epidemiologic data pertaining to hospitalized patients of all ages
+with laboratory-confirmed RSV infection by PCR assay were collected
+and analyzed in this study. From 2009 to 2013, 1046 hospitalized
+patients with laboratory-confirmed RSV infection were enrolled in this
+study, and 14.7% of patients had subtype A, 24.2% of patients had
+subtype B, 23.8% of patients with subtype not performed, and 37.3% of
+patients had RSV coinfections with other viruses. RSV and influenza
+coinfections (33.3%) were the most common coinfections noted in this
+study. Moreover, young children aged <5 years (89.1%, 932/1046),
+particularly young infants aged <1 year (43.3%, 453/1046), represented
+the highest proportion of patients with RSV infections. In contrast,
+older adults aged !60 years (1.1%, 12/1046) represented the lowest
+proportion of patients with RSV infections among enrolled patients.
+The peak RSV infection period occurred mainly during autumn and
+winter, and 57% and 66% of patients exhibited symptoms such as fever
+(body temperature !38˚C) and cough separately. Additionally, only a
+small number of patients were treated with broad-spectrum antiviral
+drugs, and most of patients were treated with antimicrobial PLOS ONE |
+drugs that were not appropriate for RSV infection. RSV is a leading
+viral pathogen and a common cause of viral infection in young children
+aged <5 years with ALRIs in eastern China. Effective vaccines and
+antiviral agents targeting RSV are needed to mitigate its large public
+health impact. Clinical and Epidemiologic Characteristics of RSV
+Infections PLOS ONE |
+
+####################-d2bde64d871631f4f02355597b9e67e321da547f-####################
+title: Molecular analysis of the S1 subunit of the spike glycoprotein
+of respiratory and enteric bovine coronavirus isolates
+abstract: It is unclear whether respiratory and enteric bovine
+coronavirus (BoCV) strains are distinctive in biological, antigenic
+and genetic characteristics. In the present study, we analyzed the
+nucleotide and amino acid sequence of the S1 subunit of the S
+glycoprotein, including the cleavage site, of both respiratory (n = 5)
+and enteric (n= 3) BoCV isolates including two paired isolates from
+the same feedlot animals and compared them with the prototype Mebus
+and two enteric and one respiratory BoCV strains from Quebec. A total
+of 75 polymorphic nucleotides were identified in the S1 subunit of the
+spike glycoprotein of BoCV isolates compared with the Mebus strain.
+These polymorphisms led to 42 amino acid changes at 38 distinct sites.
+The amino acid changes were distributed throughout the S1 subunit with
+clustering around residues 40-118, 146-179, and 458-531. Among these
+variations, only 19 amino acid substitutions altered the charge,
+hydrophobicity and surface probability of the protein. Based on
+phylogenetic analysis, our respiratory and enteric isolates clustered
+into two major groups with two subgroups. Although, there were only a
+few amino acid changes between the respiratory and enteric paired
+isolates, the other two respiratory isolates, one isolated from the
+same farm as a paired strain and the other from a different farm,
+showed more sequence diversity. Amino acid alterations in residues
+113, 115, 118, 146, 148, 501, 510 and 531 of respiratory isolates
+conferred significant changes in the predicted secondary structure
+compared with the prototype winter dysentery (WD) and the calf
+diarrhea (CD) strains of BoCV. In conclusion, the data suggests that
+respiratory strains of BoCV may differ genetically from the classical
+calf enteric and adult WD strains.
+
+####################-b1f90c0a862d8dc3485d61deb8c87c0b53b798b8-####################
+title: Hantaan Virus Infection Induces CXCL10 Expression through TLR3,
+RIG-I, and MDA-5 Pathways Correlated with the Disease Severity
+abstract: Hantaan virus (HTNV) is a major agent causing hemorrhagic
+fever with renal syndrome (HFRS). Although the pathogenesis of HFRS is
+unclear, some reports have suggested that the abundant production of
+proinflammatory cytokines and uncontrolled inflammatory responses may
+contribute to the development of HFRS. CXCL10 is one of these
+cytokines and is found to be involved in the pathogenesis of many
+virus infectious diseases. However, the role of CXCL10 in the
+pathogenesis of HFRS and the molecular regulation mechanism of CXCL10
+in HTNV infection remain unknown. In this study, we report that CXCL10
+expresses highly in the HFRS patients' sera and the elevated CXCL10 is
+positively correlated with the severity of HFRS. We find that HTNV, a
+single-strand RNA virus, can act as a double-strand RNA to activate
+the TLR3, RIG-I, and MDA-5 signaling pathways. Through the downstream
+transcription factors of these pathways, NF-B and IRF7, which bind
+directly to the CXCL10's promoter, the expression of CXCL10 is
+increased. Our results may help to better understand the role of
+CXCL10 in the development of HFRS and may provide some novel insights
+into the immune response of HTNV infection.
+
+####################-8d837ad6865678650be8edee7e35c4b8a4960076-####################
+title: Validation of a sensitive PCR assay for the detection of
+Chelonid fibropapilloma-associated herpesvirus in latent turtle
+infections
+abstract: The Chelonid fibropapilloma-associated herpesvirus (CFPHV)
+is hypothesized to be the causative agent of fibropapillomatosis, a
+neoplastic disease in sea turtles, given its consistent detection by
+PCR in fibropapilloma tumours. CFPHV has also been detected recently
+by PCR in tissue samples from clinically healthy (non exhibiting
+fibropapilloma tumours) turtles, thus representing presumably latent
+infections of the pathogen. Given that template copy numbers of
+viruses in latent infections can be very low, extremely sensitive PCR
+assays are needed to optimize detection efficiency. In this study,
+efficiency of several PCR assays designed for CFPHV detection is
+explored and compared to a method published previously. The results
+show that adoption of a triplet set of singleplex PCR assays
+outperforms other methods, with an approximately 3-fold increase in
+detection success in comparison to the standard assay. Thus, a new
+assay for the detection of CFPHV DNA markers is presented, and
+adoption of its methodology is recommended in future CFPHV screens
+among sea turtles.
+
+####################-deaac80fa1b6ee6b493932b297496c8751c9ef1b-####################
+title: A novel European H5N8 influenza A virus has increased virulence
+in ducks but low zoonotic potential
+abstract: We investigated in a unique setup of animal models and a
+human lung explant culture biological properties, including zoonotic
+potential, of a representative 2016 highly pathogenic avian influenza
+virus (HPAIV) H5N8, clade 2.3.4.4 group B (H5N8B), that spread rapidly
+in a huge and ongoing outbreak series in Europe and caused high
+mortality in waterfowl and domestic birds. HPAIV H5N8B showed
+increased virulence with rapid onset of severe disease and mortality
+in Pekin ducks due to pronounced neuro-and hepatotropism. Cross-
+species infection was evaluated in mice, ferrets, and in a human lung
+explant culture model. While the H5N8B isolate was highly virulent for
+Balb/c mice, virulence and transmissibility were grossly reduced in
+ferrets, which was mirrored by marginal replication in human lung
+cultures infected ex vivo. Our data indicate that the 2016 HPAIV H5N8B
+is avian-adapted with augmented virulence for waterfowl, but has low
+zoonotic potential. The here tested combination of animal studies with
+the inoculation of human explants provides a promising future workflow
+to evaluate zoonotic potential, mammalian replication competence and
+avian virulence of HPAIV.
+
+####################-358ab81c15c1c24b69c02cfa8cf52069a7e2932b-####################
+title: Mining social media and web searches for disease detection
+abstract: Web-based social media is increasingly being used across
+different settings in the health care industry. The increased
+frequency in the use of the Internet via computer or mobile devices
+provides an opportunity for social media to be the medium through
+which people can be provided with valuable health information quickly
+and directly. While traditional methods of detection relied
+predominately on hierarchical or bureaucratic lines of communication,
+these often failed to yield timely and accurate epidemiological
+intelligence. New web-based platforms promise increased opportunities
+for a more timely and accurate spreading of information and analysis.
+This article aims to provide an overview and discussion of the
+availability of timely and accurate information. It is especially
+useful for the rapid identification of an outbreak of an infectious
+disease that is necessary to promptly and effectively develop public
+health responses. These web-based platforms include search queries,
+data mining of web and social media, process and analysis of blogs
+containing epidemic key words, text mining, and geographical
+information system data analyses. These new sources of analysis and
+information are intended to complement traditional sources of epidemic
+intelligence. Despite the attractiveness of these new approaches,
+further study is needed to determine the accuracy of blogger
+statements, as increases in public participation may not necessarily
+mean the information provided is more accurate. The shift in human
+interaction and media consumption to online communication has changed
+the way people seek information. The increased frequency in the use of
+the Internet via computer or mobile devices provides an opportunity
+for social media to be the means of providing people with valuable
+health information directly and quickly. The development of web-based
+social media analytics has given public health officers and physicians
+an earlier insight into the emergence and spread of infectious
+diseases. Availability of timely and accurate information is
+especially useful for the rapid identification of an outbreak of an
+infectious disease necessary to promptly and effectively develop
+public health responses.
+
+####################-8d015842e8e8aa7d44f8a7e6adc053e021eac6ac-####################
+title: Acute Exacerbations of COPD
+abstract:
+
+####################-a257c576fef2e2aee2702b5179d2d09473f16543-####################
+title: Pulmonary infections in the returned traveller
+abstract: Pulmonary infections in the returned traveller are a common
+presentation. A wide variety of infections may present with pulmonary
+symptoms. It is important for clinicians to differentiate the cause of
+these symptoms. The risk of contracting certain travel-related
+pulmonary diseases depends on travel destination, length of stay,
+activities undertaken and co-morbidities. Some pathogens are found
+worldwide, whilst others are related to specific locations. This
+review article will discuss the approach to diagnosing and treating
+pulmonary infections in the returned traveller.
+
+####################-96621e69fe485c5aafe607c6bf5127196df2f348-####################
+title:
+abstract:
+
+####################-a0d46c310512552aeb8e88f5a5d0c11f42fffcc8-####################
+title: A live, impaired-fidelity coronavirus vaccine protects in an
+aged, immunocompromised mouse model of lethal disease HHS Public
+Access Author manuscript
+abstract: Live-attenuated RNA virus vaccines are efficacious but
+subject to reversion to virulence. Among RNA viruses, replication
+fidelity is recognized as a key determinant of virulence and escape
+from antiviral therapy; increased fidelity is attenuating for some
+viruses. Coronavirus replication fidelity is approximately 20-fold
+greater than that of other RNA viruses and is mediated by a 3′-5′
+exonuclease activity (ExoN) that likely functions in RNA proofreading.
+In this study, we demonstrate that engineered inactivation of SARS-CoV
+ExoN activity results in a stable mutator phenotype with profoundly
+decreased fidelity in vivo and attenuation of pathogenesis in young,
+aged, and immunocompromised mouse models of human SARS. The ExoN
+inactivation genotype and mutator phenotype are stable and do not
+revert to virulence, even after serial passage or longterm persistent
+infection in vivo. Our approach represents a strategy with potential
+for broad applications for the stable attenuation of coronaviruses and
+possibly other RNA viruses. Of the approximately 335 emerging
+infectious diseases that were identified from 1940-2004, 60.3%
+originated in wildlife 1 . From past pandemics, it is clear that
+highly pathogenic zoonoses are significant threats to global human
+health, economic stability, and national security 1-4 . Severe acute
+respiratory syndrome coronavirus (SARS-CoV) and swine influenza virus
+CA/04/09 H1N1 have caused substantial human morbidity and mortality in
+Users may view, print, copy, download and text and data-mine the
+content in such documents, for the purposes of academic research,
+subject always to the full Conditions of use:
+
+####################-94eaa87b7a3c40ddc83c57ed5265438d94ab9c6d-####################
+title: Diagnostic utility of a direct immunofluorescence test to
+detect feline coronavirus antigen in macrophages in effusive feline
+infectious peritonitis
+abstract: The antemortem diagnosis of feline infectious peritonitis
+(FIP) remains challenging in clinical practice, since current testing
+methods have suboptimal diagnostic accuracy. Immunohistochemical
+testing of biopsy specimens and postmortem examination are the
+standard diagnostic methods, although direct immunofluorescence (DIF)
+testing to detect feline coronavirus in macrophages in effusion
+specimens has been reported to have 100% specificity and has been
+recommended as an antemortem confirmatory test. The aim of this study
+was to compare the results of DIF testing in antemortem feline
+effusions with postmortem results using field samples. Effusion
+specimens were collected antemortem from 17 cats and tested by DIF,
+followed by postmortem examination. Histopathological examination of
+specimens collected at postmortem confirmed FIP in 10/17 cases and
+ruled out FIP out in 7/17 cases. Antemortem DIF testing was positive
+in all 10 cases confirmed as FIP at postmortem examination. In the
+seven cats where FIP was ruled out at postmortem examination, DIF was
+negative in five cases and positive in the remaining two cases. The
+calculated sensitivity of DIF testing was 100% and the specificity was
+71.4%. Duplicate effusion specimens from eight cats that were
+initially DIF positive were stored refrigerated (4°C) or at room
+temperature (22-25°C) and subjected to serial DIF testing to determine
+the duration of positive results. DIF-positive specimens stored at
+both temperatures retained their positive status for at least 2 days.
+
+####################-222d46ec418f2fc9a78e23559107dcf837012090-####################
+title: The influence of firm age on the relationships of airline
+performance, economic situation and internal operation
+abstract: The ways in which airline performance depends on the
+economic situation and internal operation are well established in the
+literature. One of the contextual factors that may change the nature
+of these relationships is firm age. As such, the aim of this study is
+to investigate the moderating influence of firm age on airline
+performance outcomes. Thirty airline companies from the Asia Pacific
+region were selected, and relevant data from 2006 to 2011 were
+collected. It can be deduced that company experience or firm age can
+help in taking control of the relationship between the constructs;
+thus, this measurement acts as a moderator in the research model.
+
+####################-52dfa9fbd6dcf7c51fac5cb85a88fb154506a722-####################
+title: RNA based mNGS approach identifies a novel human coronavirus
+from two individual pneumonia cases in 2019 Wuhan outbreak
+abstract: From December 2019, an outbreak of unusual pneumonia was
+reported in Wuhan with many cases linked to Huanan Seafood Market that
+sells seafood as well as live exotic animals. We investigated two
+patients who developed acute respiratory syndromes after independent
+contact history with this market. The two patients shared common
+clinical features including fever, cough, and multiple ground-glass
+opacities in the bilateral lung field with patchy infiltration. Here,
+we highlight the use of a low-input metagenomic next-generation
+sequencing (mNGS) approach on RNA extracted from bronchoalveolar
+lavage fluid (BALF). It rapidly identified a novel coronavirus (named
+2019-nCoV according to World Health Organization announcement) which
+was the sole pathogens in the sample with very high abundance level
+(1.5% and 0.62% of total RNA sequenced). The entire viral genome is
+29,881 nt in length (GenBank MN988668 and MN988669, Sequence Read
+Archive database Bioproject accession PRJNA601736) and is classified
+into β-coronavirus genus. Phylogenetic analysis indicates that
+2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus
+(Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp
+gene of bat coronavirus strain BtCoV/ 4991 (GenBank KP876546, 370 nt
+sequence of RdRp and lack of other genome sequence) and 87.9%
+nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-
+SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes
+also suggests 2019-nCoV is more likely a novel CoV independently
+introduced from animals to humans.
+
+####################-e914b0f252624e973ffbd1bd181f5c4e88e2e2a9-####################
+title:
+abstract:
+
+####################-230b07719bf94b403d32eb58d41f6d4782e069a5-####################
+title: Genetics, Pathogenesis and Picornaviruses Evolution of
+abstract:
+
+####################-ac6662831516cdd1a7049209a3fea86bf44b3ef1-####################
+title: Impact of genomics on animal agriculture and opportunities for
+animal health
+abstract: Livestock production is an important source of animal
+protein worldwide. In the developed world meat consumption will remain
+steady but demand is forecast to grow enormously in developing
+countries. The use of genomics will speed genetic improvement and
+increase levels of production quickly in the developed world but might
+face problems in the developing world, including scientific, economic
+and political challenges. Considerable increases in public and private
+research funding will be required to develop and utilize novel tools
+and collections of detailed trait information on appropriate animals.
+The development of policies protecting the environment and managing
+all genetic resources will also be needed. Advances in livestock
+genomics have major implications for increasing food output as well as
+improving human health.
+
+####################-9b4970858a35a4a456f2a0764c7e8fbd87e6c8ef-####################
+title: Molecular and antigenic characteristics of Massachusetts
+genotype infectious bronchitis coronavirus in China
+abstract: In this study, 418 IBVs were isolated in samples from 1717
+chicken flocks. Twenty-nine of the isolates were classified as the
+Massachusetts genotype. These 29 isolates, as well as two previously
+isolated Massachusetts genotype IBV strains, were studied further. Of
+the 31 strains, 24 were H120-like and two were M41-like isolates as
+determined by complete genomic sequence analysis, indicating that most
+of the IBV isolates were likely the reisolated vaccine virus. The
+remaining five IBV isolates, ck/CH/LHB/111172, ck/CH/LSD/111219,
+ck/CH/LHB/130598, ck/CH/LDL/110931, and ck/CH/LHB/130573, were shown
+to have originated from natural recombination events between an
+H120-like vaccine strain and other types of viruses. The virus cross-
+neutralization test found that the antigenicity of ck/CH/LHB/111172,
+ck/CH/LSD/ 111219, and ck/CH/LHB/130598 was similar to that of H120.
+Vaccination with the H120 vaccine offered complete protection against
+challenge with these isolates. However, isolates ck/CH/LDL/110931 and
+ck/ CH/LHB/130573 were serotypically different from their parental
+viruses and from other serotypes in this study. Furthermore,
+vaccination with the H120 vaccine did not provide protection against
+challenge with these two isolates. The results of this study
+demonstrated that recombination is the mechanism that is responsible
+for the emergence of new serotype strains, and it has the ability to
+alter virus serotypes. Therefore, IBV surveillance of chicken flocks
+vaccinated with IBV live vaccines, as well as the consideration of new
+strategies to effectively control IBV infection using inactivated
+or/and genetically engineered vaccines, is of great importance.
+
+####################-133024fd511290554bcd6866e7401cb073d05cfe-####################
+title: T Lymphocytes as Measurable Targets of Protection and
+Vaccination Against Viral Disorders
+abstract: Continuous epidemiological surveillance of existing and
+emerging viruses and their associated disorders is gaining importance
+in light of their abilities to cause unpredictable outbreaks as a
+result of increased travel and vaccination choices by steadily growing
+and aging populations. Close surveillance of outbreaks and herd
+immunity are also at the forefront, even in industrialized countries,
+where previously eradicated viruses are now at risk of re-emergence
+due to instances of strain recombination, contractions in viral vector
+geographies, and from their potential use as agents of bioterrorism.
+There is a great need for the rational design of current and future
+vaccines targeting viruses, with a strong focus on vaccine targeting
+of adaptive immune effector memory T cells as the gold standard of
+immunity conferring long-lived protection against a wide variety of
+pathogens and malignancies. Here, we review viruses that have
+historically caused large outbreaks and severe lethal disorders,
+including respiratory, gastric, skin, hepatic, neurologic, and
+hemorrhagic fevers. To observe trends in vaccinology against these
+viral disorders, we describe viral genetic, replication, transmission,
+and tropism, host-immune evasion strategies, and the epidemiology and
+health risks of their associated syndromes. We focus on immunity
+generated against both natural infection and vaccination, where a
+steady shift in conferred vaccination immunogenicity is observed from
+quantifying activated and proliferating, long-lived effector memory T
+cell subsets, as the prominent biomarkers of long-term immunity
+against viruses and their associated disorders causing high morbidity
+and mortality rates.
+
+####################-ab3f5b8eaac29d0824e8e3fdaa6e3a0c3df4bf67-####################
+title: Animals and Human Health: Where Do They Meet?*
+abstract:
+
+####################-a65111e0e1a8f26d4789ea6439cae1cfa5b391b8-####################
+title: HYPOTHESIS AND THEORY Citation: A Possible Mechanism of Zika
+Virus Associated Microcephaly: Imperative Role of Retinoic Acid
+Response Element (RARE) Consensus Sequence Repeats in the Viral Genome
+abstract: and embryological features are in favor of our hypothesis,
+additional studies including animal models are warranted to validate
+our proposition. Such studies are likely to unfold ZIKV-microcephaly
+association and may help in devising methods to combat it.
+
+####################-e7df6e6b00213948f60923cd0c111d58ffdfda00-####################
+title:
+abstract:
+
+####################-6f6e4ab0d6f5fca090211b588154bddc26e6f1ba-####################
+title: Advances in structure- assisted antiviral discovery for animal
+viral diseases
+abstract:
+
+####################-e03d8d5249a561adcca4ebd72d024c8584dd624f-####################
+title: Synthesis and in vitro cytotoxicity evaluation of
+4-aminoquinoline derivatives
+abstract: A series of 4-aminoquinoline derivatives were synthesized by
+the reaction of 4-chloro-7-substituted-quinolines with the
+corresponding mono/ dialkyl amines. The structures of the synthesized
+compounds were confirmed by NMR and FAB-MS spectral and elemental
+analyses. Subsequently, the compounds were examined for their
+cytotoxic effects on two different human breast tumor cell lines: MCF7
+and MDA-MB468. Although all compounds examined were quite effective on
+both cell lines, the compound N 0 -(7-chloro-
+quinolin-4-yl)-N,N-dimethyl-ethane-1,2-diamine emerged as the most
+active compound of the series. It was particularly potent against MDA-
+MB 468 cells when compared to chloroquine and amodiaquine. The
+compound butyl-(7-fluoro-quinolin-4-yl)-amine showed more potent
+effects on MCF-7 cells when compared to chloroquine. Therefore,
+4-aminoquinoline can serve as the prototype molecule for further
+development of a new class of anticancer agents.
+
+####################-c2a69ec62b5553d158b04c9a91409e451f91e2ee-####################
+title: Demographic and environmental drivers of metagenomic viral
+diversity in vampire bats
+abstract: Viruses infect all forms of life and play critical roles as
+agents of disease, drivers of biochemical cycles and sources of
+genetic diversity for their hosts. Our understanding of viral
+diversity derives primarily from comparisons among host species,
+precluding insight into how intraspecific variation in host ecology
+affects viral communities or how predictable viral communities are
+across populations. Here we test spatial, demographic and
+environmental hypotheses explaining viral richness and community
+composition across populations of common vampire bats, which occur in
+diverse habitats of North, Central and South America. We demonstrate
+marked variation in viral communities that was not consistently
+predicted by a null model of declining community similarity with
+increasing spatial or genetic distances separating populations. We
+also find no evidence that larger bat colonies host greater viral
+diversity. Instead, viral diversity follows an elevational gradient,
+is enriched by juvenile-biased age structure, and declines with local
+anthropogenic food resources as measured by livestock density. Our
+results establish the value of linking the modern influx of
+metagenomic sequence data with comparative ecology, reveal that
+snapshot views of viral diversity are unlikely to be representative at
+the species level, and affirm existing ecological theories that link
+host ecology not only to single pathogen dynamics but also to viral
+communities. Chiroptera, community assembly, demography, Desmodus
+rotundus, elevational gradient, infectious diseases, population
+structure, shotgun metagenomics, virome, wildlife disease | 27 BERGNER
+Et al.
+
+####################-084730ad52ec598976332e8ce55afa4b8b55c25a-####################
+title: Crystal Structure of Human Enterovirus 71 3C Protease
+abstract: † S.C. and J.W. contributed equally to this work. ‡ S.C.,
+M.W., and Q.J. contributed equally to this work and are co-senior
+authors of the paper.
+
+####################-544a005c6288491bc6229435fddcdec62d6e24b9-####################
+title: Compounds with anti-influenza activity: present and future of
+strategies for the optimal treatment and management of influenza Part
+II: Future compounds against influenza virus
+abstract:
+
+####################-a4cc07b207ef8a20f6b2dd4f2123802c5f52b006-####################
+title: Diffusion size and structural virality: The effects of message
+and network features on spreading health information on twitter
+abstract: Relying on diffusion of innovation theory, this study
+examines the impacts of perceived message features and network
+characteristics on size (i.e., the number of retweets a message
+receives) and structural virality (i.e., quantified distinction
+between broadcast and viral diffusion) of information diffusion on
+Twitter. The study collected 425 unique tweets posted by CDC during a
+17-week period and constructed a diffusion tree for each unique tweet.
+Findings indicated that, with respect to message features, perceived
+efficacy after reading a tweet positively predicted diffusion size of
+the tweet, whereas perceived susceptibility to a health condition
+after reading a tweet positively predicted structural virality of the
+tweet. Perceived negative emotion positively predicted both size and
+structural virality. With respect to network features, the level of
+involvement of brokers in diffusing a tweet increased the tweet's
+structural virality. Theoretical and practical implications were
+discussed on disseminating health information via broadcasting and
+viral diffusion on social media.
+
+####################-8a6809df45d5f80a822d68d3c305f7640e10234a-####################
+title: Large-scale evolutionary surveillance of the 2009 H1N1
+influenza A virus using resequencing arrays
+abstract: In April 2009, a new influenza A (H1N1 2009) virus emerged
+that rapidly spread around the world. While current variants of this
+virus have caused widespread disease, particularly in vulnerable
+
+####################-119f62415e2acfe16087cfde48f3ed7b3d145703-####################
+title: An investigation of district spatial variations of childhood
+diarrhoea and fever morbidity in Malawi
+abstract: Although diarrhoea and malaria are among the leading causes
+of child mortality and morbidity in Sub-Saharan Africa, few detailed
+studies have examined the patterns and determinants of these ailments
+in the most affected communities. In this paper, we investigate the
+spatial distribution of observed diarrhoea and fever prevalence in
+Malawi using individual data for 10,185 children from the 2000 Malawi
+Demographic and Health survey. We highlight inequalities in child
+health by mapping the residual district spatial effects using a geo-
+additive probit model that simultaneously controls for spatial
+dependence in the data and potential nonlinear effects of covariates.
+The residual spatial effects were modelled via a Bayesian approach.
+For both ailments, we were able to identify a distinct district
+pattern of childhood morbidity. In particular, the results suggest
+that children living in the capital city are less affected by fever,
+although this is not true for diarrhoea, where some urban
+agglomerations are associated with a higher childhood morbidity risk.
+The spatial patterns emphasize the role of remoteness as well as
+climatic, environmental, and geographic factors on morbidity. The
+fixed effects show that for diarrhoea, the risk of child morbidity
+appears to be lower among infants who are exclusively breastfed than
+among those who are mixed-fed. However, exclusive breastfeeding was
+not found to have a protective effect on fever. An important socio-
+economic factor for both diarrhoea and fever morbidity was parental
+education, especially maternal educational attainment. Diarrhoea and
+fever were both observed to show an interesting association with
+child's age. We were able to discern the continuous worsening of the
+child morbidity up to 8-12 months of age. This deterioration set in
+right after birth and continues, more or less linearly until 8-12
+months, before beginning to decline thereafter. Independent of other
+factors, a separate spatial process produces district inequalities in
+child's health. r (N.-B Kandala), m.a.magadi@lboro.ac.uk (M.A.
+Magadi), nmadise@aphrc.org (N.J. Madise).
+
+####################-6a776cdff97d90eae72e7f8be666aef3a14224e2-####################
+title: Membrane Fusion and Cell Entry of XMRV Are pH- Independent and
+Modulated by the Envelope Glycoprotein's Cytoplasmic Tail
+abstract: Xenotropic murine leukemia virus-related virus (XMRV) is a
+gammaretrovirus that was originally identified from human prostate
+cancer patients and subsequently linked to chronic fatigue syndrome.
+Recent studies showed that XMRV is a recombinant mouse retrovirus;
+hence, its association with human diseases has become questionable.
+Here, we demonstrated that XMRV envelope (Env)-mediated pseudoviral
+infection is not blocked by lysosomotropic agents and cellular
+protease inhibitors, suggesting that XMRV entry is not pH-dependent.
+The full length XMRV Env was unable to induce syncytia formation and
+cell-cell fusion, even in cells overexpressing the viral receptor,
+XPR1. However, truncation of the C-terminal 21 or 33 amino acid
+residues in the cytoplasmic tail (CT) of XMRV Env induced substantial
+membrane fusion, not only in the permissive 293 cells but also in the
+nonpermissive CHO cells that lack a functional XPR1 receptor. The
+increased fusion activities of these truncations correlated with their
+enhanced SU shedding into culture media, suggesting conformational
+changes in the ectodomain of XMRV Env. Noticeably, further truncation
+of the CT of XMRV Env proximal to the membrane-spanning domain
+severely impaired the Env fusogenicity, as well as dramatically
+decreased the Env incorporations into MoMLV oncoretroviral and HIV-1
+lentiviral vectors resulting in greatly reduced viral transductions.
+Collectively, our studies reveal that XMRV entry does not require a
+low pH or low pH-dependent host proteases, and that the cytoplasmic
+tail of XMRV Env critically modulates membrane fusion and cell entry.
+Our data also imply that additional cellular factors besides XPR1 are
+likely to be involved in XMRV entry. Citation: Cô té M, Zheng Y-M, Liu
+S-L (2012) Membrane Fusion and Cell Entry of XMRV Are pH-Independent
+and Modulated by the Envelope Glycoprotein's Cytoplasmic Tail. PLoS
+ONE 7(3): e33734.
+
+####################-891bb8520d6974a9a5e43b16009d6484442f7da8-####################
+title: Infectious Diseases of the Central Nervous System
+abstract:
+
+####################-04733d9b91b1744e046dddef8b3253aa13a3c717-####################
+title:
+abstract:
+
+####################-c1d484d4ea96d4727b857c74defedcd5aa73b30f-####################
+title: miR-208-3p promotes hepatocellular carcinoma cell proliferation
+and invasion through regulating ARID2 expression
+abstract: a b s t r a c t MicroRNAs (miRNAs) are small non-coding RNAs
+that negatively regulate gene expression at posttranscriptional level.
+miRNA dysregulation plays a causal role in cancer progression. In this
+study, miR-208-3p was highly expressed and directly repressed ARID2
+expression. As a result, ARID2 expression in hepatocellular carcinoma
+(HCC) was decreased. In vitro, miR-208-3p down-regulation and ARID2
+overexpression elicited similar inhibitory effects on HCC cell
+proliferation and invasion. In vivo test results revealed that
+miR-208-3p down-regulation inhibited HCC tumorigenesis in Hep3B cells.
+Moreover, ARID2 was possibly a downstream element of transforming
+growth factor beta1 (TGFβ1)/miR-208-3p/ ARID2 regulatory pathway.
+These findings suggested that miR-208-3p up-regulation is associated
+with HCC cell progression and may provide a new target for liver
+cancer treatment.
+
+####################-4c1d608959033784b3e85e34a9209ba77492f5c6-####################
+title:
+abstract:
+
+####################-8f5e0516669da7cb0ff009b40acb3ae746db75e9-####################
+title: Effects of intravenous Escherichia coli dose on the
+pathophysiological response of colostrum-fed Jersey calves
+abstract: Objectives of the present study were to characterize the
+dose dependency of an intravenous Escherichia coli O111:H8 challenge
+in colostrum-fed Jersey calves and to identify any biochemical markers
+indicative of septicemia. Eighteen 3-week old colostrum-fed Jersey
+calves were completely randomized to 1 of 6 doses of E. coli O111:H8.
+The challenge doses included 0, 1.5 × 10 5 , 1.5 × 10 6 , 1.5 × 10 7 ,
+1.5 × 10 8 , and 1.5 × 10 9 colony-forming units (CFU) given
+intravenously as a bolus in 5 mL of sterile isotonic saline.
+Peripheral blood samples were collected at 0, 2, 4, 8, 12, 24, and 48
+h relative to the challenge for biochemical, total leukocyte count,
+and differential analyses. Rectal temperatures were collected via
+indwelling rectal temperature probes at 5-min intervals, and hourly
+averages calculated from 2 d prior to the challenge till 2 d after the
+challenge. All calves survived the 48 h observation period following
+the challenge. Calves given 1.5 × 10 8 and 1.5 × 10 9 CFU displayed
+sickness behaviors (P < 0.01) beginning 0.5 h after the challenge and
+returned to that of the control calves by 6 and 32 h for calves
+challenged with 1.5 × 10 8 and 1.5 × 10 9 CFU, respectively. There
+were treatment × time interactions (P < 0.01) on total leukocyte
+counts and plasma glucose and zinc concentrations. Calves administered
+1.5 × 10 8 and 1.5 × 10 9 CFU had leucopenia beginning 2 h after the
+challenge and returning to counts similar to the control calves within
+24 h. Additionally, those calves were hypoglycemic from 4 to 12 h
+after the challenge with the degree of hypoglycemia inversely related
+to the dose of the E. coli. All calves challenged with E. coli had
+decreased plasma zinc concentrations, and the magnitude was inversely
+proportional to the challenge dose. There were treatment × time
+interactions (P < 0.001) on rectal temperatures following the
+challenge. All calves challenged with E. coli developed a febrile
+response, but the intensity and duration of the response were
+dependent on the challenge dose. These data indicate that calves
+intravenously challenged with 1.5 × 10 8 and 1.5 × 10 9 CFU of the E.
+coli O111:H8 showed immediate clinical and biochemical signs
+indicative of septicemia. However, calves administered 1.5 × 10 7 or
+less of the E. coli had febrile responses, but did not develop
+septicemia. Blood glucose and zinc concentrations may be dose
+responsive indicators that could potentially differentiate between a
+septicemic versus non-septicemic calf.
+
+####################-bb790e8366da63c4f5e2d64fa7bbd5673b93063c-####################
+title: Discontinuous Transcription or RNA Processing of Vaccinia Virus
+Late Messengers Results in a 5' Poly(A) Leader
+abstract:
+
+####################-dc180c51f54487e4bbbd129c1cc2e30deacd3181-####################
+title: viruses Identification of a Novel Inhibitor against Middle East
+Respiratory Syndrome Coronavirus
+abstract: The Middle East respiratory syndrome coronavirus (MERS-CoV)
+was first isolated in 2012, and circulated worldwide with high
+mortality. The continual outbreaks of MERS-CoV highlight the
+importance of developing antiviral therapeutics. Here, we rationally
+designed a novel fusion inhibitor named MERS-five-helix bundle
+(MERS-5HB) derived from the six-helix bundle (MERS-6HB) which was
+formed by the process of membrane fusion. MERS-5HB consists of three
+copies of heptad repeat 1 (HR1) and two copies of heptad repeat 2
+(HR2) while MERS-6HB includes three copies each of HR1 and HR2. As it
+lacks one HR2, MERS-5HB was expected to interact with viral HR2 to
+interrupt the fusion step. What we found was that MERS-5HB could bind
+to HR2P, a peptide derived from HR2, with a strong affinity value (K D
+) of up to 0.24 nM. Subsequent assays indicated that MERS-5HB could
+inhibit pseudotyped MERS-CoV entry effectively with 50% inhibitory
+concentration (IC 50 ) of about 1 µM. In addition, MERS-5HB
+significantly inhibited spike (S) glycoprotein-mediated syncytial
+formation in a dose-dependent manner. Further biophysical
+characterization showed that MERS-5HB was a thermo-stable α-helical
+secondary structure. The inhibitory potency of MERS-5HB may provide an
+attractive basis for identification of a novel inhibitor against MERS-
+CoV, as a potential antiviral agent.
+
+####################-919375a1d0c4d7bb9230e44b929051aa0ca740e0-####################
+title: Vaccine-induced enhancement of viral infections
+abstract: Examples of vaccine-induced enhancement of susceptibility to
+virus infection or of aberrant viral pathogenesis have been documented
+for infections by members of different virus families. Several
+mechanisms, many of which still are poorly understood, are at the
+basis of this phenomenon. Vaccine development for lentivirus
+infections in general, and for HIV/AIDS in particular, has been little
+successful. Certain experimental lentiviral vaccines even proved to be
+counterproductive: they rendered vaccinated subjects more susceptible
+to infection rather than protecting them. For vaccine-induced enhanced
+susceptibility to infection with certain viruses like feline
+coronavirus, Dengue virus, and feline immunodeficiency virus, it has
+been shown that antibody-dependent enhancement (ADE) plays an
+important role. Other mechanisms may, either in the absence of or in
+combination with ADE, be involved. Consequently, vaccine-induced
+enhancement has been a major stumble block in the development of
+certain flavi-, corona-, paramyxo-, and lentivirus vaccines. Also
+recent failures in the development of a vaccine against HIV may at
+least in part be attributed to induction of enhanced susceptibility to
+infection. There may well be a delicate balance between the induction
+of protective immunity on the one hand and the induction of enhanced
+susceptibility on the other. The present paper reviews the currently
+known mechanisms of vaccine-induced enhancement of susceptibility to
+virus infection or of aberrant viral pathogenesis.
+
+####################-7db71c748b8c81436a6d6d34f7b885dad308797c-####################
+title:
+abstract:
+
+####################-ece140f2d510d370f594707b718066f7173a39e1-####################
+title: Preventative Vaccines for Zika Virus Outbreak: Preliminary
+Evaluation-NC-ND license (http://creativecommons.org/licenses/by-nc-
+nd/4.0/)
+abstract: Since it emerged in Brazil in May 2015, the mosquito-borne
+Zika virus (ZIKV) has raised global concern due to its association
+with a significant rise in the number of infants born with
+microcephaly and neurological disorders such as Guillain-Barré
+syndrome. We developed prototype subunit and adenoviral-based Zika
+vaccines encoding the extracellular portion of the ZIKV envelope gene
+(E) fused to the T4 fibritin foldon trimerization domain (Efl). The
+subunit vaccine was delivered intradermally through carboxymethyl
+cellulose microneedle array (MNA). The immunogenicity of these two
+vaccines, named Ad5.ZIKV-Efl and ZIKV-rEfl, was tested in C57BL/6
+mice. Prime/boost immunization regimen was associated with induction
+of a ZIKV-specific antibody response, which provided neutralizing
+immunity. Moreover, protection was evaluated in seven-day-old pups
+after virulent ZIKV intraperitoneal challenge. Pups born to mice
+immunized with Ad5.ZIKV-Efl were all protected against lethal
+challenge infection without weight loss or neurological signs, while
+pups born to dams immunized with MNA-ZIKV-rEfl were partially
+protected (50%). No protection was seen in pups born to phosphate
+buffered saline-immunized mice. This study illustrates the preliminary
+efficacy of the E ZIKV antigen vaccination in controlling ZIKV
+infectivity, providing a promising candidate vaccine and antigen
+format for the prevention of Zika virus disease.
+
+####################-2e84c01cad3e1f37940539a14a1f043fadf5b36d-####################
+title: Review of Participatory Epidemiology Practices in Animal Health
+(1980-2015) and Future Practice Directions
+abstract: In this study we combined an inventory of the major
+applications, geographic regions and diseases covered by participatory
+epidemiology (PE) activities in the field of animal health since 1980,
+together with an email discussion forum with PE practitioners from
+different regions of the world. The inventory included the search of
+peer-reviewed papers, master and technical reports, conference
+proceedings, manuals, training materials and projects. The search
+resulted in a low number of PE activity results until the year 2000,
+followed by a considerable increase (especially from 2012). Most of
+the identified activities were implemented in Africa and Asia, and
+focused on surveillance, disease survey and prioritization, and
+disease control. Seventy-nine PE practitioners working predominantly
+in Africa, Asia and Europe (29, 22 and 18 respectively) contributed to
+the email discussion forum. They proposed various modifications to the
+existing PE definition and discussed different issues related to the
+applicatoin of PE, its institutionalization for use in policy
+development, as well as the priorities for future development. The
+need to increase the number of PE trained people together with some
+methodological developments and the application of this methodology in
+developed countries, were some of the points highlighted during the
+forum. These factors stress the importance of further developing PE as
+a useful approach for engaging communities in addressing animal and
+related public health risks.
+
+####################-33fbcefc12a3f06bf2e20b88ac1b69d481746250-####################
+title: Serological evidence of MERS-CoV and HKU8-related CoV co-
+infection in Kenyan camels
+abstract: Dromedary camels are important reservoir hosts of various
+coronaviruses, including Middle East respiratory syndrome coronavirus
+(MERS-CoV) that cause human infections. CoV genomes regularly undergo
+recombination during infection as observed in bat SARS-related CoVs.
+Here we report for the first time that only a small proportion of
+MERS-CoV receptor-binding domain positive (RBD) of spike protein
+positive camel sera in Kenya were also seropositive to MERS-CoV
+nucleocapsid (NP). In contrast, many of them contain antibodies
+against bat HKU8-related (HKU8r)-CoVs. Among 584 camel samples that
+were positive against MERS-CoV RBD, we found only 0.48 (8.22%) samples
+were also positive for NP. Furthermore, we found bat HKU8r-CoV NP
+antibody in 73 (12.5%) of the MERS-CoV RBD positive and NP negative
+samples, yet found only 3 (0.43%) of the HKU8r-CoV S1 antibody in the
+same samples. These findings may indicate co-infection with MERS-CoV
+and a HKU8r-CoV in camels. It may also raise the possibility of the
+circulation of a recombinant coronavirus virus with the spike of MERS-
+CoV and the NP of a HKU8r-CoV in Kenya. We failed to find molecular
+evidence of an HKU8r-CoV or a putative recombinant virus. Our findings
+should alert other investigators to look for molecular evidence of
+HKU8r-CoV or recombinants.
+
+####################-5300635b9c02f28ee26a26ee5547b6bc16cd0139-####################
+title: Increased cytokine/chemokines in serum from asthmatic and non-
+asthmatic patients with viral respiratory infection
+abstract: Results Similar increased cytokine concentrations were
+observed in asthmatic and non-asthmatic patients. However, higher
+concentrations of chemokines were observed in asthmatic patients.
+Virus-infected monocyte cultures showed similar cytokine/ chemokine
+profiles to those observed in the patients. Conclusions Circulating
+cytokine profiles induced by acute viral lung infection were not
+related to asthmatic status, except for chemokines that were already
+increased in the asthmatic status. Monocytes could play an important
+role in the increased circulating concentration of cytokines found
+during respiratory viral infections. Please cite this paper as:
+Giuffrida et al. (2014) Increased cytokine/chemokines in serum from
+asthmatic and non-asthmatic patients with viral respiratory infection.
+
+####################-d8bd6551bdf4f24218e170e2224c250875751c5f-####################
+title:
+abstract:
+
+####################-e88ddb14ceee73a1db00d2991c683b872e747b33-####################
+title: Bocavirus Infection in Otherwise Healthy Children with
+Respiratory Disease
+abstract: To evaluate the role of human bocavirus (hBoV) as a
+causative agent of respiratory disease, the importance of the viral
+load in respiratory disease type and severity and the pathogenicity of
+the different hBoV species, we studied all hBoV-positive
+nasopharyngeal samples collected from children who attended an
+emergency room for a respiratory tract infection during three winters
+(). Human bocavirus was detected using the respiratory virus panel
+fast assay and real-time PCR. Of the 1,823 nasopharyngeal samples, 104
+(5.7%) were positive for hBoV; a similar prevalence was observed in
+all three periods studied. Among hBoV-infected children, 53.8% were
+between 1-2 years old, and hBoV was detected alone in 57/104 (54.8%)
+cases. All of the detected hBoV strains belonged to genotype 1. The
+median hBoV load was significantly higher in samples containing
+strains with both the N546H and T590S mutations compared to other
+samples (p<0.05). Children with a single hBoV-1 infection more
+frequently had upper respiratory tract infections (URTIs) than those
+who were co-infected (37.0% vs 17.8%, respectively, p = 0.04). The
+duration of hospitalization was longer among children with high viral
+loads than that observed among children with low viral loads (8.0 ±2.2
+days vs 5.0 ±1.5 days, respectively, p = 0.03), and the use of aerosol
+therapy was more frequent among children with high viral loads than
+among those with low viral loads (77.1% vs 55.7%, respectively, p =
+0.04). This study shows that hBoV is a relatively uncommon but stable
+infectious agent in children and that hBoV1 seems to be the only
+strain detected in Italy in respiratory samples. From a clinical point
+of view, hBoV1 seems to have in the majority of healthy children
+relatively low clinical relevance. Moreover, the viral load influences
+only the duration of hospitalization and the use of aerosol therapy
+without any association with the site of the respiratory disease.
+
+####################-2adf2fd6d260fc547f90bd97bc1ac0ec8b07b738-####################
+title: Biologie moléculaire et microbiologie clinique en 2007
+Généralités -Partie 1 Molecular biology in clinical microbiology in
+2007 - Part 1
+abstract: Disponible sur internet le 15 février 2007 MOTS CLÉS
+Biologie moléculaire ; Microbiologie ; Amplification génique Résumé La
+biologie moléculaire est omniprésente en biologie médicale et plus
+particulièrement en microbiologie. De nombreux articles démontrent son
+importance tant dans le domaine du diagnostic que du pronostic, de
+l'évaluation thérapeutique, de l'épidémiologie ou des risques
+biologiques naturels ou non. La quantité considérable d'articles sur
+ce sujet, n'apporte pas toujours une réponse évidente sur le rôle de
+la biologie moléculaire dans un laboratoire de microbiologie qu'il
+soit hospitalier ou non. Cette revue constitue une synthèse des
+apports de cette discipline en microbiologie. À partir de cet état des
+lieux, certaines questions se posent, par exemple : la biologie
+moléculaire constitue-t-elle un réel apport en microbiologie ? Dans
+quelles indications prescrire un examen de biologie moléculaire ? Les
+réponses ne sont pas toujours simples. Dans cet article composé de
+deux parties, la première partie aborde les généralités de biologie
+moléculaire et plus particulièrement les principales techniques
+utilisées dans le domaine de la microbiologie et la seconde partie à
+venir traitera des applications. Abstract Molecular biology is
+omnipresent in medical biology especially in microbiology. Many papers
+report studies on its importance in diagnosis, prognosis, therapeutic
+field, epidemiology, natural (or not) biological risks alike. The
+important sum of reports on this subject does not always bring an
+obvious answer to the part that molecular biology could play in a
+microbiology laboratory either public or private. This article
+summarizes the contributions of this Immuno-analyse et biologie
+spécialisée 22 (2007) 5-18 a v a i l a b l e a t w w w. s c i e n c e
+d i r e c t . c o m j o u r n a l h o m e p a g e : h t t p : / / f r
+a n c e . e l s e v i e r. c o m / d i r e c t / I M M B I O /
+Amplification specialized field in microbiology and brings some
+questions on its contribution. Is molecular biology a real progress in
+microbiology? What are the main indications of molecular biology today
+in this field? According to the infectious particle, the answers are
+not always simple. They can be obvious in some cases (for instance,
+hepatitis C) or less obvious in other cases (tuberculosis for
+instance). In this article divided in two parts, the first one report
+an introduction to molecular biology in microbiology and the following
+second part will deal with the main applications in microbiology.
+
+####################-d6a5a00ad9468ae27a3a1c7cc33c2131297fbaa9-####################
+title: Engineered hepatitis B virus surface antigen L protein
+particles for in vivo active targeting of splenic dendritic cells
+abstract: Dendritic cells (DCs) are key regulators of adaptive T-cell
+responses. By capturing exogenous antigens and presenting antigen-
+derived peptides via major histocompatibility complex molecules to
+naïve T cells, DCs induce antigen-specific immune responses in vivo.
+In order to induce effective host immune responses, active delivery of
+exogenous antigens to DCs is considered important for future vaccine
+development. We recently generated bionanocapsules (BNCs) consisting
+of hepatitis B virus surface antigens that mediate stringent in vivo
+cell targeting and efficient endosomal escape, and after the fusion
+with liposomes (LP) containing therapeutic materials, the BNC-LP
+complexes deliver them to human liver-derived tissues in vivo. BNCs
+were further modified to present the immunoglobulin G (IgG) Fc-
+interacting domain (Z domain) derived from Staphylococcus aureus
+protein A in tandem. When mixed with IgGs, modified BNCs (ZZ-BNCs)
+displayed the IgG Fv regions outwardly for efficient binding to
+antigens in an oriented-immobilization manner. Due to the affinity of
+the displayed IgGs, the IgG-ZZ-BNC complexes accumulated in specific
+cells and tissues in vitro and in vivo. After mixing ZZ-BNCs with
+antibodies against DCs, we used immunocytochemistry to examine which
+antibodies delivered ZZ-BNCs to mouse splenic DCs following
+intravenous injection of the ZZ-BNCs. ZZ-BNCs displaying anti-CD11c
+monoclonal antibodies (α-CD11c-ZZ-BNCs) were found to accumulate with
+approximately 62% of splenic DCs, and reside within some of them.
+After the fusion with liposomes containing antigens, the α-CD11c-ZZ-
+BNCs could elicit the respective antibodies more efficiently than
+other nontargeting control vaccines, suggesting that this DC-specific
+nanocarrier is promising for future vaccines.
+
+####################-da59c7ef76390e0e97e6e57f5ff689152b14f6a2-####################
+title: Development and validation of different indirect ELISAs for
+MERS-CoV serological testing
+abstract: Since 2012, MERS-CoV has caused up to 2220 cases and 790
+deaths in 27 countries with Saudi Arabia being the most affected
+country with~83.1% of the cases and~38.8% local death rate. Current
+serological assays such as microneutralization (MN), plaque reduction
+neutralization, immunofluorescence, protein microarray or
+pseudoparticle neutralization assays rely on handling of live MERS-CoV
+in high containment laboratories or need for expensive and special
+equipment and reagents and highly trained personnel which represent a
+technical hurdle for most laboratories in resource-limited MERS-CoV
+endemic countries. Here, we developed, compared and evaluated three
+different indirect ELISAs based on MERS-CoV nucleocapsid protein (N),
+spike (S) ectodomain (amino acids 1-1297) and S1 subunit (amino acids
+1-725) and compared them with MN assay. The developed ELISAs were
+evaluated using large number of confirmed seropositive (79 samples)
+and seronegative (274 samples) MERS-CoV human serum samples. Both
+rS1-and rS-ELISAs maintained high sensitivity and specificity (≥90%)
+across a wider range of OD values compared to rN-ELISA. Moreover,
+rS1-and rS-based ELISAs showed better agreement and correlation with
+MN assay in contrast to rN-ELISA. Collectively, our data demonstrate
+that rS1-ELISA and rS-ELISA are more reliable than rN-ELISA and
+represent a suitable choice for seroepidemiological testing and
+surveillance in MERS-CoV endemic regions. Several MERS-CoV serological
+assays have been developed and https://doi.
+
+####################-8ceb037798bd3fa6941261d1b888fe0cb79f2850-####################
+title: A novel two-pronged strategy to suppress host protein synthesis
+by SARS coronavirus Nsp1 protein
+abstract: Severe acute respiratory syndrome coronavirus nsp1 protein
+suppresses host gene expression, including type I interferon
+production, by promoting host mRNA degradation and inhibiting host
+translation, in infected cells. We present evidence that nsp1 uses a
+novel, two-pronged strategy to inhibit host translation/gene
+expression. Nsp1 bound to the 40S ribosomal subunit and inactivated
+the translational activity of the 40S subunits. Furthermore, the
+nsp1-40S ribosome complex induced the modification of the 5'-region of
+capped mRNA template and rendered the template RNA translationally
+incompetent. Nsp1 also induced RNA cleavage in templates carrying the
+internal ribosome entry site (IRES) from encephalomyocarditis virus,
+but not in those carrying IRESs from hepatitis C and cricket paralysis
+viruses, demonstrating that the nsp1-induced RNA modification was
+template-dependent. We speculate that the mRNAs that underwent the
+nsp1mediated modification are marked for rapid turnover by the host
+RNA degradation machinery.
+
+####################-b187316c24eb26f96af6ebbc243e90cfc504d94b-####################
+title: High-level expression and purification of soluble recombinant
+FGF21 protein by SUMO fusion in Escherichia coli
+abstract: Background: Fibroblast growth factor 21 (FGF21) is a
+promising drug candidate to combat metabolic diseases. However, high-
+level expression and purification of recombinant FGF21 (rFGF21) in
+Escherichia coli (E. coli) is difficult because rFGF21 forms inclusion
+bodies in the bacteria making it difficult to purify and obtain high
+concentrations of bioactive rFGF21. To overcome this problem, we fused
+the FGF21 with SUMO (Small ubiquitin-related modifier) by polymerase
+chain reaction (PCR), and expressed the fused gene in E. coli
+BL21(DE3). Results: By inducing with IPTG, SUMO-FGF21 was expressed at
+a high level. Its concentration reached 30% of total protein, and
+exceeded 95% of all soluble proteins. The fused protein was purified
+by DEAE sepharose FF and Ni-NTA affinity chromatography. Once cleaved
+by the SUMO protease, the purity of rFGF21 by high performance liquid
+chromatography (HPLC) was shown to be higher than 96% with low
+endotoxin level (<1.0 EU/ml). The results of in vivo animal
+experiments showed that rFGF21 produced by using this method, could
+decrease the concentration of plasma glucose in diabetic rats by
+streptozotocin (STZ) injection. Conclusions: This study demonstrated
+that SUMO, when fused with FGF21, was able to promote its soluble
+expression of the latter in E. coli, making it more convenient to
+purify rFGF21 than previously. This may be a better method to produce
+rFGF21 for pharmaceutical research and development.
+
+####################-54270a3fb2b3e333b2c4b1bffd814f4c7c288923-####################
+title: Quantification of the severity of an outbreak in human
+infection control
+abstract:
+
+####################-e39026eab00f2cec1174fee2ea791de98c7f80ec-####################
+title:
+abstract:
+
+####################-804295e0173e403f91824b8f8a1886aa4c67fb32-####################
+title: Stimulation and analysis of the immune response in calves from
+vaccinated pregnant cows
+abstract:
+
+####################-73a4cb59929daf2449db1891e4ab5175ec8cdbc3-####################
+title: Chapter 4 Biology and Diseases of Rats
+abstract:
+
+####################-2f0d39c2a5788accd2e48edd53e39424db2446ba-####################
+title:
+abstract:
+
+####################-ed4f66c6cffe73edb4987c041f9dc7eadc967950-####################
+title: Role of Carbohydrate in Glycoprotein Traffic and Secretion
+abstract:
+
+####################-7b22c0d8cb7675bcc5aa283fe3bfef6c72052519-####################
+title: Real-Time Sequence-Validated Loop- Mediated Isothermal
+Amplification Assays for Detection of Middle East Respiratory Syndrome
+Coronavirus (MERS-CoV)
+abstract: The Middle East respiratory syndrome coronavirus (MERS-CoV),
+an emerging human coronavirus, causes severe acute respiratory illness
+with a 35% mortality rate. In light of the recent surge in reported
+infections we have developed asymmetric five-primer reverse
+transcription loop-mediated isothermal amplification (RT-LAMP) assays
+for detection of MERS-CoV. Isothermal amplification assays will
+facilitate the development of portable point-of-care diagnostics that
+are crucial for management of emerging infections. The RT-LAMP assays
+are designed to amplify MERS-CoV genomic loci located within the open
+reading frame (ORF)1a and ORF1b genes and upstream of the E gene.
+Additionally we applied one-step strand displacement probes (OSD) for
+real-time sequence-specific verification of LAMP amplicons. Asymmetric
+amplification effected by incorporating a single loop primer in each
+assay accelerated the time-to-result of the OSD-RT-LAMP assays. The
+resulting assays could detect 0.02 to 0.2 plaque forming units (PFU)
+(5 to 50 PFU/ml) of MERS-CoV in infected cell culture supernatants
+within 30 to 50 min and did not cross-react with common human
+respiratory pathogens.
+
+####################-be5a6b0a0bff9b130578c5ad71a6be32d16525d6-####################
+title: a section of the journal Frontiers in Microbiology
+Transmissible Gastroenteritis Virus Infection Up-Regulates FcRn
+Expression via Nucleocapsid Protein and Secretion of TGF-β in Porcine
+Intestinal Epithelial Cells
+abstract: Transmissible gastroenteritis virus (TGEV) is a porcine
+intestinal coronavirus that causes fatal severe watery diarrhea in
+piglets. The neonatal Fc receptor (FcRn) is the only IgG transport
+receptor, its expression on mucosal surfaces is triggered upon viral
+stimulation, which significantly enhances mucosal immunity. We
+utilized TGEV as a model pathogen to explore the role of FcRn in
+resisting viral invasion in overall intestinal mucosal immunity. TGEV
+induced FcRn expression by activating NF-κB signaling in porcine small
+intestinal epithelial (IPEC-J2) cells, however, the underlying
+mechanisms are unclear. First, using small interfering RNAs, we found
+that TGEV up-regulated FcRn expression via TLR3, TLR9 and RIG-I.
+Moreover, TGEV induced IL-1β, IL-6, IL-8, TGF-β, and TNF-α production.
+TGF-β-stimulated IPEC-J2 cells highly up-regulated FcRn expression,
+while treatment with a JNK-specific inhibitor down-regulated the
+expression. TGEV nucleocapsid (N) protein also enhanced FcRn promoter
+activity via the NF-κB signaling pathway and its central region (aa
+128-252) was essential for FcRn activation. Additionally, N protein-
+mediated FcRn up-regulation promotes IgG transcytosis. Thus, TGEV N
+protein and TGF-β up-regulated FcRn expression, further clarifying the
+molecular mechanism of up-regulation of FcRn expression by TGEV.
+
+####################-cc558cbd8dd2f2c59b87377e688f13646da297e0-####################
+title: Diagnostic approaches for viruses and prions in stem cell banks
+abstract: Some stem cell lines may contain an endogenous virus or can
+be contaminated with exogenous viruses (even of animal origin) and may
+secrete viral particles or express viral antigens on their surface.
+Moreover, certain biotechnological products (e.g. bovine fetal serum,
+murine feeder cells) may contain prion particles. Viral and prion
+contamination of cell cultures and ''feeder'' cells, which is a common
+risk in all biotechnological products derived from the cell lines, is
+the most challenging and potentially serious outcome to address, due
+to the difficulty involved in virus and prion detection and the
+potential to cause serious disease in recipients of these cell
+products. Stem cell banks should introduce adequate quality assurance
+programs like the microbiological control program and can provide
+researchers with valuable support in the standardization and safety of
+procedures and protocols used for the viral and prion testing and in
+validation programs to assure the quality and safety of the cells.
+
+####################-11875dfda6cd04d5032611edf0e340582ceb620f-####################
+title: Predictions for the binding domain and potential new drug
+targets of 2019-nCoV
+abstract: An outbreak of new SARS-like viral in Wuhan, China has been
+named 2019-nCoV. The current state of the epidemic is increasingly
+serious, and there has been the urgent necessity to develop an
+effective new drug. In previous studies, it was found that the
+conformation change in CTD1 was the region where SARS-CoV bound to
+human ACE2. Although there are mutations of the 2019-nCoV, the binding
+energy of ACE2 remains high. The surface glycoprotein of 2019-nCoV was
+coincident with the CTD1 region of the S-protein by comparing the
+I-TASSER prediction model with the actual SARS model, which suggests
+that 2019-nCoV may bind to the ACE2 receptor through conformational
+changes. Furthermore, site prediction on the surface glycoprotein of
+2019-nCoV suggests some core amino acid area may be a novel drug
+target against 2019-nCoV.
+
+####################-dac1b1607ae72b9509ab26367e0d55016e8132a8-####################
+title: Epidemic Situation of Novel Coronavirus Pneumonia in China
+mainland
+abstract: Objective] Analyze the occurrence of novel coronavirus
+pneumonia(NCP) in China mainland, explore the epidemiological rules,
+and evaluate the effect of prevention and control. [Methods] From
+
+####################-adb09e4e5c7331b2aa661b3d3bb0a643e00d11bc-####################
+title: Evidence of recombination in coronaviruses implicating pangolin
+origins of nCoV- 2019
+abstract: A novel coronavirus (nCoV-2019) was the cause of an outbreak
+of respiratory illness detected in Wuhan, Hubei Province, China in
+December of 2019. Genomic analyses of nCoV-2019 determined a 96%
+resemblance with a coronavirus isolated from a bat in 2013 (RaTG13);
+however, the receptor binding motif (RBM) of these two genomes share
+low sequence similarity. This divergence suggests a possible
+alternative source for the RBM coding sequence in nCoV-2019. We
+identified high sequence similarity in the RBM between nCoV-2019 and a
+coronavirus genome reconstructed from a viral metagenomic dataset from
+pangolins possibly indicating a more complex origin for nCoV-
+
+####################-6115e9fbaed5e154ff92cb8d02387fec72251dab-####################
+title: Title: Protocol of a randomized controlled trial testing
+inhaled Nitric Oxide in mechanically ventilated patients with severe
+acute respiratory syndrome in COVID-19 (SARS-CoV-2)
+abstract: Severe acute respiratory syndrome (SARS-CoV-2) due to novel
+Coronavirus
+
+####################-c8559b6ddd6213bc91524397933bce33aea7d50f-####################
+title: Improving early epidemiological assessment of emerging Aedes-
+transmitted epidemics using historical data
+abstract: Model-based epidemiological assessment is useful to support
+decision-making at the beginning of an emerging Aedes-transmitted
+outbreak. However, early forecasts are generally unreliable as little
+information is available in the rst few incidence data points. Here,
+we show how past Aedestransmitted epidemics help improve these
+predictions. The approach was applied to the 2015-2017 Zika virus
+epidemics in three islands of the French West Indies, with historical
+data including other Aedes-transmitted diseases (Chikungunya and Zika)
+in the same and other locations. Hierarchical models were used to
+build informative a priori distributions on the reproduction ratio and
+the reporting rates. The accuracy and sharpness of forecasts improved
+substantially when these a priori distributions were used in models
+for prediction. For example, early forecasts of nal epidemic size
+obtained without historical information were 3.3 times too high on
+average (range: 0.2 to 5.8) with respect to the eventual size, but
+were far closer (1.1 times the real value on average, range: 0.4 to
+1.5) using information on past CHIKV epidemics in the same places.
+Likewise, the 97.5% upper bound for maximal incidence was 15.3 times
+(range: 2.0 to 63.1) the actual peak incidence, and became much
+sharper at 2.4 times (range: 1.3 to 3.9) the actual peak incidence
+with informative a priori distributions. Improvements were more
+limited for the date of peak incidence and the total duration of the
+epidemic. The framework can adapt to all forecasting models at the
+early stages of emerging Aedes-transmitted outbreaks. Model-based
+assessments must be done in real time for emerging outbreaks: this was
+the case in recent years for MERS-CoV in the Middle East [1, 2, 3],
+Ebola virus in West Africa [4, 5, 6, 7, 8, 9, 10] , chikungunya virus
+(CHIKV) [11] and Zika virus (ZIKV) [12, 13, 14] in the Americas. These
+analyses often focused on transmissibility and reproduction numbers
+rather than on forecasting the future impact of the epidemic. Indeed,
+forecasting is dicult before the epidemic reaches its peak, all the
+more when information on natural history, transmissibility and under-
+reporting is limited [15] . Yet, it is precisely at the beginning of
+an outbreak that forecasts would help public health authorities decide
+on the best strategies for control or mitigation. Several methods have
+been used to make epidemic predictions, including exponential growth
+models [5, 16] , sigmoid-based extrapolations [17] , SIR-type models
+[18] and more realistic model 1 . CC-BY-NC 4.0 International license
+is made available under a
+
+####################-9e780780dbaf35c0d537ddb290dfd484148a3c55-####################
+title: Estimating the Relative Probability of Direct Transmission
+between Infectious Disease Patients
+abstract: Estimating infectious disease parameters such as the serial
+interval (time between symptom onset in primary and secondary cases)
+and reproductive number (average number of secondary cases produced by
+a primary case) are important to understand infectious disease
+dynamics. Many estimation methods require linking cases by direct
+transmission, a difficult task for most diseases. Using a subset of
+cases with detailed genetic or contact investigation data to develop a
+training set of probable transmission events, we build a model to
+estimate the relative transmission probability for all case-pairs from
+demographic, spatial and clinical data. Our method is based on naive
+Bayes, a machine learning classification algorithm which uses the
+observed frequencies in the training dataset to estimate the
+probability that a pair is linked given a set of covariates. In
+simulations we find that the probabilities estimated using genetic
+distance between cases to define training transmission events are able
+to distinguish between truly linked and unlinked pairs with high
+accuracy (area under the receiver operating curve value of 95%).
+Additionally only a subset of the cases, 10-50% depending on sample
+size, need to have detailed genetic data for our method to perform
+well. We show how these probabilities can be used to estimate the
+average effective reproductive number and apply our method to a
+tuberculosis outbreak in Hamburg, Germany. All rights reserved. No
+reuse allowed without permission. The copyright holder for this
+preprint (which was not peer-reviewed) is the author/funder. .
+https://doi.org/10.1101/612945 doi: bioRxiv preprint 3 Our method is a
+novel way to infer transmission dynamics in any dataset when only a
+subset of cases has rich contact investigation and/or genetic data.
+
+####################-0aff00101d5ccc6592987185ab833f95d842f98b-####################
+title: Potentially highly potent drugs for 2019-nCoV
+abstract: The World Health Organization (WHO) has declared the 2019
+novel coronavirus (2019-nCoV) infection outbreak a global health
+emergency. Currently, there is no effective anti-2019-nCoV medication.
+The sequence identity of the 3CL proteases of 2019-nCoV and SARS is
+96%, which provides a sound foundation for structural-based drug
+repositioning (SBDR). Based on a SARS 3CL protease X-ray crystal
+structure, we construct a 3D homology structure of 2019-nCoV 3CL
+protease. Based on this structure and existing experimental datasets
+for SARS 3CL protease inhibitors, we develop an SBDR model based on
+machine learning and mathematics to screen 1465 drugs in the DrugBank
+that have been approved by the U.S. Food and Drug Administration
+(FDA). We found that many FDA approved drugs are potentially highly
+potent to 2019-nCoV.
+
+####################-af266fac8970a7960e96630a67d91bec5dda0335-####################
+title: Estimating the generation interval for COVID-19 based on
+symptom onset data
+abstract: Estimating key infectious disease parameters from the
+COVID-19 outbreak is quintessential for modelling studies and guiding
+intervention strategies. Whereas different estimates for the
+incubation period distribution and the serial interval distribution
+have been reported, estimates of the generation interval for COVID-19
+have not been provided. Methods: We used outbreak data from clusters
+in Singapore and Tianjin, China to estimate the generation interval
+from symptom onset data while acknowledging uncertainty about the
+incubation period distribution and the underlying transmission
+network. From those estimates we obtained the proportions pre-
+symptomatic transmission and reproduction numbers. Results: The mean
+generation interval was 5.20 (95%CI 3.78-6.78) days for Singapore and
+3.95 (95%CI 3.01-4.91) days for Tianjin, China when relying on a
+previously reported incubation period with mean 5.2 and SD 2.8 days.
+The proportion of pre-symptomatic transmission was 48% (95%CI 32-67%)
+for Singapore and 62% (95%CI 50-76%) for Tianjin, China. Estimates of
+the reproduction number based on the generation interval distribution
+were slightly higher than those based on the serial interval
+distribution. Conclusions: Estimating generation and serial interval
+distributions from outbreak 1 . CC-BY-NC-ND 4.0 International license
+It is made available under a author/funder, who has granted medRxiv a
+license to display the preprint in perpetuity. is the (which was not
+peer-reviewed) The copyright holder for this preprint .
+
+####################-b801b7f92cff2155d98f0e3404229c67b60e2f9f-####################
+title: Realtime 2-5A kinetics suggests interferons β and  evade
+global arrest of translation by RNase L
+abstract: Cells of all mammals recognize double-stranded RNA (dsRNA)
+as a foreign material. In response, they release interferons (IFNs)
+and activate a ubiquitously expressed pseudokinase/endoribonuclease
+RNase L. RNase L executes regulated RNA decay and halts global
+translation. Here we developed a biosensor for 2',5'oligoadenylate
+(2-5A), the natural activator of RNase L. We found that 2-5A was
+acutely synthesized by cells in response to dsRNA sensing, which
+immediately triggered cellular RNA cleavage by RNase L and arrested
+host protein synthesis. However, IFNs of types I and III (IFN-β and
+IFN-). Our data suggests that IFNs escape from the action of RNase L
+on translation. We propose that 2-5A/RNase L pathway serves to rapidly
+and accurately suppress basal protein synthesis, preserving privileged
+production of defense proteins of the innate immune system. RNase L is
+a mammalian enzyme that can stop global protein synthesis during
+interferon response. Cells must balance the need to make interferons
+(which are proteins) with the risk to lose cell-wide translation due
+to RNase L. This balance can most simply be achieved if RNase L was
+activated late in the interferon response. However, we show by
+engineering a biosensor for the RNase L pathway, that on the contrary,
+RNase L activation precedes interferon synthesis. Further, translation
+of interferons evades the action of RNase L. Our data suggest that
+RNase L facilitates a switch of protein synthesis from homeostasis to
+specific needs of innate immune signaling. . CC-BY 4.0 International
+license is made available under a The copyright holder for this
+preprint (which was not peer-reviewed) is the author/funder. It .
+https://doi.org/10.1101/476341 doi: bioRxiv preprint The 2-5A system
+is also a surveillance pathway for endogenous dsRNAs from mammalian
+genomes. Cells with adenosine deaminase 1 (ADAR1) deficiency
+accumulate self-dsRNA that promotes 2-5A-driven apoptosis 8 . 2-5A
+synthesis in the presence of low amounts of endogenous dsRNAs does not
+cause cell death, but functions as a suppressor of adhesion,
+proliferation, migration, and prostate cancer metastasis 17,18 .
+Additionally, activation of the 2-5A system also blocks secretion of
+milk . CC-BY 4.0 International license is made available under a
+
+####################-0acc1f9a1c333a9a6b2dbba4a252d7576f024783-####################
+title: SKEMPI 2.0: An updated benchmark of changes in protein-protein
+binding energy, kinetics and thermodynamics upon mutation
+abstract: Motivation: Understanding the relationship between the
+sequence, structure, binding energy, binding kinetics and binding
+thermodynamics of protein-protein interactions is crucial to
+understanding cellular signaling, the assembly and regulation of
+molecular complexes, the mechanisms through which mutations lead to
+disease, and protein engineering. Results: We present SKEMPI 2.0, a
+major update to our database of binding free energy changes upon
+mutation for structurally resolved protein-protein interactions. This
+version now contains manually curated binding data for 7085 mutations,
+an increase of 133%, including changes in kinetics for 1844 mutations,
+enthalpy and entropy changes for 443 mutations, and 440 mutations
+which abolish detectable binding. Availability: The database is
+available at
+
+####################-a09c1ad0f05bbcc256cd667ad7411e6690134370-####################
+title: Association of Population migration and Coronavirus Disease
+2019 epidemic control
+abstract: To analyze the impact of different patterns of migration
+flow in two cities, Hefei and Shenzhen, on the epidemic and disease
+control of Coronavirus Disease 2019 , in order to provide insight for
+making differentiated controlling policies. Hefei and Shenzhen between
+January 19 and February 11, 2020, from data officially published by
+the provincial and municipal Centers for Disease Control and
+Prevention (CDC). From these data we calculated basic reproduction
+number R0 to reflect the rate of spread of COVID-19 in these cities.
+Aggregated data of population migration during the same period was
+extracted from Baidu Migration. The change of R0 in the two cites were
+analyzed and compared. Spearman correlation analysis between R0 and
+population inflow from epidemic focus were performed.
+
+####################-f89618a7949b8ff9b92c87ca5b839a3107957b5c-####################
+title: A novel defective recombinant porcine enterovirus G virus
+carrying a 2 porcine torovirus papain-like cysteine protease gene and
+a putative anti- 3 apoptosis gene in place of viral structural protein
+genes 4 5 6 Ryo Imai
+abstract: Enterovirus G (EV-G) belongs to the family of
+Picornaviridae. Two types of recombinant porcine 36 EV-Gs carrying
+papain-like cysteine protease (PLCP) gene of porcine torovirus, a
+virus in 37 Coronaviridae, are reported. Type 1 recombinant EV-Gs are
+detected in pig feces in Japan, USA, 38 and Belgium and carry the PLPC
+gene at the junction site of 2C/3A genes, while PLPC gene 39 replaces
+the viral structural genes in type 2 recombinant EV-G detected in pig
+feces in a Chinese 40 farm. We identified a novel type 2 recombinant
+EV-G carrying the PLCP gene with flanking 41 sequences in place of the
+viral structural genes in pig feces in Japan. The ~0.3 kb-long
+upstream 42 flanking sequence had no sequence homology with any
+proteins deposited in GenBank, while the 43 downstream ~0.9 kb-long
+flanking sequence included a domain having high amino acid sequence 44
+homology with a baculoviral inhibitor of apoptosis repeat superfamily.
+The pig feces, where the 45 novel type 2 recombinant EV-G was
+detected, also carried type 1 recombinant EV-G. Although the 46
+phylogenetic analysis suggested that these two recombinant EV-Gs have
+independently evolved, 47 type 1 recombinant EV-G might have served as
+a helper virus by providing viral structural proteins 48 for
+dissemination of the type 2 recombinant EV-G. 49 50
+
+####################-2dc6766fe253b1b832d8a3074404fb5daae4762f-####################
+title: Transferrin binding protein B and Transferrin binding protein A
+2 expand the transferrin 1 recognition range of Histophilus somni 2 3
+Running title: TbpB and TbpA2 broaden specificity of
+abstract: The bacterial bipartite transferrin receptor is an iron
+acquisition system that is required for 12 survival by several key
+human and animal pathogens. It consists of the TonB-dependent 13
+transporter Transferrin binding protein A (TbpA) and the surface
+lipoprotein Transferrin binding 14 protein B (TbpB). Curiously, the
+Tbps are only found in host specific pathogens, and are 15 themselves
+host specific, meaning that they will bind to the transferrin of their
+host species, but 16 not to those of other animal species. While this
+phenomenon has long been established, neither 17 the steps in the
+evolutionary process that led to this exquisite adaptation for the
+host, nor the 18 steps that could alter it, are known. We sought to
+gain insight into these processes by studying 19 Tbp specificity in
+Histophilus somni, a major pathogen of cattle. A past study showed
+that whole 20 cells of H. somni specifically bind bovine transferrin,
+but not transferrin from sheep and goats, 21 two bovids whose
+transferrins share 93% amino acid sequence identity with bovine
+transferrin. 22 To our surprise, we found that H. somni can use sheep
+and goat transferrins as iron sources for 23 growth, and that HsTbpB,
+but not HsTbpA, has detectable affinity for sheep and goat 24
+transferrins. Furthermore, a third transferrin binding protein,
+HsTbpA2, also showed affinity for 25 sheep and goat transferrins. Our
+results show that H. somni TbpB and TbpA2 act to broaden the 26 host
+transferrin recognition range of H. somni. 27
+
+####################-736b4793b11d01f4b55ea53eaf59f7325493b27b-####################
+title: Knowledge and attitudes of Ebola among the general public of
+Trinidad and Tobago during the 2014-15 West Africa outbreak
+abstract: Objective: Health system resilience and resilience of a
+country include the capacity of health personnel, institutions, and
+populations to prepare for and effectively respond to crises. This
+study investigates the knowledge and attitudes of the public
+concerning Ebola Virus Disease in Trinidad and Tobago. Design and
+Methods: A cross sectional study whereby respondents (n = 920) were
+sampled from public places. Data were collected via interviewer
+administered questionnaires. Data were analysed using SPSS version 23.
+Results: The response rate was 67.6 % (622/920). The main age category
+of responders was the 20 to 30 year age category (40.5%); responders
+were mostly female (58.0 %). Regarding knowledge, there were
+significant differences among occupational categories (F = 2.811, df1
+= 6, df2 = 571, p-value = 0.011). Tukey's HSD post hoc test revealed
+that the mean knowledge scores for professional and sales occupations
+differed significantly (p-value = 0.003). There was a significant
+association between being afraid to go for treatment and age (p-value
+= 0.001). Significant associations were also found between
+occupational grouping and education attainment with opinion about the
+preparedness of private medical facilities, likelihood to shun family
+members with Ebola, being afraid to go for treatment and preference
+for traditional medicine (p-value <0.05). This study highlights
+opportunities for community engagement to enhance health system
+resilience during outbreaks which would maximise national and global
+health security. All rights reserved. No reuse allowed without
+permission.
+
+####################-7ea2f1ca7b3c2370d413ae990eb71b2b990c91fe-####################
+title: Clearing the FoG: Antifungal tolerance is a subpopulation
+effect that is distinct from 3 resistance and is associated with
+persistent candidemia 4 5
+abstract: Drug susceptibility, defined by the minimal inhibitory
+concentration (MIC), often does not 25 predict whether fungal
+infections will respond to therapy in the clinic. Tolerance at supra-
+MIC 26 antifungal drug concentrations is rarely quantified and current
+clinical recommendations suggest 27 it be ignored. Here, we measured
+and characterized drug-response variables that could 28 influence the
+outcomes of fungal infections and be generalizable across major clades
+of 29 Candida albicans, one of the most frequently isolated human
+fungal pathogens. We quantified 30 antifungal tolerance as the
+fraction of growth (FoG) above the MIC and found that it is clearly 31
+distinct from susceptibility/resistance measured as MIC. Instead,
+tolerance is due to the slow 32 growth of subpopulations of cells that
+overcome drug stress more efficiently than the rest of the 33
+population, and correlates inversely with the accumulation of
+intracellular drug. Importantly, 34 many adjuvant drugs used together
+with fluconazole, a fungistatic drug, reduce tolerance 35 without
+affecting resistance. These include inhibitors of major stress
+response hubs such as 36 Hsp90, calcineurin, PKC1 and TOR.
+Accordingly, in an invertebrate infection model, adjuvant 37
+combination therapy was significantly more effective than fluconazole
+alone in treating highly 38 tolerant isolates and did not improve the
+treatment of isolates with low tolerance levels. Furthermore, isolates
+recovered from immunocompetent patients with persistent candidemia 40
+displayed significantly higher tolerance than isolates that were
+readily cleared by fluconazole. 41 Thus, tolerance correlates with the
+response to fluconazole therapy in patients and may help 42 predict
+whether infections will respond to fluconazole alone. Similarly,
+measuring tolerance may 43 provide a useful clinical parameter for
+choosing appropriate therapeutic strategies to overcome 44 persistent
+clinical candidemia. 45 46 47 48 49 All rights reserved. No reuse
+allowed without permission. The copyright holder for this preprint
+(which was not peer-reviewed) is the author/funder. .
+https://doi.org/10.1101/206359 doi: bioRxiv preprint 50 A goal of
+antimicrobial susceptibility testing is to predict the clinical
+success or failure of 51 antibiotic therapy. Some infections are
+recalcitrant to drug treatment due to 'resistance', which 52 refers to
+microbial growth in the presence of drug concentrations that inhibit
+susceptible 53 isolates 1,2 . Susceptibility is commonly measured as
+the Minimal Inhibitory Concentration (MIC) 54 after 24 h of growth in
+the presence of drug 3,4 . Fungal infections generally follow the
+"90/60" rule 55 for predicting therapeutic outcomes based on in vitro
+susceptibility testing: ~90% of susceptible 56 isolates and 60% of
+resistant isolates respond to therapy 5-9 . This implies that
+infection 57 outcomes are influenced by host factors as well as
+features of the pathogen that are not 58 reflected by the MIC 10,11 .
+In effect, organisms that cause persistent infections, defined as
+those 59 that are not cleared by a course of antifungal treatment,
+have similar susceptibilities to 60 organisms that are readily cleared
+by a course of antifungal treatment 12 . Accordingly, it is 61
+important to identify measurable parameters that can contribute to
+disease severity. Only four classes of antifungals are currently in
+clinical use, and resistance to azoles, 63 including fluconazole
+(FLC), the most commonly administered antifungal against Candida 64
+species, is an increasing problem. Altered drug uptake/drug efflux and
+changes in ergosterol 65 biosynthesis (the target for azole drugs) 13
+are the major known mechanisms of azole resistance. Stress responses
+have been proposed as a third mechanism of antifungal resistance 14 .
+A 67 broad range of small molecules enhance antifungal activity in
+vitro and in vivo, with inhibitors of 68 Hsp90, calcineurin and TOR
+the most prominent among them 15-18 . Combination therapy using 69
+antifungals together with such inhibitors has been proposed as a
+promising strategy to extend 70 the efficacy of current drugs
+[19][20][21][22][23][24]25,26,27 . In addition, several
+psychotherapeutic agents such as 71 fluoxetine, fluphenazine or
+sertraline can enhance FLC activity against fungal species 21,28-30 .
+Whether such adjuvants affect therapeutic outcomes remains to be
+addressed. Persistent candidemia, defined as the failure to clear a
+bloodstream infection caused by 74 a susceptible organism 12,31,32 ,
+is associated with increased mortality. In one study, the mortality 75
+All rights reserved. No reuse allowed without permission. The
+copyright holder for this preprint (which was not peer-reviewed) is
+the author/funder. . https://doi.org/10.1101/206359 doi: bioRxiv
+preprint rate was 54% among infections with persistent candidemia and
+only 3% among those with non-76 persistent candidemia 33 . Mechanisms
+underlying persistent candidemia may include variability 77 in the
+pharmacology of the drug, suboptimal dosing, presence of fungal
+biofilms on indwelling 78 catheters, and reduced immunity. We posit
+that some responses to the drug are not captured 79 by measuring the
+MIC alone and that additional parameters could be used to predict the
+80 likelihood that a clinical isolate might respond poorly to
+antifungal drugs. Furthermore, 81 understanding the mechanisms that
+underlie these parameters is critical for the development of 82 new
+therapeutic approaches against persistent Candida infections. 83 MIC
+measurements have been optimized to minimize or ignore residual fungal
+84 growth 9,34,35 , termed 'tolerance' or 'trailing growth', which has
+been discussed in the literature for 85 over 20 years 36,37 and is
+detected in 25-60% of clinical isolates 4,10,19,38-44 . This
+recommendation 86 is based upon studies of acute infections using the
+mouse model of bloodstream candidiasis 45-87 47 , and the observation
+that isolates with high trailing growth in mucosal infections respond
+88 positively to short term antifungal treatment, despite later
+recurrence of infection 48 . Trailing 89 growth is sensitive to
+environmental conditions, including pH, temperature and nutrients
+3,49,50 90 and is usually detected in liquid cultures. Definitions of
+'tolerance' vary and generally describe 91 survival or growth above
+inhibitory concentrations 2,10,28,38,51-56 , detected as slow growth
+within 92 the zone of inhibition using E-strips or disk diffusion
+assays 57,58 , or in broth microdilution 93 assays 38,39 . Tolerance
+can be affected by several adjuvant drugs 19-24 , iron levels 19,59 ,
+genes 94 involved in vacuolar protein sorting 38,47 , as well as
+calcium flux 28,55,59-61 . However, the precise 95 relationship
+between the outcome of fungal infections and tolerance or trailing
+growth has not 96 been determined. Because tolerant cells continue to
+divide in the presence of antifungals, we 97 postulated that they
+contribute to the persistence and/or recurrence of fungal infections.
+Here, we measured susceptibility and tolerance in a broad range of
+clinical isolates 99 spanning the major C. albicans clades 62-64 and
+asked how these parameters influence fungal 100 infection outcomes. We
+analyzed disk diffusion assays using diskImageR, and quantified the
+101 All rights reserved. No reuse allowed without permission. The
+copyright holder for this preprint (which was not peer-reviewed) is
+the author/funder. . https://doi.org/10.1101/206359 doi: bioRxiv
+preprint radius (RAD) of the zone of inhibition, a parameter that
+relates to the MIC 65 , and the fraction of 102 growth (FoG) within
+the zone of inhibition, a parameter that measures tolerance
+19,38,50,66-68 . We 103 found that a range of adjuvant drugs, used in
+combination with FLC, increased drug cidality by 104 reducing FoG and
+not MIC and were effective both in vitro and in vivo at inhibiting
+strains with 105 high (and not low) FoG levels. Finally, highly
+tolerant isolates were associated with persistent 106 candidemia,
+suggesting that knowing the tolerance level of an infecting isolate
+may have 107 important clinical implications and may inform treatment
+options. 108 109 Results Tolerance measured as FoG is distinct from
+drug resistance. We quantified drug 111 responses in C. albicans
+isolates from different genetic backgrounds and types of infections
+112 using diskImageR, a quantitative analysis tool that measures RAD,
+the radius of the zone of 113 inhibition, an indicator of
+susceptibility that relates to MIC 69,70 , and FoG, the fraction of
+growth 114 within the zone of inhibition, relative to the maximum
+possible growth 65 (Fig. 1a) . A screen of 115 219 clinical isolates
+(Supplementary Table 1 ) revealed that FoG levels ranged widely from
+0.10 116 to 0.85 and did not correlate with RAD levels (Fig. 1b,c) ,
+indicating that FoG and RAD measure 117 independent drug responses.
+FoG was detected in response to other drugs including fungistatic 118
+antifungals (azoles, 5-fluorocytosine) and, to a lesser degree, to
+fungicidal agents 119
+
+####################-9261e7a9a4d3febda29d574074a79f02376249a3-####################
+title: Intrinsic checkpoint deficiency during cell cycle re-entry from
+quiescence Condensed title: Underlicensing at cell cycle re-entry
+abstract: The authors find that human cells re-entering the cell cycle
+from quiescence have both an impaired p53-dependent DNA replication
+origin licensing checkpoint and slow origin licensing. This
+combination makes every first S phase underlicensed and hypersensitive
+to replication stress. To maintain tissue homeostasis, cells
+transition between cell cycle quiescence and proliferation. An
+essential G1 process is Minichromosome Maintenance complex (MCM)
+loading at DNA replication origins to prepare for S phase, known as
+origin licensing. A p53-dependent origin licensing checkpoint normally
+ensures sufficient MCM loading prior to S phase entry. We used
+quantitative flow cytometry and live cell imaging to compare MCM
+loading during the long first G1 upon cell cycle entry and the shorter
+G1 phases in the second and subsequent cycles. We discovered that
+despite the longer G1 phase, the first G1 after cell cycle re-entry is
+significantly underlicensed. As a result, the first S phase cells are
+hypersensitive to replication stress. This underlicensing is from a
+combination of slow MCM loading with a severely compromised origin
+licensing checkpoint. The hypersensitivity to replication stress
+increases over repeated rounds of quiescence. Thus, underlicensing
+after cell cycle re-entry from quiescence distinguishes a higher risk
+cell cycle that promotes genome instability.
+
+####################-f7b069911c90d9deab85becbad3e9a633e0bf57c-####################
+title: Inferring the number of COVID-19 cases from recently reported
+deaths Centre for the Mathematical Modelling of Infectious Diseases
+COVID-19 Working Group
+abstract: We estimate the number of COVID-19 cases from newly reported
+deaths in a population without previous reports. Our results suggest
+that by the time a single death occurs, hundreds to thousands of cases
+are likely to be present in that population. This suggests containment
+via contact tracing will be challenging at this point, and other
+response strategies should be considered. Our approach is implemented
+in a publicly available, userfriendly, online tool. . CC-BY 4.0
+International license It is made available under a is the
+author/funder, who has granted medRxiv a license to display the
+preprint in perpetuity. The copyright holder for this preprint . We
+applied our approach to three countries which recently reported their
+first COVID-19 deaths (Spain, Italy, and France), using the same range
+of parameters as in the single-death analysis. In order to compare
+predictions to cases actually reported in these countries, projections
+were run until 4th March. Overall, predictions from the model using
+the baseline scenario (R = 2, CRF = 2%) were in line with reported
+epidemic sizes (Table 2). Results from other scenarios are presented
+in the Supplementary Material. Actual numbers of reported cases fell
+within the 50% quantile intervals of simulations in all three
+countries Italy (median: 1 294 ; QI50%: [390 ; 3 034]; reported: 2
+037), France (median: 592 ; QI50%: [177 ; 1 705]; reported: 190) and
+Spain, (median: 202 ; QI50%: [95 ; 823]; reported 202). . CC-BY 4.0
+International license It is made available under a is the
+author/funder, who has granted medRxiv a license to display the
+preprint in perpetuity. (which was not peer-reviewed) The copyright
+holder for this preprint .
+
+####################-311a15d92b87b2bc41f00afed881b95e93c22fcc-####################
+title: Comparative analysis reveals adaptive evolution of bat IFITMs
+and a novel 1 antiviral determinant
+abstract: doi: bioRxiv preprint 65 required for the antiviral activity
+of both IFITM3 and IFITM1 [9]. The subcellular localization of 66
+IFITMs is a key determinant of their antiviral profile. When expressed
+singly, IFITM3 and IFITM2 67 preferentially localize to early and late
+endosomes and lysosomes, and restrict viruses that enter via 68 these
+endo-lysosomal compartments. In contrast, IFITM1 primarily localizes
+at the cell surface and 69 can restrict viruses that enter through the
+plasma membrane [11-14]. Indeed, mutants of IFITM3 70 that lack an
+N-terminal endocytic sorting motif 20 YEML 23 localize to the plasma
+membrane and lose 71 their ability to inhibit influenza A virus (IAV),
+alphavirus and coronavirus infection by endosomal 72 routes [14-18].
+73 74 Studies focusing on IFITM3 restriction of IAV and Semliki Forest
+Virus (SFV) indicate that virus 75 internalization is unaffected by
+IFITM3 expression and, for SFV at least, the viral envelope 76 . CC-
+BY-NC-ND 4.0 International license author/funder. It is made available
+under a The copyright holder for this preprint (which was not peer-
+reviewed) is the . https://doi.org/10.1101/737841 doi: bioRxiv
+preprint 109 knockout mice show enhanced morbidity after infection
+with IAV, alphaviruses and flaviviruses [33-110 .
+
+####################-67a2ae408efcb6686a22ae27435c7e4fa10c4a21-####################
+title: Title: First 12 patients with coronavirus disease
+abstract: Introduction: More than 93,000 cases of coronavirus disease
+have been reported worldwide. We describe the epidemiology, clinical
+course, and virologic characteristics of the first 12 U.S. patients
+with COVID-19. We collected demographic, exposure, and clinical
+information from 12 patients confirmed by CDC during January
+20-February 5, 2020 to have COVID-19. Respiratory, stool, serum, and
+urine specimens were submitted for SARS-CoV-2 rRT-PCR testing, virus
+culture, and whole genome sequencing. Results: Among the 12 patients,
+median age was 53 years (range: 21-68); 8 were male, 10 had traveled
+to China, and two were contacts of patients in this series. Commonly
+reported signs and symptoms at illness onset were fever (n=7) and
+cough (n=8). Seven patients were hospitalized with radiographic
+evidence of pneumonia and demonstrated clinical or laboratory signs of
+worsening during the second week of illness. Three were treated with
+the investigational antiviral remdesivir. All patients had SARS-CoV-2
+RNA detected in respiratory specimens, typically for 2-3 weeks after
+illness onset, with lowest rRT-PCR Ct values often detected in the
+first week. SARS-CoV-2 RNA was detected after reported symptom
+resolution in seven patients. SARS-CoV-2 was cultured from respiratory
+specimens, and SARS-CoV-2 RNA was detected in stool from 7/10
+patients. In 12 patients with mild to moderately severe illness, SARS-
+CoV-2 RNA and viable virus were detected early, and prolonged RNA
+detection suggests the window for diagnosis is long. Hospitalized
+patients showed signs of worsening in the second week after illness
+onset. for use under a CC0 license.
+
+####################-83323659de2f2d5ed3ca6ada7cf137a8a17bb014-####################
+title: Alpha-ketoamides as broad-spectrum inhibitors of coronavirus
+and enterovirus replication Structure-based design, synthesis, and
+activity assessment
+abstract: The main protease of coronaviruses and the 3C protease of
+enteroviruses share a similar active-site architecture and a unique
+requirement for glutamine in the P1 position of the substrate. Because
+of their unique specificity and essential role in viral polyprotein
+processing, these proteases are suitable targets for the development
+of antiviral drugs. In order to obtain nearequipotent, broad-spectrum
+antivirals against alphacoronaviruses, betacoronaviruses, and
+enteroviruses, we pursued structure-based design of peptidomimetic
+a-ketoamides as inhibitors of main and 3C proteases. Six crystal
+structures of protease:inhibitor complexes were determined as part of
+this study. Compounds synthesized were tested against the recombinant
+proteases as well as in viral replicons and virus-infected cell
+cultures; most of them were not cell-toxic. Optimization of the P2
+substituent of the aketoamides proved crucial for achieving near-
+equipotency against the three virus genera. The best near-equipotent
+inhibitors, 11u (P2 = cyclopentylmethyl) and 11r (P2 =
+cyclohexylmethyl), display low-micromolar EC50 values against
+enteroviruses, alphacoronaviruses, and betacoronaviruses in cell
+cultures. In Huh7 cells, 11r exhibits three-digit picomolar activity
+against Middle East Respiratory Syndrome coronavirus. We chose the
+chemical class of peptidomimetic a-ketoamides to assess the
+feasibility of achieving antiviral drugs targeting coronaviruses and
+enteroviruses with near-equipotency. Here we describe the structure-
+based design, synthesis, and evaluation of inhibitory activity of a
+series of compounds with broad-spectrum activities afforded by
+studying the structure-activity relationships mainly with respect to
+the P2 position of the peptidomimetics. One of the compounds designed
+and synthesized exhibits excellent activity against MERS-CoV. RESULTS
+Our efforts to design novel a-ketoamides as broad-spectrum inhibitors
+of coronavirus M pro s and enterovirus 3C pro s started with a
+detailed analysis of the following crystal structures of unliganded
+target enzymes: SARS-CoV M pro (ref. 25-27; PDB entries 1UJ1, 2BX3,
+2BX4); bat coronavirus HKU4 M pro as a surrogate for the closely
+related MERS-CoV protease (our unpublished work (Ma, Xiao et al.; PDB
+entry 2YNA; see also ref. 27); HCoV-229E M pro (ref. 27,28; PDB entry:
+1P9S); Coxsackievirus B3 3C pro (our unpublished work; Tan et al., PDB
+entry 3ZYD); enterovirus D68 3C pro (ref. 29; PDB entry: 3ZV8); and
+enterovirus A71 3C pro (ref. 30; PDB entry: 3SJK). During the course
+of the present study, we determined crystal structures of a number of
+lead a-ketoamide compounds in complex with SARS-CoV M pro , HCoV-NL63
+M pro , and CVB3 3C pro , in support of the design of improvements in
+the next round of lead optimization. Notably, unexpected differences
+between alpha-and betacoronavirus M pro were found in this study. The
+structural foundation of these was elucidated in detail in a
+subproject involving the M pro of HCoV NL63; because of its volume,
+this work will be published separately (Zhang et al., in preparation)
+and only some selected findings are referred to here. The main
+protease of the newly discovered coronavirus linked to the Wuhan
+outbreak of respiratory illness is 96% identical (98% similar) in
+amino-acid sequence to that of SARS-CoV M pro (derived from the RNA
+genome of BetaCoV/Wuhan/IVDC-HB-01/2019, Genbank accession code:
+MN908947.2; http://virological.org/t/initialgenome-release-of-novel-
+coronavirus/319, last accessed on January 11, 2020), so all results
+reported here for inhibition of SARS-CoV will most likely also apply
+to the new virus.
+
+####################-8b2e50eb3ea84225580fbdbccccb4fcd3f062feb-####################
+title: Title: Intrinsic growth rules of patients infected, dead and
+cured with 2019 novel 1 coronavirus in mainland China 2
+abstract: Background 33 An outbreak of a novel coronavirus (SARS-
+CoV-2)-infected pneumonia was first occurred in Wuhan, China, in
+December 2019 and then spread rapidly to 35 other regions. It has been
+declared that at least one confirmed case infected by 36 SARS-CoV-2
+was found in each province of China by late January 2020. 37 We
+collected the time series data of the cumulative number of confirmed
+infected, 39 dead, and cured cases from the health commissions in 31
+provinces in mainland China. 40 A simple descriptive model in a
+logistic form was formulated to infer the intrinsic 41 epidemic rules
+of COVID-19. Furthermore, we compared the intrinsic epidemic rules 42
+of COVID-19 in Hubei with that of severe acute respiratory syndrome
+(SARS) in 43 Beijing, which was obtained from the Ministry of Public
+Health of China in 2003. 44 The feature of data of three population
+groups in all the provinces could be well 46 captured (R 2 >0.95) by
+the proposed descriptive model with slight variation among 47 (which
+was not peer-reviewed) The copyright holder for this preprint .
+
+####################-cbc05d14c57b91081970a232ab83bc993f998fe2-####################
+title: Incubation Period and Other Epidemiological Characteristics of
+2019 Novel Coronavirus Infections with Right Truncation: A Statistical
+Analysis of Publicly Available Case Data
+abstract: The geographic spread of 2019 novel coronavirus infections
+from the epicenter of Wuhan, China, has provided an opportunity to
+study the natural history of the recently emerged virus. Using
+publicly available event-date data from the ongoing epidemic, the
+present study investigated the incubation period and other time
+intervals that govern the epidemiological dynamics of COVID-19
+infections. Our results show that the incubation period falls within
+the range of 2-14 days with 95% confidence and has a mean of around 5
+days when approximated using the best-fit lognormal distribution. The
+mean time from illness onset to hospital admission (for treatment
+and/or isolation) was estimated at 3-4 days without truncation and at
+5-9 days when right truncated. Based on the 95th percentile estimate
+of the incubation period, we recommend that the length of quarantine
+should be at least 14 days. The median time delay of 13 days from
+illness onset to death (17 days with right truncation) should be
+considered when estimating the COVID-19 case fatality risk.
+
+####################-402041df2d9812dbcdae08153d0350eee170eea9-####################
+title: Chemogenetic evidence that rapid neuronal de novo protein
+synthesis is 3 required for consolidation of long-term memory
+Introduction 82
+abstract: Translational control of memory processes is a tightly
+regulated process where the coordinated interaction and 47 modulation
+of translation factors provides a permissive environment for protein
+synthesis during memory 48 formation. Existing methods used to block
+translation lack the spatiotemporal precision to investigate cell-49
+specific contributions to consolidation of long-term memories. Here,
+we have developed a novel chemogenetic 50 mouse resource for cell
+type-specific and drug-inducible protein synthesis inhibition (ciPSI)
+that utilizes an 51 engineered version of the catalytic kinase domain
+of dsRNA-activated protein (PKR). ciPSI allows rapid and 52 reversible
+phosphorylation of eIF2α causing a block on general translation by 50%
+in vivo. Using this resource, 53 we discovered that temporally
+structured pan-neuronal protein synthesis is required for
+consolidation of long-54 term auditory threat memory. Targeted protein
+synthesis inhibition in CamK2α expressing glutamatergic 55 neurons in
+lateral amygdala (LA) impaired long-term memory, which was recovered
+with artificial chemogenetic 56 reactivation at the cost of stimulus
+generalization. Conversely, genetically reducing phosphorylation of
+eIF2α in 57 CamK2α positive neurons in LA enhanced memory strength,
+but was accompanied with reduced memory 58 fidelity and behavior
+inflexibility. Our findings provide evidence for a finely tuned
+translation program during 59 consolidation of long-term threat
+memories. Memory is the capacity of an organism to encode, store, and
+retrieve information, and often guides the 83 action of the organism
+towards a better survival outcome. Aversive life-threatening events
+often lead to long-84 term associative memories between the
+environment in which those events were experienced in and the 85
+threat, such that a salient cue from the event when presented again
+can elicit species-specific defensive 86 behaviors. Pavlovian cued
+threat conditioning is a useful experimental paradigm for
+understanding the 87 biological substrates of an associative threat
+memory, in which a neutral cue (e.g. light or tone) co-presented 88
+with an innately aversive stimulus (e.g. air puff or footshock)
+elicits a defensive response such as freezing by a 89 repeat
+presentation by itself 1 . Cued threat conditioning is particularly
+amenable to studying memory 90 consolidation process because one-trial
+training is sufficient to form a persistent long-term memory and a 91
+unimodal cue can be used for memory retrieval. Long-term aversive
+memories are thought to recruit a 92 distributed network of neurons
+across the brain, including subnuclei within amygdala, hippocampus,
+thalamus, 93 as well as the neocortex, depending on the brain state,
+cue complexity, and the sensory pathways engaged 2, 3 . Lateral
+amygdala is the central sensory gateway for the amygdaloid complex and
+is crucially engaged both in 95 the processing and storage of the
+associative aversive memories 4, 5, 6 . Decades of studies have
+reported that consolidation of long-term memories requires one or more
+98 waves of new protein synthesis after the memory is first encoded 7,
+8, 9, 10 ; however, the use of pharmacological 99 protein synthesis
+inhibitors (PSI) in these studies is burdened with limitations. For
+instance, an extensively 100 used PSI, anisomycin, causes unwanted
+side effects that include superinduction of immediate early genes, 101
+activation of stress signaling pathways, and catecholamine release 11,
+12 . Pharmacological PSIs also do not 102 discriminate between
+molecularly heterogeneous cell populations and thus, do not allow
+manipulation of cell 103 autonomous protein synthesis. Genetic
+approaches to alter the translation machinery at the initiation step
+104 provide less ambiguous evidence for the role of protein synthesis
+in memory processes 13, 14 . However 105 constitutive deletion of
+genes encoding translational control molecules lacks the temporal
+control needed to 106 convincingly interrogate the role of protein
+synthesis in memory consolidation. Past attempts at making 107
+chemogenetic tools for blocking protein synthesis have had limited
+success 15 . A key regulatory step in mammalian protein synthesis is
+the assembly of active eIF2.GTP and initiator-110 methionyl tRNA into
+a ternary complex that binds the 40S ribosome. Various types of
+cellular stress engage 111 pathway-specific protein kinases that
+phosphorylate the α subunit of eIF2 on serine 51, which converts eIF2
+112 from a substrate to a competitive inhibitor of eIF2B, a guanine
+exchange factor that promotes the conversion of 113 inactive eIF2.GDP
+to active eIF2.GTP. Thus, phosphorylation of eIF2α stops the recycling
+of the ternary 114 complex and inhibits general translation 16 .
+However, phosphorylation of eIF2α also leads to a paradoxical 115
+increase in gene-specific translation of transcripts harboring
+upstream open reading frames (uORFs) by 116 overcoming the inhibitory
+effects of uORFs on reinitiation at the putative start codon as
+ternary complexes 117 decline 17 . Dephosphorylation of eIF2α occurs
+during L-LTP as well as during consolidation and reconsolidation
+
+####################-9b5f5119bbfbded3245acc37859cefde967458e7-####################
+title: TITLE Containing Emerging Epidemics: a Quantitative Comparison
+of Quarantine and Symptom Monitoring
+abstract: Strategies for containing an emerging infectious disease
+outbreak must be nonpharmaceutical when drugs or vaccines for the
+pathogen do not yet exist or are unavailable. The success of these
+non-pharmaceutical strategies will depend not only on the
+effectiveness of quarantine or other isolation measures but also on
+the epidemiological characteristics of the infection. However, there
+is currently no systematic framework to assess the relationship
+between different containment strategies and the natural history and
+epidemiological dynamics of the pathogen. Here, we compare the
+effectiveness of quarantine and symptom monitoring, implemented via
+contact tracing, in controlling epidemics using an agent-based
+branching model. We examine the relationship between epidemic
+containment and the disease dynamics of symptoms and infectiousness
+for seven case study diseases with diverse natural histories including
+Ebola, Influenza A, and Severe Acute Respiratory Syndrome (SARS). We
+show that the comparative effectiveness of symptom monitoring and
+quarantine depends critically on the natural history of the infectious
+disease, its inherent transmissibility, and the intervention
+feasibility in the particular healthcare setting. The benefit of
+quarantine over symptom monitoring is generally maximized for fast-
+course diseases, but we show the conditions under which symptom
+monitoring alone can control certain outbreaks. This quantitative
+framework can guide policy-makers on how best to use non-
+pharmaceutical interventions to contain emerging outbreaks and
+prioritize research during an outbreak of a novel pathogen.
+
+####################-5f06ba54c9208857d92abfd16488c44217f8d726-####################
+title: Remote control of neural function by X-ray-induced
+scintillation
+abstract: Scintillators exhibit visible luminescence, called
+scintillation, when irradiated with X-rays. Given that X-rays
+penetrate through biological tissues, X-ray-induced scintillation
+would enable remote optogenetic control of neural functions at any
+depths in the brain. Here we show that a yellow-emitting inorganic
+scintillator, Ce-doped Gd3(Al,Ga)5O12 (Ce:GAGG), can effectively
+activate red-shifted excitatory and inhibitory opsins. Using these
+scintillator-opsin combinations, we successfully activated and
+inhibited midbrain dopamine neurons of freely moving mice by X-ray
+irradiation, producing bi-directional modulation of place preference
+behavior. The Ce:GAGG crystal was biocompatible and could be implanted
+for a long period without progressive neuroinflammatory responses.
+Neither brain injury nor behavioral dysfunction was acutely induced by
+radiation during the behavioral tests. Thus, X-ray-induced
+scintillation allows wireless control of cellular functions in living
+animals, expanding X-ray applications to functional studies of biology
+and medicine.
+
+####################-a33f451d8e2caff57c1133f14198454a64993c47-####################
+title: Monoclonal antibodies for the S2 subunit of spike of SARS-CoV
+cross-react with the newly-emerged SARS-CoV-2
+abstract: 1
+
+####################-3b181a741d4beafda3ba3a8fc68239493d49f6aa-####################
+title: Estimation of local novel coronavirus (COVID-19) cases in
+Wuhan, China from off-site reported cases and population flow data
+from different sources
+abstract: Backgrounds: In December 2019, a novel coronavirus
+(COVID-19) pneumonia hit Wuhan, Hubei Province, China and spread to
+the rest of China and overseas. The emergence of this virus coincided
+with the Spring Festival Travel Rush in China. It is possible to
+estimate total number of cases of COVID-19 in Wuhan, by 23 January
+2020, given the cases reported in other cities and population flow
+data between cities. Methods: We built a model to estimate the total
+number of cases in Wuhan by 23 January 2020, based on the number of
+cases detected outside Wuhan city in China, with the assumption that
+if the same screening effort used in other cities applied in Wuhan. We
+employed population flow data from different sources between Wuhan and
+other cities/regions by 23 January 2020. The number of total cases was
+determined by the maximum log likelihood estimation. Findings: From
+overall cities/regions data, we predicted 1326 (95% CI: 1177, 1484),
+1151 (95% CI: 1018, 1292) and 5277 (95% CI: 4732, 5859) as total cases
+in Wuhan by 23 January 2020, based on different source of data from
+Changjiang Daily newspaper, Tencent, and Baidu. From separate
+cities/regions data, we estimated 1059 (95% CI: 918, 1209), 5214 (95%
+CI: 4659, 5808) as total cases in Wuhan in Wuhan by 23 January 2020,
+based on different sources of population flow data from Tencent and
+Baidu. Conclusion: Sources of population follow data and methods
+impact the estimates of local cases in Wuhan before city lock down.
+
+####################-c8df44a3612e85e267351e936ddeb8fc5867afa1-####################
+title: The timing of one-shot interventions for epidemic control
+abstract: The apparent early success in China's large-scale
+intervention to control the COVID-19 epidemic has led to interest in
+whether other countries can replicate it as well as concerns about a
+resurgence of the epidemic if or when China relaxes the interventions.
+In this paper we look at the impact of a single short-term
+intervention on an epidemic. We see that if an intervention cannot be
+sustained long-term, it has the greatest impact if it is imposed once
+infection levels have become large enough that there is an appreciable
+number of infections present. For minimising the total number infected
+it should start close to the peak so that there is no rebound once the
+intervention is stopped, while to minimise the peak prevalence, it
+should start earlier, allowing two peaks of comparable size rather
+than one very large peak. In populations with distinct subgroups,
+synchronized interventions are less effective than targeting the
+interventions in each sub-population separately. We do not attempt to
+clearly determine what makes an intervention sustainable or not. We
+believe that is a policy question. If an intervention is sustainable,
+it should be kept in place. Our intent is to offer insight into how
+best to time an intervention whose impact on society is too great to
+maintain.
+
+####################-f3ff1ecae96700f41b83d2a034a3a959428388b0-####################
+title: participated in study design
+abstract: and chest computed tomographic (CT) images were obtained and
+analyzed. Findings All cases were confirmed by real-time RT-PCR,
+including 52 males and 50 females with a mean age of 50.38 years (SD
+16.86). Incubation time ranged from one to twenty days with a mean
+period of 8.09 days (SD 4.99). Fever (86[84.3%] of 102 patients),
+cough (58[57%]), fatigue (28[27%]), shortness of breath (24[23%]),
+diarrhea (15[15%]), expectoration (13[12%]), inappetence (11[10%])
+were common clinical manifestations. We observed a decreased blood
+leukocyte count and lymphopenia in 21 (20.6%) and 56 (54.9%) patients,
+respectively. There were 66 (68%) of 97 patients with elevated
+C-reactive protein levels and 49 (57.6%) of 85 with increased
+erythrocytes sedimentation rate. Higher levels of procalcitonin and
+ferritin were observed in 19 (25.3%) of 75 and 12 (92.3%) of 13
+patients, respectively. Eight patients were admitted to intensive care
+unit (ICU), six developed respiratory failure, three had multiple
+organ failure and three died. The cumulative positivity rate over
+three rounds of real-time RT-PCR was 96%. One-hundred patients were
+found with typical radiological abnormalities in two rounds of chest
+CT scans, indicating a 98% consistency with real-time RT-PCR results.
+Interpretation Most COVID-19 patients in Xiangyang were secondary
+cases without sex difference, and the rate of severe case and death
+was low. Middle-to-old-age individuals were more susceptible to the
+virus infection and the subsequent development of severe/fatal
+consequences. The average incubation period was longer among our
+patients. We recommend prolonging the quarantine period to three
+weeks. Three times real-time RT-PCR plus two times CT scans is a
+practical clinical diagnosis strategy at present and should be used to
+increase the accuracy of diagnosis, thereby controlling the source of
+infection more effectively.
+
+####################-68ed7bb581b0cf32116ee46767c08e3180b05c34-####################
+title: Clinical characteristics of 36 non-survivors with COVID-19 in
+Wuhan, China
+abstract:
+
