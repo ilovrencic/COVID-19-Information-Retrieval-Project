@@ -10,6 +10,7 @@ class Dataset(Enum):
 	BIORXIV = BASE_URL + "biorxiv_medrxiv100/"
 	COMMON = BASE_URL + "comm_use100/"
 	NONCOMMON = BASE_URL + "noncomm_use100/"
+	TEST = BASE_URL + "test_data/"
 
 #Custom exception if the dataset isn't provided
 class NoDatasetDefinedException(Exception):
@@ -17,11 +18,12 @@ class NoDatasetDefinedException(Exception):
 
 #Paper class that contains textual elements of a paper
 class Paper:
-	def __init__(self, title = "", abstract = "", body = ""):
+	def __init__(self, title = "", abstract = "", body = "",paper_id = ""):
 		self.title = title
 		self.abstract = abstract
 		self.body = body
 		self.whole_text = title+" "+abstract+" "+body
+		self.id = paper_id
 
 	def __str__(self):
 		paper = ""
@@ -75,7 +77,7 @@ class Parser:
 				if "text" in paragraph:
 					body_text += paragraph["text"]
 
-		return Paper(title,abstract_text,body_text)
+		return Paper(title,abstract_text,body_text, paper_dict["paper_id"])
 
 	#Main function 
 	#param parseByParts determins whether will paper be parsed by parts
