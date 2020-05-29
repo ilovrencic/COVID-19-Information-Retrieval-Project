@@ -12,7 +12,10 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
-\title{COVID-19 information retrieval system}
+\title{
+Search less, research more!\\
+Improving information retrieval in the face of covid-19\\
+}
 
 \name{Mario Šaško, Ivan Lovrenčić, Nikola Buhiniček}
 
@@ -35,15 +38,21 @@ As the persistent COVID-19 outbreak transforms the world, scientists are vigorou
 
 In the last days of 2019, numerous reports about the previously-unknown virus have appeared in Wuhan, China. Not even a few weeks after that, the World Health Organization (WHO) started alerting about a seeming global health crisis. Six months later, the highly-infectious novel Sars-Cov-2 virus has infected more than five million people and more than 340,000 people have died. Furthermore, researchers believe that this emergency will not cease until there is a viable cure, and, naturally, as a part of the global response to find it, researchers are publishing more papers than ever. However, from that arose another challenge. There is now an abundance of research papers being published, and researchers are keen to find a way to retrieve only the most prominent ones to save some valuable time.
 
-To help researchers, the White House and the coalition of leading research groups came up with an initiative to prepare the COVID-19 Open Research Dataset (CORD-19). The dataset contains over 128,000 scholarly articles about the on-going pandemics. This freely available dataset is given to the global research community in order to apply natural language processing (NLP) and other AI techniques, that could give us a better understanding of the Sars-CoV-2 virus and, sequentially, help scientists find the most relevant research about the on-going pandemic.
+To help researchers, the White House and the coalition of leading research groups came up with an initiative to prepare the COVID-19 Open Research Dataset (\emph{CORD-19}\footnote{\texttt{https://bit.ly/2ZMyMTZ}}). The dataset contains over 128,000 scholarly articles about the on-going pandemics. This freely available dataset is given to the global research community in order to apply natural language processing (NLP) and other AI techniques, that could give us a better understanding of the Sars-CoV-2 virus and, sequentially, help scientists find the most relevant research about the on-going pandemic.
 
-To contribute, we have decided to develop our IR model. The main intention of our approach was to allow researchers to obtain the most relevant papers based on their query input. To achieve that, we have used a stratified model, that through each level, filters and ranks papers based on their query relevance.  The model starts with a biomedical named entity recognition (BioNER) to filter out papers that are not related to the current query. Furthermore, the model proceeds by utilizing the word (word2vec) and document (doc2vec) level embeddings to determine the remaining papers' significance rank. In the end, we are left with a list of query-related papers, which are sorted based on their relevance score.
+To contribute, we have decided to develop our IR model. The main intention of our approach was to allow researchers to obtain the most relevant papers based on their query input. To achieve that, we have used a stratified model, that through each level, filters and ranks papers based on their query relevance.  The model starts with a biomedical named entity recognition (BioNER) to filter out papers that are not related to the current query. Furthermore, the model proceeds by utilizing the word (word2vec) and document (doc2vec) level embeddings to determine the remaining papers significance rank. In the end, we are left with a list of query-related papers, which are sorted based on their relevance score.
 
 In the following section, we will discuss the approaches of other highly-ranked proposed solutions and compare them to our own. Furthermore, in section 3., we are going to describe our proposal in detail, including each level of our final model. Moreover, in section 4., we will talk more about evaluation and results.  We had challenges in the evaluation part, as it was hard to evaluate the significance of the research paper from the domain we are not experts. Lastly, we finish with a conclusion and ideas for future work.
 
 \section{Related work}
 
-In scientific papers, this section usually (but not necessarily) briefly describes the related research and what makes the presented approach different from it.
+The mentioned CORD-19 dataset came along with a series of coronavirus related \emph{tasks}\footnote{\texttt{https://bit.ly/3gyyaHv}} and so far there has been over 1,400 submissions. There could be an article written about each of those solutions, but we will only shortly cover the approaches of few most accepted ones.
+
+The officially accepted submission for this problem is actually using only paper abstracts for relevance determination. The query is processed into keywords which are stemmed and concatenated with corona related terms (covid, cov, -cov, hcov). Then the papers are filtered by checking if the abstract contains all of the queried words and at least one corona related term. Later on, for the remaining papers, relevance scores are calculated based on the keyword counts and the length of the abstract. Based on our work and the issues we encountered, the decision to use only abstracts for retrieval isn't justifiable. Our model is utilising more of the available data, weighting parts of papers differently and not relying just on the short summaries.
+
+There is a different approach, also highly rated, that turned to a probabilistic IR model, BM25, using it along with document embeddings. They are using the BM25 search index, created from paper abstracts, as their base and boosting the performance with an Annoy index made out of 786 dimensional Specter Vectors, which represent document embeddings. This is just one of many submissions that is using some level of embeddings while we decided to use both word and document embeddings to get a better insight. Alongside with embeddings, another often used NLP tool is named entity recognition (NER). To adapt more to the task, we used BioNER, a specialised NER for entities commonly searched in this scientific domain.
+
+Another acclaimed solution is more machine learning oriented. They are relying on the article body which they parse using NLP. Each document is then turned into a vector, based on TF-IDF, and the rest of work is done by applying k-means clustering. Our model though, isn't going into ML but there are plenty of ML approaches for this task which is worth mentioning.
 
 \subsection{First subsection}
 \label{sec:first}
@@ -67,14 +76,6 @@ The paper should have a minimum of 3 and a maximum of 4 pages, plus an additiona
 \subsection{Figures}
 
 Here is an example on how to include figures in the paper. Figures are included in \LaTeX{} code immediately \textit{after} the text in which these figures are referenced. Allow \LaTeX{} to place the figure where it believes is best (usually on top of the page of at the position where you would not place the figure). Figures are referenced as follows: ``Figure~\ref{fig:figure1} shows \dots''. Use tilde (\verb.~.) to prevent separation between the word ``Figure'' and its enumeration.
-
-\begin{figure}
-\begin{center}
-\includegraphics[width=\columnwidth]{drawing.pdf}
-\caption{This is the figure caption. Full sentences should be followed with a dot. The caption should be placed \textit{below} the figure. Caption should be short; details should be explained in the text.}
-\label{fig:figure1}
-\end{center}
-\end{figure}
 
 \subsection{Tables}
 
