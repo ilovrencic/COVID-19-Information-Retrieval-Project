@@ -60,7 +60,7 @@ As mentioned in Section 1, we use the CORD-19 dataset to evaluate the model. The
 
 In order to measure the model performance, we sample the dataset and obtain 95 articles. Next, these articles are annotated as relevant or irrelevant with 3x coverage, according to the query. Finally, the majority agreement is used to define gold-standard labels.  
 
-During preprocessing, the aforementioned JSON fields are concatenated and tokenized using spaCy, an advanced natural language processing library. Then, the input is lowercased and passed to the model. The same steps are applied when working with the baselines.
+During preprocessing, the aforementioned JSON fields are concatenated and tokenized using spaCy, an advanced natural language processing library. Then, the input is lowercased and passed to the model. The same steps, with additional removal of stop words, are applied when working with the baselines.
 
 \section{Baselines}
 
@@ -195,7 +195,7 @@ Note that our ultimate goal is to prove that a domain-specific model should be c
 
 As part of future work, we would like to increase the volume of the sample dataset. This would allow us to validate our results statistically. Additionally, when annotating articles we would like to use expert knowledge and greater coverage. Lastly, the comparison with deep learning approaches would be beneficial.
 
-OVO OSTAVLJAM KAO PODSJETNIK. Conclusion is the last enumerated section of the paper. It should not exceed half of a column and is typically split into 2--3 paragraphs. No new information should be presented in the conclusion; this section only summarizes and concludes the paper.
+OVO OSTAVLJAM KAO PODSJETNIK.Conclusion is the last enumerated section of the paper. It should not exceed half of a column and is typically split into 2--3 paragraphs. No new information should be presented in the conclusion; this section only summarizes and concludes the paper.
 
 \section*{Acknowledgements}
 
