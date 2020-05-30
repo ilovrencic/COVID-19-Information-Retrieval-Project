@@ -54,6 +54,20 @@ There is a different approach, also highly rated, that turned to a probabilistic
 
 Another acclaimed solution is more machine learning oriented. They are relying on the article body which they parse using NLP. Each document is then turned into a vector, based on TF-IDF, and the rest of work is done by applying k-means clustering. Our model though, isn't going into ML but there are plenty of ML approaches for this task which is worth mentioning.
 
+\section{Dataset}
+
+As mentioned in Section 1, we use the CORD-19 dataset to evaluate the model. The dataset contains over 134,000 scholarly articles with approximately half of them being related to COVID-19. Out of the total number, 29315 articles are presented as a full-text JSON. In the task, we focus on fields title, abstract and body and discard the rest, which aligns with our assumption that these fields are the most important ones.
+
+In order to measure the model performance, we sample the dataset and obtain 95 articles. Next, these articles are annotated as relevant or irrelevant with 3x coverage, according to the query. Finally, the majority agreement is used to define gold-standard labels.  
+
+During preprocessing, the aforementioned JSON fields are concatenated and tokenized using spaCy, an advanced natural language processing library. Then, the input is lowercased and passed to the model. The same steps are applied when working with the baselines.
+
+\section{Baselines}
+
+We use two baselines to validate the performance of our model. Both models are part of Apache Lucene, a high-performance search engine library.
+
+
+
 \subsection{First subsection}
 \label{sec:first}
 
