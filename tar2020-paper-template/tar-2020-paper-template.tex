@@ -66,7 +66,9 @@ During preprocessing, the aforementioned JSON fields are concatenated and tokeni
 
 We use two baselines to validate the performance of our model. Both models are part of Apache Lucene, a high-performance search engine library.
 
+The first one of them, an unigram Language Model, builds one probabilistic model per article in collection. Then for each article, the model outputs the probability of a query belonging to it. We sort these probabilities to obtain the final relevance ranking. To make predictions more robust, the model relies on Bayesian smoothing with Dirichlet priors \citep{zhai2004study}.
 
+As our second baseline model, we use a BM25 Okapi ranking function \citep{robertson1995okapi}. The ranking function weighs query terms according to an advanced TF-IDF weighting scheme. Since this is the only function from BM family that properly scores longer articles, we don't consider other variants. Additionaly, the same sorting procedure that is used with the LM model is applied to the function output. 
 
 \subsection{First subsection}
 \label{sec:first}
@@ -187,7 +189,13 @@ All of this is automatically produced when using BibTeX. Insert all the BibTeX e
 
 \section{Conclusion}
 
-Conclusion is the last enumerated section of the paper. It should not exceed half of a column and is typically split into 2--3 paragraphs. No new information should be presented in the conclusion; this section only summarizes and concludes the paper.
+In this paper, we present a novel task-specific model for the query-relevance ranking of the CORD-19 articles. The model combines a biomedical named entity recognition with word- and document-level embeddings to determine the relevance score of each article. We use a LM model and a BM25 ranking function as baselines, which our model outperforms on the sample dataset.
+
+Note that our ultimate goal is to prove that a domain-specific model should be considered when tackling IR tasks.
+
+As part of future work, we would like to increase the volume of the sample dataset. This would allow us to validate our results statistically. Additionally, when annotating articles we would like to use expert knowledge and greater coverage. Lastly, the comparison with deep learning approaches would be beneficial.
+
+OVO OSTAVLJAM KAO PODSJETNIK. Conclusion is the last enumerated section of the paper. It should not exceed half of a column and is typically split into 2--3 paragraphs. No new information should be presented in the conclusion; this section only summarizes and concludes the paper.
 
 \section*{Acknowledgements}
 
