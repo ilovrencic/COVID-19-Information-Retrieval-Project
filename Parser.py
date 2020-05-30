@@ -11,6 +11,7 @@ class Dataset(Enum):
 	COMMON = BASE_URL + "comm_use100/"
 	NONCOMMON = BASE_URL + "noncomm_use100/"
 	TEST = BASE_URL + "test_data/"
+	FINAL = BASE_URL + "final/"
 
 #Custom exception if the dataset isn't provided
 class NoDatasetDefinedException(Exception):
