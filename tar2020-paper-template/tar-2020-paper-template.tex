@@ -75,7 +75,7 @@
 	
 	For our final model, we decided on a stratified structure model. We aimed to make a system where we would have the ability to add and remove layers without a lot of effort. Moreover, we wanted to have a continuous flow of data through the model, allowing us to evaluate the model at each layer. Figure~\ref{figure:model1} nicely illustrates the layered structure we have applied. 
 	
-	Beside distinctive system structure, our approach differs, from other submissions, in another regard. Specifically, we utilized every part of the paper, as opposed to most others, where they used only the abstract. In our experiments, we have noticed that having additional data, like title or body, can make a significant difference. Consequently, we have implemented a system where each part of the paper will be treated individually. 
+	Beside distinctive system structure, our approach differs, from other submissions, in another regard. Specifically, we utilized every part of the paper, as opposed to most , where they used only the abstract. In our experiments, we have noticed that having additional data, like title or body, can make a significant difference. Consequently, we have implemented a system where each part of the paper will be treated individually. 
 	
 	As we can notice in Figure \ref{figure:approach}, we split our input data into three parts. Then, we pass those parts through each layer of our model. Furthermore, we sum the individual scores and calculate the average. Now, it should be noted that we repeat this process at each layer and not only at the end of the model. We use this output as the customized relevance score, which we are updating with every layer.  Lastly, the model completes with a sorted list of papers, based on the mentioned customized relevance score.
 	
@@ -101,7 +101,7 @@
 	
 	BioNER is a robust NLP tool that acquires solely biomedical phrases from the given document \citep{wang2019cross}.  In our case, we applied it to extract the relevant biomedical keywords from queries and papers.  Once we obtained the keywords, we matched query keywords to the corresponding keywords from title, abstract, and body. However, we would not treat every match identically. Specifically, as we can notice from Figure \ref{figure:approach}, the final scores are multiplied with a specific hyperparameter.  Those hyperparameters were optimized specifically for this particular task, as they were used to give advantage to more significant parts of the paper.
 	
-	Moreover, we also applied BioNER to obtain precise keywords that should not be in the relevant papers. For example, some papers from the dataset are referring to the Sars-CoV-1, the past virus that caused an epidemic in 2003. In these situations, we want to find those phrases and appropriately correct the paper's relevance score. Without this, it was effectively impossible to differentiate between relevant and used to be related papers, as those past papers usually include a great deal of related keywords.
+	Moreover, we also applied BioNER to obtain precise keywords that should not be in the relevant papers. For example, some papers from the dataset are referring to the Sars-CoV-1, the past virus that caused an epidemic in 2003. In these situations, we want to find those phrases and appropriately correct the paper's relevance score. Without this, it was effectively impossible to differentiate between relevant and previously relevant papers, as those past papers usually include a great deal of currently relevant keywords.
 	
 	\subsection{Word2vec}
 	
@@ -113,15 +113,15 @@
 	
 In the context of the on-going pandemic, word2vec has one prominent impediment. Namely, the issue stems from the fact that most of the terminology from the current pandemic is new. Consequently, most of those new terms, like COVID-19, are not in the word2vec vocabulary, hence the overall accuracy of word2vec representations will be worse. To solve that, we added a layer of document embeddings (doc2vec). 
 
-To build vector representations of individual papers, we have to train the doc2vec model on our dataset \cite{le2014distributed}. However, in our case, the model is exclusively trained on a subset that the prior layers listed relevant. In other words, vector representations are produced only for documents that have been named relevant by bioNER and word2vec layers. Therefore, this layer is a reinforcement layer, that will adjust the ranks, and potentially correct any irregularities in the relevance scores.
+To build vector representations of individual papers, we have to train the doc2vec model on our dataset \cite{le2014distributed}. However, in our case, the model is exclusively trained on a subset that the prior layers listed relevant. In other words, vector representations are produced only for documents that have been named relevant by BioNER and word2vec layers. Therefore, this layer is a reinforcement layer, that will adjust the ranks, and potentially correct any irregularities in the relevance scores.
 
 \subsection{Hyperparamters}
 
-As previously stated, our model performance massively relies on three hyperparameters. We added those parameters because we noticed that specific sections of the paper bring much more weight than others. 
+As previously stated, our model performance massively relies on three hyperparameters. We added those parameters because we noticed that specific sections of the paper bring much more weight than the others. 
 
-For starters, we discerned that matching keywords in a title considerably increased our chances of guessing the relevant paper. However, papers that contain query words in the title are rare. Therefore, we added two more hyperparameters that would reward matched keywords in the abstract and the body. 
+First, we discerned that matching keywords in a title considerably increased our chances of guessing the relevant paper. However, papers that contain query words in the title are rare. Therefore, we added two more hyperparameters that would reward matched keywords in the abstract and the body. 
 
-After numerous optimization attempts, the hyperparameters converged into the following values: $\alpha = 2.5$, $\beta = 1.5$ and $\gamma = 1$. As we can see in Figure \ref{figure:approach}, the title has the biggest value, which implies that the title carries the most significant amount of information about the relevance of the paper. Sequentially, we see that the abstract is second and that words from the body carry the least amount of weight.
+After numerous optimization attempts, the hyperparameters converged into the following values: $\alpha = 2.5$, $\beta = 1.5$ and $\gamma = 1$. As we can see, the title's hyperparameter has the biggest value, which implies that the title carries the most significant amount of information about the relevance of the paper. Sequentially, we see that the abstract is second and that words from the body carry the least amount of weight.
 
 
 	
@@ -164,6 +164,8 @@ After numerous optimization attempts, the hyperparameters converged into the fol
 			\end{tabular}
 		\end{center}
 	\end{table}
+
+
 	
 	\section{Conclusion}
 	
