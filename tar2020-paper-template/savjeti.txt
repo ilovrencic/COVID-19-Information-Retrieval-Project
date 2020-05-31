@@ -1,0 +1,14 @@
+Abstract
+- izmijenio bih ovaj dio da govori o covidu ali ne u sadasnjem kontekstu, za slucaj da neko cita paper kasnije,
+jer cim zavrsi kriza abstract koji govori u sadasnjem vremenu je outdated
+    - tipa ja bih zapoceo kak nas je covid 19 kriza naucila da je kljucna brza reakcija znanstvene zajednice
+    da bi se sprijecile teze posljedice, i onda ovo dalje kak pise u abstract mi se cini ok
+
+Introduction
+- mozda ovaj "povijesni dio" o covidu skratiti, jer je ipak to research paper
+- dio u vezi dataseta - samo bih spomenuo dataset i ovo u vezi white housea, ovaj dio o broju artikala
+se spominje u poglavlju Dataset gdje ima vise smisla pa bih to maknuo iz introductiona
+- updatati zadnji paragraf koji opisuje poglavlja?
+
+Related work
+-

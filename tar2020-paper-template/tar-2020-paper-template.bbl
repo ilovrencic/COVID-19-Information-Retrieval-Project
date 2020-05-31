@@ -1,0 +1,42 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Le and Mikolov}2014]{le2014distributed}
+Quoc Le and Tomas Mikolov.
+\newblock 2014.
+\newblock Distributed representations of sentences and documents.
+\newblock In {\em International conference on machine learning}, pages
+  1188--1196.
+
+\bibitem[\protect\citename{Mikolov \bgroup et al.\egroup
+  }2013]{mikolov2013distributed}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeff Dean.
+\newblock 2013.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3111--3119.
+
+\bibitem[\protect\citename{Robertson \bgroup et al.\egroup
+  }1995]{robertson1995okapi}
+Stephen~E Robertson, Steve Walker, Susan Jones, Micheline~M Hancock-Beaulieu,
+  Mike Gatford, et~al.
+\newblock 1995.
+\newblock Okapi at trec-3.
+\newblock {\em Nist Special Publication Sp}, 109:109.
+
+\bibitem[\protect\citename{Wang \bgroup et al.\egroup }2019]{wang2019cross}
+Xuan Wang, Yu~Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang,
+  Curtis Langlotz, and Jiawei Han.
+\newblock 2019.
+\newblock Cross-type biomedical named entity recognition with deep multi-task
+  learning.
+\newblock {\em Bioinformatics}, 35(10):1745--1752.
+
+\bibitem[\protect\citename{Zhai and Lafferty}2004]{zhai2004study}
+Chengxiang Zhai and John Lafferty.
+\newblock 2004.
+\newblock A study of smoothing methods for language models applied to
+  information retrieval.
+\newblock {\em ACM Transactions on Information Systems (TOIS)}, 22(2):179--214.
+
+\end{thebibliography}
