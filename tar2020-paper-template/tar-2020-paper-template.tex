@@ -56,7 +56,7 @@ Another acclaimed solution is more machine learning oriented. They are relying o
 
 \section{Dataset}
 
-As mentioned in Section 1, we use the CORD-19 dataset to evaluate the model. The dataset contains over 134,000 scholarly articles with approximately half of them being related to COVID-19. Out of the total number, 29315 articles are presented as a full-text JSON. In the task, we focus on fields title, abstract and body and discard the rest, which aligns with our assumption that these fields are the most important ones.
+As mentioned in Section 1., we use the CORD-19 dataset to evaluate the model. The dataset contains over 134,000 scholarly articles with approximately half of them being related to COVID-19. Out of the total number, 29315 articles are presented as a full-text JSON. In the task, we focus on fields title, abstract and body and discard the rest, which aligns with our assumption that these fields are the most important ones.
 
 In order to measure the model performance, we sample the dataset and obtain 95 articles. Next, these articles are annotated as relevant or irrelevant with 3x coverage, according to the query. Finally, the majority agreement is used to define gold-standard labels.  
 
@@ -69,6 +69,46 @@ We use two baselines to validate the performance of our model. Both models are p
 The first one of them, an unigram Language Model, builds one probabilistic model per article in collection. Then for each article, the model outputs the probability of a query belonging to it. We sort these probabilities to obtain the final relevance ranking. To make predictions more robust, the model relies on Bayesian smoothing with Dirichlet priors \citep{zhai2004study}.
 
 As our second baseline model, we use a BM25 Okapi ranking function \citep{robertson1995okapi}. The ranking function weighs query terms according to an advanced TF-IDF weighting scheme. Since this is the only function from BM family that properly scores longer articles, we don't consider other variants. Additionaly, the same sorting procedure that is used with the LM model is applied to the function output. 
+
+\section{Results}
+
+Two COVID-19-related queries are defined to evaluate the model. For each query, the model assigns relevance scores according to which the ranking of the articles is formed. Since the resulting list contains each article from the sample dataset without the cutoff, only IR-related metrics are used. Due to the volume of the annotated data, the results are not statistically tested. 
+
+The results in Table~\ref{tab:query1} show system performance for the query \textit{What is known about Covid-19 transmission}. Reasonably high R-precision denotes that our model, as well as the baselines, is confident in the relevance of the highest-scoring articles. Furthermore, we assume that by utilizing the word- and document-level embeddings, the model has a chance to infer more subtle similarities between a query and an article which leads to notably higher precision at 15 and average precision. Traditional term-frequency-based approaches fail in such situations.
+
+Similarly, the results for the query \textit{What is known about Covid-19 transmission} are in Table~\ref{tab:query2}. This time our model outperforms the baselines in the ranking of 5 highest-scoring articles. Even higher average precision than in previous case signals that the model, compared to the baselines, ranks relevant articles more consistently and closer to each other.
+
+\begin{table}
+\caption{Comparison of performance for the query \textit{What is known about about Covid-19 transmission}.}
+\label{tab:query1}
+\begin{center}
+\begin{tabular}{lccccc}
+\toprule
+Model & P@5 & P@10 & P@15 & R-Prec & AveP \\
+\midrule
+LM & 0.80 & 0.60 & 0.47 & 0.67 & 0.69  \\
+BM25 & 0.80 & 0.70 & 0.47 & \textbf{0.78} & 0.70 \\
+Our Model & 0.80 & 0.70 & \textbf{0.60} & 0.67 & \textbf{0.84} \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}
+\caption{Comparison of performance for the query \textit{What is known about about Covid-19 incubation}.}
+\label{tab:query2}
+\begin{center}
+\begin{tabular}{lccccc}
+\toprule
+Model & P@5 & P@10 & P@15 & R-Prec & AveP \\
+\midrule
+LM & 0.60 & 0.50 & 0.33 & 0.60 & 0.64 \\
+BM25 & 0.40 & 0.50 & 0.33 & 0.40 & 0.55 \\
+Our Model & \textbf{0.80} & 0.50 & 0.33 & \textbf{0.80} & \textbf{0.97} \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
 
 \subsection{First subsection}
 \label{sec:first}

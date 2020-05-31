@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.29)  30 MAY 2020 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.29)  31 MAY 2020 11:44
 entering extended mode
 **./tar-2020-paper-template.tex
 (tar-2020-paper-template.tex
@@ -285,23 +285,19 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
 ]
 
-LaTeX Warning: Reference `fig:figure1' on page 2 undefined on input line 94.
+LaTeX Warning: Reference `fig:figure1' on page 2 undefined on input line 134.
 
 [2]
-Underfull \hbox (badness 2573) in paragraph at lines 188--189
+Underfull \hbox (badness 2573) in paragraph at lines 228--229
 []\OT1/ptm/m/n/10 All of this is au-to-mat-i-cally pro-duced when us-ing
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 188--189
+Underfull \hbox (badness 3168) in paragraph at lines 228--229
 \OT1/ptm/m/n/10 Bib-TeX. In-sert all the Bib-TeX en-tries into the file
  []
 
-
-Overfull \vbox (1.65727pt too high) has occurred while \output is active []
-
-
-(tar-2020-paper-template.bbl [3]) [4
+[3] (tar-2020-paper-template.bbl) [4
 
 ] (tar-2020-paper-template.aux)
 
@@ -309,10 +305,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2849 strings out of 492452
- 38642 string characters out of 3120063
- 109193 words of memory out of 3000000
- 7143 multiletter control sequences out of 15000+200000
+ 2851 strings out of 492452
+ 38666 string characters out of 3120063
+ 110209 words of memory out of 3000000
+ 7145 multiletter control sequences out of 15000+200000
  27179 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,13n,31p,905b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -331,7 +327,7 @@ ype1/urw/courier/ucrr8a.pfb><C:/Users/Mario/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/urw/times/utmb8a.pfb><C:/Users/Mario/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Mario/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tar-2020-paper-template.pdf (4 pages, 153912 bytes).
+Output written on tar-2020-paper-template.pdf (4 pages, 156068 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
