@@ -60,11 +60,11 @@ As mentioned in Section 1., we use the CORD-19 dataset to evaluate the model. Th
 
 In order to measure the model performance, we sample the dataset and obtain 95 articles. Next, these articles are annotated as relevant or irrelevant with 3x coverage, according to the query. Finally, the majority agreement is used to define gold-standard labels.  
 
-During preprocessing, the aforementioned JSON fields are concatenated and tokenized using spaCy, an advanced natural language processing library. Then, the input is lowercased and passed to the model. The same steps, with additional removal of stop words, are applied when working with the baselines.
+During preprocessing, the aforementioned JSON fields are concatenated and tokenized using \emph{spaCy}\footnote{\texttt{https://bit.ly/3gEuDYp}}, an advanced natural language processing library. Then, the input is lowercased and passed to the model. The same steps, with additional removal of stop words, are applied when working with the baselines.
 
 \section{Baselines}
 
-We use two baselines to validate the performance of our model. Both models are part of Apache Lucene, a high-performance search engine library.
+We use two baselines to validate the performance of our model. Both models are part of \emph{Apache Lucene}\footnote{\texttt{https://bit.ly/3ezPxWF}}, a high-performance search engine library.
 
 The first one of them, an unigram Language Model, builds one probabilistic model per article in collection. Then for each article, the model outputs the probability of a query belonging to it. We sort these probabilities to obtain the final relevance ranking. To make predictions more robust, the model relies on Bayesian smoothing with Dirichlet priors \citep{zhai2004study}.
 
@@ -74,12 +74,12 @@ As our second baseline model, we use a BM25 Okapi ranking function \citep{robert
 
 Two COVID-19-related queries are defined to evaluate the model. For each query, the model assigns relevance scores according to which the ranking of the articles is formed. Since the resulting list contains each article from the sample dataset without the cutoff, only IR-related metrics are used. Due to the volume of the annotated data, the results are not statistically tested. 
 
-The results in Table~\ref{tab:query1} show system performance for the query \textit{What is known about Covid-19 transmission}. Reasonably high R-precision denotes that our model, as well as the baselines, is confident in the relevance of the highest-scoring articles. Furthermore, we assume that by utilizing the word- and document-level embeddings, the model has a chance to infer more subtle similarities between a query and an article which leads to notably higher precision at 15 and average precision. Traditional term-frequency-based approaches fail in such situations.
+The results in Table~\ref{tab:query1} show system performance for the query \emph{What is known about Covid-19 transmission}. Reasonably high R-precision denotes that our model, as well as the baselines, is confident in the relevance of the highest-scoring articles. Furthermore, we assume that by utilizing the word- and document-level embeddings, the model has a chance to infer more subtle similarities between a query and an article which leads to notably higher precision at 15 and average precision. Traditional term-frequency-based approaches fail in such situations.
 
-Similarly, the results for the query \textit{What is known about Covid-19 transmission} are in Table~\ref{tab:query2}. This time our model outperforms the baselines in the ranking of 5 highest-scoring articles. Even higher average precision than in previous case signals that the model, compared to the baselines, ranks relevant articles more consistently and closer to each other.
+Similarly, the results for the query \emph{What is known about Covid-19 incubation} are in Table~\ref{tab:query2}. This time our model outperforms the baselines in the ranking of 5 highest-scoring articles. Even higher average precision than in previous case signals that the model, compared to the baselines, ranks relevant articles more consistently and closer to each other.
 
 \begin{table}
-\caption{Comparison of performance for the query \textit{What is known about about Covid-19 transmission}.}
+\caption{Comparison of performance for the query \emph{What is known about about Covid-19 transmission}.}
 \label{tab:query1}
 \begin{center}
 \begin{tabular}{lccccc}
@@ -95,7 +95,7 @@ Our Model & 0.80 & 0.70 & \textbf{0.60} & 0.67 & \textbf{0.84} \\
 \end{table}
 
 \begin{table}
-\caption{Comparison of performance for the query \textit{What is known about about Covid-19 incubation}.}
+\caption{Comparison of performance for the query \emph{What is known about about Covid-19 incubation}.}
 \label{tab:query2}
 \begin{center}
 \begin{tabular}{lccccc}
