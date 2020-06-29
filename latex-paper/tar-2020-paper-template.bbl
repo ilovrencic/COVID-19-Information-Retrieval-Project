@@ -1,5 +1,15 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citename{Cohan \bgroup et al.\egroup
+  }2020]{cohan-etal-2020-specter}
+Arman Cohan, Sergey Feldman, Iz~Beltagy, Doug Downey, and Daniel Weld.
+\newblock 2020.
+\newblock {SPECTER}: Document-level representation learning using
+  citation-informed transformers.
+\newblock In {\em Proceedings of the 58th Annual Meeting of the Association for
+  Computational Linguistics}, pages 2270--2282, Online, July. Association for
+  Computational Linguistics.
+
 \bibitem[\protect\citename{Le and Mikolov}2014]{le2014distributed}
 Quoc Le and Tomas Mikolov.
 \newblock 2014.
