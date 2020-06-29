@@ -37,27 +37,27 @@
 	\section{Introduction}
 	
 	In the last days of 2019, numerous reports about the previously-unknown virus have appeared in Wuhan, China. Not even a few weeks after that, the World Health Organization (WHO) started alerting about a seeming global health crisis. Six months later, the highly-infectious novel Sars-Cov-2 virus has infected more than five million people and more than 340,000 people have died. Furthermore, researchers believe that this emergency will not cease until there is a viable cure, and, naturally, as a part of the global response to find it, researchers are publishing more papers than ever. However, from that arose another challenge. There is now an abundance of research papers being published, and researchers are keen to find a way to retrieve only the most prominent ones to save some precious time.
-	
-	To help researchers, the White House and the coalition of leading research groups came up with an initiative to prepare the COVID-19 Open Research Dataset (\emph{CORD-19}).\footnote{\texttt{https://www.kaggle.com/allen-institute\\-for-ai/CORD-19-research-challenge}} This accessible dataset was given to the global research community to apply various natural language processing (NLP) and machine learning (ML) techniques. These methods could give us a better understanding of the Sars-CoV-2 virus and, sequentially, help scientists find the most relevant research about the on-going pandemic.
-	
+
+	To help researchers, the White House and the coalition of leading research groups came up with an initiative to prepare the COVID-19 Open Research Dataset (\emph{CORD-19}).\footnote{\texttt{https://www.kaggle.com/allen-institute\\-for-ai/CORD-19-research-challenge}} This accessible dataset was given to the global research community to apply various natural language processing (NLP) and machine learning (ML) techniques. These methods could help scientists ﬁnd the most relevant research about the on-going pandemic and, consequently, give us a better understanding of the Sars-CoV-2 virus.
+
 	To contribute, we have decided to develop our IR model. The main intention of our approach was to allow researchers to obtain the most relevant papers based on their query input. To achieve that, we have used a stratified model, that through each level, filters and ranks papers based on their query relevance.  The model starts with a biomedical named entity recognition (BioNER) to filter out papers that are not related to the current query. Furthermore, the model proceeds by utilizing the word (word2vec) and document (doc2vec) level embeddings to determine the remaining papers significance rank. In the end, we are left with a list of query-related papers, which are sorted based on their relevance score.
-	
-	In the following section, we will discuss the approaches of other highly-ranked proposed solutions and compare them to our own. Furthermore, in section 3., we will explain how we used the given CORD-19 dataset for evaluation of our model, which will be in detail explained in section 4. Moreover, in section 5., we will talk more about evaluation and results.  We had challenges in the evaluation part, as it was hard to evaluate the significance of the research papers from the domain we are not experts. Lastly, we finish with a conclusion and ideas for future work.
-	
+
+	In the following section, we will discuss the approaches of other highly-ranked proposed solutions and compare them to our own. Furthermore, in Section 3., we will explain how we used the given CORD-19 dataset for evaluation of our model, which will be explained in detail in Section 4. Moreover, in Section 5., we will talk more about evaluation and results.  We had challenges in the evaluation part, as it was hard to evaluate the significance of the research papers from the domain we are not experts. Lastly, we finish with a conclusion and ideas for future work.
+
 	\section{Related work}
-	
-	The mentioned CORD-19 dataset came along with a series of coronavirus related \emph{tasks}\footnote{\texttt{https://www.kaggle.com/allen-institute\\-for-ai/CORD-19-research-challenge/tasks}} and so far there has been over 1,400 submissions. The task we have chosen is related to the queries about the transmission and incubation of the novel Sars-Cov-2 virus.
-	
-	In that task, the officially accepted submission is using only paper abstracts for relevance determination. Firstly, the query is being preprocessed into keywords, which are then stemmed and concatenated with COVID-19 related terms (covid, cov, -cov, hcov). Furthermore, they filter the papers by checking whether the abstract contains all of the queried keywords and at least one COVID-19 related term. 
-	
+
+	The mentioned CORD-19 dataset came along with a series of coronavirus related tasks and so far there has been over 1,400 submissions. The task we have chosen is related to the queries about the transmission and incubation of the novel Sars-Cov-2 virus.
+
+	In that task, the officially accepted \emph{submission}\footnote{\texttt{https://www.kaggle.com/mlconsult/\\transmission-incubation-and-environment-2-0}} is using only paper abstracts for relevance determination. Firstly, the query is being preprocessed into keywords, which are then stemmed and concatenated with COVID-19 related terms (covid, cov, -cov, hcov). Furthermore, they filter the papers by checking whether the abstract contains all of the queried keywords and at least one COVID-19 related term.
+
 	In most of the remaining submissions, researchers calculated the relevance scores based on the keyword counts and the length of only the abstract part. However, based on our research and the impressions we encountered, the decision to use only abstracts is not justifiable and is rather wasteful. Our model utilizes more of the available data by weighting parts of papers differently, and not relying just on the short summaries.
-	
-	On the other hand, we have a highly rated probabilistic approach, where researchers often used a BM25 model, along with document embeddings. In those kinds of submission, they use the BM25 search index, created only from paper abstracts, as their base and boosting the performance with an Annoy index made out of 786 dimensional Specter Vectors, which represents document embeddings. In contrast to those submissions, we have decided to utilize both word and document embeddings to get an even better insight. 
-	
+
+	On the other hand, we have a highly rated probabilistic \emph{approach}\footnote{\texttt{https://www.kaggle.com/dgunning/cord-\\research-engine-search-and-similarity}}, where researchers often used a BM25 model, along with document embeddings. In those kinds of submission, they use the BM25 search index, created only from paper abstracts, as their base and boosting the performance with an Annoy index made out of 786 dimensional Specter Vectors \citep{cohan-etal-2020-specter}, which represents document embeddings. In contrast to those submissions, we have decided to utilize both word and document embeddings to get an even better insight.
+
 	Lastly, although our model does not explicitly utilize any of the ML tools, we thought to mention one of the approaches that accomplished notable results. In the stated paper, the researchers relied more on the article body, which they parse using various NLP tools. Furthermore, they turned document into a TF-IDF based vector, on which they apply the k-means clustering. In the end, they managed to cluster papers based on some surprising factors that could potentially shed more light on this mysterious virus and the data that we have about it. However, the approach itself did not produce a state-of-the-art result.
-	
+
 	\section{Dataset}
-	
+
 	As mentioned in Section 1, we use the CORD-19 dataset to evaluate the model. The dataset contains over 134,000 scholarly articles with approximately half of them being related to COVID-19. Out of the total number, 29315 articles are presented as a full-text JSON. In the task, we focus on fields title, abstract and body and discard the rest, which aligns with our assumption that these fields are the most important ones.
 	
 	In order to measure the model performance, we sample the dataset and obtain 95 articles. Next, we annotated these articles as relevant or irrelevant with 3x coverage, according to the query. Finally, the majority agreement is used to define gold-standard labels.  
@@ -166,15 +166,15 @@ After numerous optimization attempts, the hyperparameters converged into the fol
 	\end{table}
 
 
-	
+
 	\section{Conclusion}
-	
+
 	In this paper, we presented a novel task-specific model for the query-relevance ranking of the CORD-19 articles. The model combines a biomedical named entity recognition with word- and document-level embeddings to determine the relevance score of each article. We use a LM model and a BM25 ranking function as baselines, which our model outperforms on the sample dataset.
-	
+
 	Note that our ultimate goal is to prove that a domain-specific model should be considered when tackling IR tasks.
-	
+
 	As part of future work, we would like to increase the volume of the sample dataset. This would allow us to validate our results statistically. Additionally, when annotating articles we would like to use expert knowledge and greater coverage. Lastly, the comparison with deep learning approaches would be beneficial.
-	
+
 
 \bibliographystyle{tar2020}
 \bibliography{tar2020}
