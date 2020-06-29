@@ -13,8 +13,8 @@
 \usepackage{amssymb}
 
 \title{
-	Search less, research more: Improving information retrieval\\
-	in the face of COVID-19\\
+	Search Less, Research More: Improving Information Retrieval\\
+	in the Face of COVID-19\\
 }
 
 \name{Mario Šaško, Ivan Lovrenčić, Nikola Buhiniček}
@@ -44,7 +44,7 @@
 
 	In the following section, we will discuss the approaches of other highly-ranked proposed solutions and compare them to our own. Furthermore, in Section 3., we will explain how we used the given CORD-19 dataset for evaluation of our model, which will be explained in detail in Section 4. Moreover, in Section 5., we will talk more about evaluation and results.  We had challenges in the evaluation part, as it was hard to evaluate the significance of the research papers from the domain we are not experts. Lastly, we finish with a conclusion and ideas for future work.
 
-	\section{Related work}
+	\section{Related Work}
 
 	The mentioned CORD-19 dataset came along with a series of coronavirus related tasks and so far there has been over 1,400 submissions. The task we have chosen is related to the queries about the transmission and incubation of the novel Sars-Cov-2 virus.
 
@@ -58,9 +58,9 @@
 
 	\section{Dataset}
 
-	As mentioned in Section 1, we use the CORD-19 dataset to evaluate the model. The dataset contains over 134,000 scholarly articles with approximately half of them being related to COVID-19. Out of the total number, 29315 articles are presented as a full-text JSON. In the task, we focus on fields title, abstract and body and discard the rest, which aligns with our assumption that these fields are the most important ones.
+	As mentioned in Section 1., we use the CORD-19 dataset to evaluate the model. The dataset contains over 134,000 scholarly articles with approximately half of them being related to COVID-19. Out of the total number, 29315 articles are presented as a full-text JSON. In the task, we focus on fields title, abstract and body and discard the rest, which aligns with our assumption that these fields are the most important ones.
 	
-	In order to measure the model performance, we sample the dataset and obtain 95 articles. Next, we annotated these articles as relevant or irrelevant with 3x coverage, according to the query. Finally, the majority agreement is used to define gold-standard labels.  
+	In order to measure the model performance, we use a simple random sampling without replacement to sample the dataset and obtain 95 articles. Next, since we use 2 queries to evaluate the model, for each query separately, each article is annotated as relevant or irrelevant by 3 different annotators. Finally, the majority agreement is used to define gold-standard labels.  
 	
 	During preprocessing, the aforementioned JSON fields are concatenated and tokenized using \emph{spaCy}\footnote{\texttt{https://spacy.io/}}, an advanced natural language processing library. Then, the input is lowercased and passed to the model. The same steps, with additional removal of stop words, are applied when working with the baselines.
 	
@@ -71,11 +71,11 @@
 		\label{figure:model1}
 	\end{figure}
 	
-	\section{Our approach}
+	\section{Our Approach}
 	
 	For our final model, we decided on a stratified structure model. We aimed to make a system where we would have the ability to add and remove layers without a lot of effort. Moreover, we wanted to have a continuous flow of data through the model, allowing us to evaluate the model at each layer. Figure~\ref{figure:model1} nicely illustrates the layered structure we have applied. 
 	
-	Beside distinctive system structure, our approach differs, from other submissions, in another regard. Specifically, we utilized every part of the paper, as opposed to most , where they used only the abstract. In our experiments, we have noticed that having additional data, like title or body, can make a significant difference. Consequently, we have implemented a system where each part of the paper will be treated individually. 
+	Beside distinctive system structure, our approach differs from other submissions in another regard. Specifically, we utilized every part of the paper, as opposed to most, where they used only the abstract. In our experiments, we have noticed that having additional data, like title or body, can make a significant difference. Consequently, we have implemented a system where each part of the paper will be treated individually. 
 	
 	As we can notice in Figure \ref{figure:approach}, we split our input data into three parts. Then, we pass those parts through each layer of our model. Furthermore, we sum the individual scores and calculate the average. Now, it should be noted that we repeat this process at each layer and not only at the end of the model. We use this output as the customized relevance score, which we are updating with every layer.  Lastly, the model completes with a sorted list of papers, based on the mentioned customized relevance score.
 	
@@ -127,11 +127,11 @@ After numerous optimization attempts, the hyperparameters converged into the fol
 	
 	\section{Results}
 	
-	Two COVID-19-related queries are defined to evaluate the model. For each query, the model assigns relevance scores according to which the ranking of the articles is formed. Since the resulting list contains each article from the sample dataset without the cutoff, only IR-related metrics are used. Due to the volume of the annotated data, the results are not statistically tested. 
+	As mentioned in Section 3., two COVID-19-related queries are defined to evaluate the model. For each query, the model assigns relevance scores according to which the ranking of the articles is formed. Since the resulting list contains each article from the sample dataset without the cutoff, only IR-related metrics are used. Due to the volume of the annotated data, the results are not statistically tested. 
 	
 	The results in Table~\ref{tab:query1} show system performance for the query \textit{What is known about Covid-19 transmission}. Reasonably high R-precision denotes that our model, as well as the baselines, is confident in the relevance of the highest-scoring articles. Furthermore, we assume that by utilizing the word and document level embeddings, the model has a chance to infer more subtle similarities between a query and an article which leads to notably higher precision at 15 and average precision. Traditional term-frequency-based approaches fail in such situations.
 	
-	Similarly, the results for the query \textit{What is known about Covid-19 transmission} are in Table~\ref{tab:query2}. This time our model outperforms the baselines in the ranking of 5 highest-scoring articles. Even higher average precision than in previous case signals that the model, compared to the baselines, ranks relevant articles more consistently and closer to each other.
+	Similarly, the results for the query \textit{What is known about Covid-19 incubation} are in Table~\ref{tab:query2}. This time our model outperforms the baselines in the ranking of 5 highest-scoring articles. Even higher average precision than in previous case signals that the model, compared to the baselines, ranks relevant articles more consistently and closer to each other.
 	
 	\begin{table}
 		\caption{Comparison of performance for the query \textit{What is known about about Covid-19 transmission}.}
