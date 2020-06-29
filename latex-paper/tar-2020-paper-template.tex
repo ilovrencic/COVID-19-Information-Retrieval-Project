@@ -121,7 +121,14 @@ As previously stated, our model performance massively relies on three hyperparam
 
 First, we discerned that matching keywords in a title considerably increased our chances of guessing the relevant paper. However, papers that contain query words in the title are rare. Therefore, we added two more hyperparameters that would reward matched keywords in the abstract and the body. 
 
-After numerous optimization attempts, the hyperparameters converged into the following values: $\alpha = 2.5$, $\beta = 1.5$ and $\gamma = 1$. As we can see, the title's hyperparameter has the biggest value, which implies that the title carries the most significant amount of information about the relevance of the paper. Sequentially, we see that the abstract is second and that words from the body carry the least amount of weight.
+After numerous optimization attempts, the hyperparameters converged into the following values: $\alpha = 2.5$, $\beta = 1.5$ and $\gamma = 1$. As we can see, the title's hyperparameter has the biggest value, which implies that the title carries the most significant amount of information about the relevance of the paper. Sequentially, we see that the abstract is second and that words from the body carry the least amount of weight. We optimized hyperparameters by relying on our judgment of top $K$ papers that were retrieved. We settled with this empirical evaluation because we did not have time and resources to perform cross-validation on the annotated dataset.
+
+Lastly, we are going to discuss how to calculate relevance scores. Namely, there is a discrepancy in how we estimate relevance scores between layers and inside the individual layer. Specifically, as we can see in Equation 1., the relevance score in each layer is calculated by dividing the sum of individual parts by the factor of 3. Meanwhile, to calculate the new relevance score between layers, we average the current score and the score from the previous layer. 
+
+
+\begin{equation}
+Relevance = \frac{title*\alpha + abstract*\beta + body*\gamma}{3}
+\end{equation}
 
 
 	
